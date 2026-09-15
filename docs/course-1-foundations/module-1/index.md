@@ -10,9 +10,10 @@
 |---|---|:---:|:---:|
 | **Lesson 1.0** | Welcome to the Google PM Certificate (ကြိုဆိုနှုတ်ခွန်းဆက်) | ✅ ပြီးစီး | [ဖတ်ရှုရန်](/course-1-foundations/module-1/lesson-0-welcome-to-google-pm) |
 | **Lesson 1.1** | Program and Course Overview (သင်ရိုးဖွဲ့စည်းပုံ လမ်းညွှန်) | ✅ ပြီးစီး | [ဖတ်ရှုရန်](/course-1-foundations/module-1/lesson-1-program-and-course-overview) |
-| **Lesson 1.2** | What is Project Management? (ပရောဂျက် စီမံခန့်ခွဲမှုဆိုတာ ဘာလဲ) | ✅ ပြီးစီး | [ဖတ်ရှုရန်](/course-1-foundations/module-1/lesson-2-what-is-project-management) |
-| **Lesson 1.3** | The Project Manager's Role (PM တစ်ဦး၏ အခန်းကဏ္ဍ) | ⏳ မကြာမီ | - |
-| **Lesson 1.4** | Project Phases & Value Delivery | ⏳ မကြာမီ | - |
+| **Lesson 1.2** | Introduction to Course 1 (Course 1 မိတ်ဆက်) | ✅ ပြီးစီး | [ဖတ်ရှုရန်](/course-1-foundations/module-1/lesson-2-introduction-to-course-1) |
+| **Lesson 1.3** | What is Project Management? (ပရောဂျက် စီမံခန့်ခွဲမှုဆိုတာ ဘာလဲ) | ✅ ပြီးစီး | [ဖတ်ရှုရန်](/course-1-foundations/module-1/lesson-3-what-is-project-management) |
+| **Lesson 1.4** | The Project Manager's Role (PM တစ်ဦး၏ အခန်းကဏ္ဍ) | ⏳ မကြာမီ | - |
+| **Lesson 1.5** | Project Phases & Value Delivery | ⏳ မကြာမီ | - |
 
 ---
 
