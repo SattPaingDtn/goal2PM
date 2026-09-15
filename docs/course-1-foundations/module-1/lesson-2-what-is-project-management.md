@@ -1,4 +1,4 @@
-# Lesson 1.1: What is Project Management?
+# Lesson 1.2: What is Project Management?
 *(ပရောဂျက် စီမံခန့်ခွဲမှုဆိုတာ ဘာလဲ)*
 
 - **Course:** Google Project Management Certificate - Course 1: Foundations of Project Management
