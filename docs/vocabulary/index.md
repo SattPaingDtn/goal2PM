@@ -26,6 +26,11 @@ Google Project Management Certificate တွင် တွေ့ကြုံရ�
   - *မြန်မာပြန်:* ပရောဂျက်တစ်ခုတွင် အပိုဆောင်း တန်ဖိုးနှင့် အကျိုးရလဒ်များ ဖြည့်ဆည်းပေးခြင်း။
   - *သင်ခန်းစာ:* [Lesson 1.2](/course-1-foundations/module-1/lesson-2-introduction-to-course-1#၄-အင်္ဂလိပ်-ဝေါဟာရနှင့်-အသုံးအနှုန်းများ-vocabulary-terminology-bank)
 
+- **AI Principles** <span class="vocab-tag">Proper Noun</span>
+  - *English:* Google's ethical guidelines governing artificial intelligence research and products.
+  - *မြန်မာပြန်:* Google က ချမှတ်ထားသော ဉာဏ်ရည်တု နည်းပညာဆိုင်ရာ ကျင့်ဝတ်စည်းမျဉ်း အခြေခံမူများ။
+  - *သင်ခန်းစာ:* [Lesson 1.4](/course-1-foundations/module-1/lesson-4-what-is-project-management#၄-အင်္ဂလိပ်-ဝေါဟာရနှင့်-အသုံးအနှုန်းများ-vocabulary-terminology-bank)
+
 - **Align with** <span class="vocab-tag">Phrasal Verb</span>
   - *English:* To match, agree with, or adjust to be in line with something.
   - *မြန်မာပြန်:* မိမိ၏ စံနှုန်းများ၊ အားသာချက်များနှင့် ကိုက်ညီညီညွတ်မှု ရှိစေသည်။
@@ -91,7 +96,7 @@ Google Project Management Certificate တွင် တွေ့ကြုံရ�
 - **Deliverable** <span class="vocab-tag">Noun</span>
   - *English:* A tangible or intangible product or service produced as a result of a project.
   - *မြန်မာပြန်:* ပရောဂျက်တစ်ခုမှ ရလဒ်အဖြစ် ထွက်ပေါ်လာရမည့် ပစ္စည်း၊ အစီရင်ခံစာ သို့မဟုတ် ဝန်ဆောင်မှု (အပ်နှံရမည့် ရလဒ်)။
-  - *သင်ခန်းစာ:* [Lesson 1.4](/course-1-foundations/module-1/lesson-4-what-is-project-management#၃-အင်္ဂလိပ်-ဝေါဟာရနှင့်-အသုံးအနှုန်းများ-vocabulary-terminology-bank)
+  - *သင်ခန်းစာ:* [Lesson 1.4](/course-1-foundations/module-1/lesson-4-what-is-project-management#၄-အင်္ဂလိပ်-ဝေါဟာရနှင့်-အသုံးအနှုန်းများ-vocabulary-terminology-bank)
 
 - **Delve into** <span class="vocab-tag">Phrasal Verb</span>
   - *English:* To investigate, explore, or study something deeply and thoroughly.
@@ -135,6 +140,11 @@ Google Project Management Certificate တွင် တွေ့ကြုံရ�
   - *သင်ခန်းစာ:* [Lesson 1.1](/course-1-foundations/module-1/lesson-1-program-and-course-overview#၄-အင်္ဂလိပ်-ဝေါဟာရနှင့်-အသုံးအနှုန်းများ-vocabulary-terminology-bank)
 
 ### F
+- **Facilitate** <span class="vocab-tag">Verb</span>
+  - *English:* To make an action or process easy or easier to happen.
+  - *မြန်မာပြန်:* လုပ်ငန်းစဉ်တစ်ခု ချောမွေ့လွယ်ကူစေရန် ကူညီထောက်ပံ့ပေးသည်။
+  - *သင်ခန်းစာ:* [Lesson 1.4](/course-1-foundations/module-1/lesson-4-what-is-project-management#၄-အင်္ဂလိပ်-ဝေါဟာရနှင့်-အသုံးအနှုန်းများ-vocabulary-terminology-bank)
+
 - **Financial Aid** <span class="vocab-tag">Phrase</span>
   - *English:* Financial support given to students who cannot afford the course fee.
   - *မြန်မာပြန်:* သင်ရိုးကြေး မတတ်နိုင်သော ကျောင်းသားများအတွက် Coursera မှ ပေးအပ်သော ပညာသင် ထောက်ပံ့ကြေး။
@@ -146,6 +156,11 @@ Google Project Management Certificate တွင် တွေ့ကြုံရ�
   - *သင်ခန်းစာ:* [Lesson 1.0](/course-1-foundations/module-1/lesson-0-welcome-to-google-pm#၄-အင်္ဂလိပ်-ဝေါဟာရနှင့်-အသုံးအနှုန်းများ-vocabulary-terminology-bank)
 
 ### G
+- **Get acquainted with** <span class="vocab-tag">Idiom / Phrase</span>
+  - *English:* To become familiar with or knowledgeable about something.
+  - *မြန်မာပြန်:* အကြောင်းအရာ၊ မူဝါဒ သို့မဟုတ် နည်းပညာအသစ်တစ်ခုခုနှင့် ရင်းနှီးကျွမ်းဝင်လာသည်။
+  - *သင်ခန်းစာ:* [Lesson 1.4](/course-1-foundations/module-1/lesson-4-what-is-project-management#၄-အင်္ဂလိပ်-ဝေါဟာရနှင့်-အသုံးအနှုန်းများ-vocabulary-terminology-bank)
+
 - **Glossary** <span class="vocab-tag">Noun</span>
   - *English:* An alphabetical list of specialized terms with their definitions.
   - *မြန်မာပြန်:* အထူးပြု ဘာသာရပ်ဆိုင်ရာ ဝေါဟာရ အခေါ်အဝေါ် အဘိဓာန်။
@@ -182,6 +197,11 @@ Google Project Management Certificate တွင် တွေ့ကြုံရ�
   - *English:* Established best practices, rules, or criteria accepted across a whole profession.
   - *မြန်မာပြန်:* လုပ်ငန်းခွင်နှင့် စက်မှုနယ်ပယ်တစ်ခုလုံးက လက်ခံကျင့်သုံးသော အဆင့်အတန်း စံချိန်စံညွှန်းများ။
   - *သင်ခန်းစာ:* [Lesson 1.3](/course-1-foundations/module-1/lesson-3-helpful-resources-to-get-started#၄-အင်္ဂလိပ်-ဝေါဟာရနှင့်-အသုံးအနှုန်းများ-vocabulary-terminology-bank)
+
+- **Innovating Responsibly** <span class="vocab-tag">Phrase</span>
+  - *English:* Creating new technologies while actively considering societal impact and ethics.
+  - *မြန်မာပြန်:* လူမှုအသိုက်အဝန်းအပေါ် သက်ရောက်မှုနှင့် ကျင့်ဝတ်များကို အလေးထားကာ တာဝန်ယူမှုရှိစွာ တီထွင်ဆန်းသစ်ခြင်း။
+  - *သင်ခန်းစာ:* [Lesson 1.4](/course-1-foundations/module-1/lesson-4-what-is-project-management#၄-အင်္ဂလိပ်-ဝေါဟာရနှင့်-အသုံးအနှုန်းများ-vocabulary-terminology-bank)
 
 - **Insightful Questions** <span class="vocab-tag">Phrase</span>
   - *English:* Deep, meaningful questions showing an intelligent understanding of a subject.
@@ -221,6 +241,16 @@ Google Project Management Certificate တွင် တွေ့ကြုံရ�
   - *မြန်မာပြန်:* ပရောဂျက်၏ အရေးပါသော မှတ်တိုင်များ/အဆင့်ပြီးမြောက်မှုများ။
   - *သင်ခန်းစာ:* [Lesson 1.0](/course-1-foundations/module-1/lesson-0-welcome-to-google-pm#၄-အင်္ဂလိပ်-ဝေါဟာရနှင့်-အသုံးအနှုန်းများ-vocabulary-terminology-bank)
 
+- **Miss Budget Targets** <span class="vocab-tag">Phrase</span>
+  - *English:* Overspending beyond the allocated financial funds for a project.
+  - *မြန်မာပြန်:* သတ်မှတ်ထားသော ဘတ်ဂျက်ပမာဏကို ကျော်လွန်သုံးစွဲမိခြင်း။
+  - *သင်ခန်းစာ:* [Lesson 1.4](/course-1-foundations/module-1/lesson-4-what-is-project-management#၄-အင်္ဂလိပ်-ဝေါဟာရနှင့်-အသုံးအနှုန်းများ-vocabulary-terminology-bank)
+
+- **Miss Delivery Dates** <span class="vocab-tag">Phrase</span>
+  - *English:* Failing to complete and deliver project outputs by the promised deadline.
+  - *မြန်မာပြန်:* သတ်မှတ်ထားသော ပြီးစီးရက်/အပ်နှံရမည့်ရက်များကို မမီခြင်း၊ အချိန်နောက်ကျခြင်း။
+  - *သင်ခန်းစာ:* [Lesson 1.4](/course-1-foundations/module-1/lesson-4-what-is-project-management#၄-အင်္ဂလိပ်-ဝေါဟာရနှင့်-အသုံးအနှုန်းများ-vocabulary-terminology-bank)
+
 - **Mobilize** <span class="vocab-tag">Verb</span>
   - *English:* To organize and encourage people to take collective action.
   - *မြန်မာပြန်:* လူအင်အား သို့မဟုတ် အရင်းအမြစ်များကို စုစည်းလှုံ့ဆော်သည်။
@@ -238,10 +268,15 @@ Google Project Management Certificate တွင် တွေ့ကြုံရ�
   - *မြန်မာပြန်:* မိမိ၏ အာရုံစိုက်မှု သို့မဟုတ် အတွေးနယ်ပယ်ထဲတွင် ရှိနေသည်။
   - *သင်ခန်းစာ:* [Lesson 1.0](/course-1-foundations/module-1/lesson-0-welcome-to-google-pm#၄-အင်္ဂလိပ်-ဝေါဟာရနှင့်-အသုံးအနှုန်းများ-vocabulary-terminology-bank)
 
+- **On track and on budget** <span class="vocab-tag">Idiom / Phrase</span>
+  - *English:* Progressing according to schedule and within the allocated financial limits.
+  - *မြန်မာပြန်:* သတ်မှတ်ထားသော အချိန်ဇယားအတိုင်း အစီအစဉ်မပျက် လျှောက်လှမ်းနေပြီး ဘတ်ဂျက်ဘောင်အတွင်း ရှိနေသော။
+  - *သင်ခန်းစာ:* [Lesson 1.4](/course-1-foundations/module-1/lesson-4-what-is-project-management#၄-အင်္ဂလိပ်-ဝေါဟာရနှင့်-အသုံးအနှုန်းများ-vocabulary-terminology-bank)
+
 - **Operations** <span class="vocab-tag">Noun</span>
   - *English:* Ongoing, repetitive business processes and daily activities.
   - *မြန်မာပြန်:* အဖွဲ့အစည်းတစ်ခု နေ့စဉ် ပုံမှန်လည်ပတ်နေစေရန် ထပ်ခါတလဲလဲ လုပ်ဆောင်ရသော လုပ်ငန်းစဉ်များ။
-  - *သင်ခန်းစာ:* [Lesson 1.4](/course-1-foundations/module-1/lesson-4-what-is-project-management#၃-အင်္ဂလိပ်-ဝေါဟာရနှင့်-အသုံးအနှုန်းများ-vocabulary-terminology-bank)
+  - *သင်ခန်းစာ:* [Lesson 1.4](/course-1-foundations/module-1/lesson-4-what-is-project-management#၄-အင်္ဂလိပ်-ဝေါဟာရနှင့်-အသုံးအနှုန်းများ-vocabulary-terminology-bank)
 
 - **Organizational Culture** <span class="vocab-tag">Phrase</span>
   - *English:* The shared values, beliefs, attitudes, and behaviors that characterize an organization.
@@ -274,6 +309,11 @@ Google Project Management Certificate တွင် တွေ့ကြုံရ�
   - *မြန်မာပြန်:* ကမ္ဘာ့ထိပ်တန်း ပရောဂျက် စီမံခန့်ခွဲမှုဆိုင်ရာ ပရော်ဖက်ရှင်နယ် အဖွဲ့အစည်းကြီး။
   - *သင်ခန်းစာ:* [Lesson 1.1](/course-1-foundations/module-1/lesson-1-program-and-course-overview#၄-အင်္ဂလိပ်-ဝေါဟာရနှင့်-အသုံးအနှုန်းများ-vocabulary-terminology-bank)
 
+- **Poor Project Management** <span class="vocab-tag">Phrase</span>
+  - *English:* Ineffective planning, tracking, or leadership leading to wasted costs and failures.
+  - *မြန်မာပြန်:* အားနည်းညံ့ဖျင်းသော၊ စနစ်တကျ မရှိသော ပရောဂျက် စီမံခန့်ခွဲမှု။
+  - *သင်ခန်းစာ:* [Lesson 1.4](/course-1-foundations/module-1/lesson-4-what-is-project-management#၄-အင်္ဂလိပ်-ဝေါဟာရနှင့်-အသုံးအနှုန်းများ-vocabulary-terminology-bank)
+
 - **Position and a Skill** <span class="vocab-tag">Phrase</span>
   - *English:* Seeing PM not just as a job title, but as a universal capability applicable anywhere.
   - *မြန်မာပြန်:* PM ကို ရာထူးတစ်ခုအနေဖြင့်သာမက မည်သည့်အလုပ်တွင်မဆို အသုံးချနိုင်သည့် စွမ်းရည်တစ်ခုအဖြစ် ရှုမြင်ခြင်း။
@@ -292,7 +332,7 @@ Google Project Management Certificate တွင် တွေ့ကြုံရ�
 - **Project** <span class="vocab-tag">Noun</span>
   - *English:* A temporary endeavor with a clear beginning and end undertaken to create a unique product, service, or result.
   - *မြန်မာပြန်:* စတင်ချိန်နှင့် ပြီးဆုံးချိန် တိကျစွာရှိပြီး သီးသန့်ရလဒ်တစ်ခု ထွက်ပေါ်လာစေရန် ဆောင်ရွက်ရသော ယာယီလုပ်ငန်းစဉ် (ပရောဂျက်)။
-  - *သင်ခန်းစာ:* [Lesson 1.4](/course-1-foundations/module-1/lesson-4-what-is-project-management#၃-အင်္ဂလိပ်-ဝေါဟာရနှင့်-အသုံးအနှုန်းများ-vocabulary-terminology-bank)
+  - *သင်ခန်းစာ:* [Lesson 1.4](/course-1-foundations/module-1/lesson-4-what-is-project-management#၄-အင်္ဂလိပ်-ဝေါဟာရနှင့်-အသုံးအနှုန်းများ-vocabulary-terminology-bank)
 
 - **Project Life Cycle** <span class="vocab-tag">Phrase</span>
   - *English:* The complete series of phases that a project goes through from start to finish.
@@ -302,12 +342,12 @@ Google Project Management Certificate တွင် တွေ့ကြုံရ�
 - **Project Management** <span class="vocab-tag">Noun</span>
   - *English:* The application of knowledge, skills, tools, and techniques to meet project requirements.
   - *မြန်မာပြန်:* ပရောဂျက်လိုအပ်ချက်များနှင့် ရည်မှန်းချက်များ ပြည့်မီစေရန် အသိပညာ၊ ကျွမ်းကျင်မှု၊ ကိရိယာများနှင့် နည်းစနစ်များကို ပေါင်းစပ်အသုံးချခြင်း။
-  - *သင်ခန်းစာ:* [Lesson 1.4](/course-1-foundations/module-1/lesson-4-what-is-project-management#၃-အင်္ဂလိပ်-ဝေါဟာရနှင့်-အသုံးအနှုန်းများ-vocabulary-terminology-bank)
+  - *သင်ခန်းစာ:* [Lesson 1.4](/course-1-foundations/module-1/lesson-4-what-is-project-management#၄-အင်္ဂလိပ်-ဝေါဟာရနှင့်-အသုံးအနှုန်းများ-vocabulary-terminology-bank)
 
 - **Project Manager (PM)** <span class="vocab-tag">Noun</span>
   - *English:* The person in charge of leading a project from its inception to final execution.
   - *မြန်မာပြန်:* ပရောဂျက်တစ်ခု စတင်ချိန်မှ ပြီးဆုံးချိန်အထိ အဖွဲ့ကို ဦးဆောင်၍ တာဝန်ယူကြီးကြပ်ရသော စီမံခန့်ခွဲသူ။
-  - *သင်ခန်းစာ:* [Lesson 1.4](/course-1-foundations/module-1/lesson-4-what-is-project-management#၃-အင်္ဂလိပ်-ဝေါဟာရနှင့်-အသုံးအနှုန်းများ-vocabulary-terminology-bank)
+  - *သင်ခန်းစာ:* [Lesson 1.4](/course-1-foundations/module-1/lesson-4-what-is-project-management#၄-အင်္ဂလိပ်-ဝေါဟာရနှင့်-အသုံးအနှုန်းများ-vocabulary-terminology-bank)
 
 - **Project-oriented sectors** <span class="vocab-tag">Phrase</span>
   - *English:* Industries whose core work is driven primarily by projects (e.g. IT, Construction).
@@ -364,7 +404,7 @@ Google Project Management Certificate တွင် တွေ့ကြုံရ�
 - **Stakeholder** <span class="vocab-tag">Noun</span>
   - *English:* Anyone who has an interest in or is affected by the outcome of a project.
   - *မြန်မာပြန်:* ပရောဂျက်၏ ရလဒ်နှင့် ပတ်သက်ဆက်နွှယ်နေသူ (အကျိုးတူ သက်ဆိုင်သူများ)။
-  - *သင်ခန်းစာ:* [Lesson 1.4](/course-1-foundations/module-1/lesson-4-what-is-project-management#၃-အင်္ဂလိပ်-ဝေါဟာရနှင့်-အသုံးအနှုန်းများ-vocabulary-terminology-bank)
+  - *သင်ခန်းစာ:* [Lesson 1.4](/course-1-foundations/module-1/lesson-4-what-is-project-management#၄-အင်္ဂလိပ်-ဝေါဟာရနှင့်-အသုံးအနှုန်းများ-vocabulary-terminology-bank)
 
 - **Success Criteria** <span class="vocab-tag">Phrase</span>
   - *English:* The standards or conditions that determine whether a project is successful.
@@ -382,10 +422,20 @@ Google Project Management Certificate တွင် တွေ့ကြုံရ�
   - *မြန်မာပြန်:* အဖွဲ့ဝင်များအကြား အပြန်အလှန်ဆက်ဆံပုံနှင့် ပူးပေါင်းဆောင်ရွက်မှု သဘောသဘာဝ။
   - *သင်ခန်းစာ:* [Lesson 1.0](/course-1-foundations/module-1/lesson-0-welcome-to-google-pm#၄-အင်္ဂလိပ်-ဝေါဟာရနှင့်-အသုံးအနှုန်းများ-vocabulary-terminology-bank)
 
+- **Telehealth** <span class="vocab-tag">Noun</span>
+  - *English:* Healthcare services delivered remotely using telecommunications and digital devices.
+  - *မြန်မာပြန်:* ဖုန်း၊ Tablet၊ ကွန်ပျူတာ အင်တာနက်သုံး၍ အဝေးမှ ကျန်းမာရေး စောင့်ရှောက်မှု ပေးသည့် နည်းပညာ။
+  - *သင်ခန်းစာ:* [Lesson 1.4](/course-1-foundations/module-1/lesson-4-what-is-project-management#၄-အင်္ဂလိပ်-ဝေါဟာရနှင့်-အသုံးအနှုန်းများ-vocabulary-terminology-bank)
+
 - **Temporary Endeavor** <span class="vocab-tag">Phrase</span>
   - *English:* An effort or activity that has a definite start and a definite conclusion.
   - *မြန်မာပြန်:* အစနှင့် အဆုံး သတ်မှတ်ထားသော ယာယီကြိုးပမ်းအားထုတ်မှု။
-  - *သင်ခန်းစာ:* [Lesson 1.4](/course-1-foundations/module-1/lesson-4-what-is-project-management#၃-အင်္ဂလိပ်-ဝေါဟာရနှင့်-အသုံးအနှုန်းများ-vocabulary-terminology-bank)
+  - *သင်ခန်းစာ:* [Lesson 1.4](/course-1-foundations/module-1/lesson-4-what-is-project-management#၄-အင်္ဂလိပ်-ဝေါဟာရနှင့်-အသုံးအနှုန်းများ-vocabulary-terminology-bank)
+
+- **Temporary Pursuit** <span class="vocab-tag">Phrase</span>
+  - *English:* An activity or project with a clearly defined start and finish.
+  - *မြန်မာပြန်:* အစနှင့် အဆုံး သတ်မှတ်ချက် တိကျစွာရှိသော ယာယီဆောင်ရွက်မှု။
+  - *သင်ခန်းစာ:* [Lesson 1.4](/course-1-foundations/module-1/lesson-4-what-is-project-management#၄-အင်္ဂလိပ်-ဝေါဟာရနှင့်-အသုံးအနှုန်းများ-vocabulary-terminology-bank)
 
 - **Time Estimates** <span class="vocab-tag">Phrase</span>
   - *English:* Approximations of how long a task or project will take to complete.
@@ -396,3 +446,20 @@ Google Project Management Certificate တွင် တွေ့ကြုံရ�
   - *English:* Skills and abilities developed in one area that can be applied effectively in a different role or field.
   - *မြန်မာပြန်:* ယခင် အလုပ် သို့မဟုတ် ဘဝအတွေ့အကြုံမှ ရရှိခဲ့ပြီး အခြားနယ်ပယ်အသစ်သို့ ယူဆောင်အသုံးချနိုင်သော အရည်အချင်းများ။
   - *သင်ခန်းစာ:* [Lesson 1.0](/course-1-foundations/module-1/lesson-0-welcome-to-google-pm#၄-အင်္ဂလိပ်-ဝေါဟာရနှင့်-အသုံးအနှုန်းများ-vocabulary-terminology-bank)
+
+### U
+- **Unique Endeavor** <span class="vocab-tag">Phrase</span>
+  - *English:* A distinctive, one-of-a-kind effort not done identically before.
+  - *မြန်မာပြန်:* ယခင်က ထပ်တူထပ်မျှ မလုပ်ဆောင်ဖူးသော သီးသန့် ထူးခြားသည့် ကြိုးပမ်းအားထုတ်မှု။
+  - *သင်ခန်းစာ:* [Lesson 1.4](/course-1-foundations/module-1/lesson-4-what-is-project-management#၄-အင်္ဂလိပ်-ဝေါဟာရနှင့်-အသုံးအနှုန်းများ-vocabulary-terminology-bank)
+
+- **Unique Outcome** <span class="vocab-tag">Phrase</span>
+  - *English:* A distinct product, service, or result that is not repeated identically.
+  - *မြန်မာပြန်:* ထပ်ခါတလဲလဲ မဟုတ်သော သီးခြားထူးခြားသည့် ရလဒ်/ထုတ်ကုန်။
+  - *သင်ခန်းစာ:* [Lesson 1.4](/course-1-foundations/module-1/lesson-4-what-is-project-management#၄-အင်္ဂလိပ်-ဝေါဟာရနှင့်-အသုံးအနှုန်းများ-vocabulary-terminology-bank)
+
+### V
+- **Virtual Checkups** <span class="vocab-tag">Phrase</span>
+  - *English:* Medical consultations performed online via video/audio calls.
+  - *မြန်မာပြန်:* အွန်လိုင်းမှတစ်ဆင့် ဆရာဝန်နှင့် ဗီဒီယိုခေါ်ဆို၍ ကျန်းမာရေး စစ်ဆေးပြသခြင်း။
+  - *သင်ခန်းစာ:* [Lesson 1.4](/course-1-foundations/module-1/lesson-4-what-is-project-management#၄-အင်္ဂလိပ်-ဝေါဟာရနှင့်-အသုံးအနှုန်းများ-vocabulary-terminology-bank)
