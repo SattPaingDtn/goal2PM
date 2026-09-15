@@ -47,6 +47,7 @@ features:
 | **Course 4** | Project Execution: Running the Project | ⚪ Upcoming | - |
 | **Course 5** | Agile Project Management | ⚪ Upcoming | - |
 | **Course 6** | Capstone: Applying Project Management in the Real World | ⚪ Upcoming | - |
+| **Course 7** | Accelerate Your Job Search with AI (Gemini & NotebookLM) | ⚪ Upcoming | - |
 
 ::: tip 💡 အသုံးပြုပုံ အကြံပြုချက်
 သင်ခန်းစာအသစ်များ၏ Transcript သို့မဟုတ် ဗီဒီယိုစာသားများကို ပေးပို့လိုက်သည်နှင့် ဤ Website တွင် စနစ်တကျ အလိုအလျောက် Update ပြုလုပ်ပေးသွားမည် ဖြစ်ပါသည်။ အပေါ်ဘက် Search Bar (Ctrl+K သို့မဟုတ် Cmd+K) တွင် စကားလုံးများကို အချိန်မရွေး ရှာဖွေနိုင်ပါသည်။
