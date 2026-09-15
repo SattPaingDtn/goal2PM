@@ -94,6 +94,11 @@ Google Project Management Certificate တွင် တွေ့ကြုံရ�
   - *မြန်မာပြန်:* လုပ်ငန်းခွင်သို့ စတင်ဝင်ရောက်မည့်သူများအတွက် သင့်တော်သော (အစပြုအဆင့်)။
   - *သင်ခန်းစာ:* [Lesson 1.0](/course-1-foundations/module-1/lesson-0-welcome-to-google-pm#၄-အင်္ဂလိပ်-ဝေါဟာရနှင့်-အသုံးအနှုန်းများ-vocabulary-terminology-bank)
 
+- **Entry-level Project Manager** <span class="vocab-tag">Phrase</span>
+  - *English:* A project manager at the start of their professional career requiring core foundational skills.
+  - *မြန်မာပြန်:* လုပ်ငန်းခွင်သို့ စတင်ဝင်ရောက်မည့် အစပြုအဆင့် ပရောဂျက် မန်နေဂျာ။
+  - *သင်ခန်းစာ:* [Lesson 1.2](/course-1-foundations/module-1/lesson-2-introduction-to-course-1#၄-အင်္ဂလိပ်-ဝေါဟာရနှင့်-အသုံးအနှုန်းများ-vocabulary-terminology-bank)
+
 - **Exemplar** <span class="vocab-tag">Noun</span>
   - *English:* An ideal model or high-quality sample used for comparison.
   - *မြန်မာပြန်:* ကိုးကားနှိုင်းယှဉ်နိုင်ရန် ပြုလုပ်ထားသော စံပြ စံနမူနာ ဖန်တီးချက်။
@@ -219,6 +224,11 @@ Google Project Management Certificate တွင် တွေ့ကြုံရ�
   - *မြန်မာပြန်:* PM ကို ရာထူးတစ်ခုအနေဖြင့်သာမက မည်သည့်အလုပ်တွင်မဆို အသုံးချနိုင်သည့် စွမ်းရည်တစ်ခုအဖြစ် ရှုမြင်ခြင်း။
   - *သင်ခန်းစာ:* [Lesson 1.2](/course-1-foundations/module-1/lesson-2-introduction-to-course-1#၄-အင်္ဂလိပ်-ဝေါဟာရနှင့်-အသုံးအနှုန်းများ-vocabulary-terminology-bank)
 
+- **Preview** <span class="vocab-tag">Verb</span>
+  - *English:* To view, describe, or show something in advance before the full release.
+  - *မြန်မာပြန်:* အပြည့်အစုံမစတင်မီ ကြိုတင် မိတ်ဆက်ပြသသည်။
+  - *သင်ခန်းစာ:* [Lesson 1.2](/course-1-foundations/module-1/lesson-2-introduction-to-course-1#၄-အင်္ဂလိပ်-ဝေါဟာရနှင့်-အသုံးအနှုန်းများ-vocabulary-terminology-bank)
+
 - **Program Manager** <span class="vocab-tag">Noun</span>
   - *English:* A professional who oversees a group of related projects and programs aligned with strategic goals.
   - *မြန်မာပြန်:* ပရောဂျက်များစွာ သို့မဟုတ် မဟာဗျူဟာ ပရိုဂရမ်တစ်ခုလုံးကို ကြီးကြပ်ကွပ်ကဲရသော စီမံခန့်ခွဲသူ။
@@ -249,11 +259,21 @@ Google Project Management Certificate တွင် တွေ့ကြုံရ�
   - *မြန်မာပြန်:* ပရောဂျက်များကို အခြေပြု၍ လည်ပတ်နေသော စက်မှုစီးပွားရေး ကဏ္ဍကြီးများ။
   - *သင်ခန်းစာ:* [Lesson 1.1](/course-1-foundations/module-1/lesson-1-program-and-course-overview#၄-အင်္ဂလိပ်-ဝေါဟာရနှင့်-အသုံးအနှုန်းများ-vocabulary-terminology-bank)
 
+- **Pursue** <span class="vocab-tag">Verb</span>
+  - *English:* To follow, seek, or chase an occupation, career, or goal.
+  - *မြန်မာပြန်:* ရည်မှန်းချက် သို့မဟုတ် အလုပ်အကိုင်တစ်ခုကို လိုက်စားရှာဖွေ လျှောက်လှမ်းသည်။
+  - *သင်ခန်းစာ:* [Lesson 1.2](/course-1-foundations/module-1/lesson-2-introduction-to-course-1#၄-အင်္ဂလိပ်-ဝေါဟာရနှင့်-အသုံးအနှုန်းများ-vocabulary-terminology-bank)
+
 ### R
 - **Reset deadlines** <span class="vocab-tag">Phrase</span>
   - *English:* Changing due dates to start fresh without consequences.
   - *မြန်မာပြန်:* သတ်မှတ်ပြီးစီးရက်များကို အစမှ ပြန်လည်ညှိနှိုင်း သတ်မှတ်သည်။
   - *သင်ခန်းစာ:* [Lesson 1.1](/course-1-foundations/module-1/lesson-1-program-and-course-overview#၄-အင်္ဂလိပ်-ဝေါဟာရနှင့်-အသုံးအနှုန်းများ-vocabulary-terminology-bank)
+
+- **Roles and Responsibilities** <span class="vocab-tag">Phrase</span>
+  - *English:* The specific functions, duties, and obligations expected of a person in a job.
+  - *မြန်မာပြန်:* အလုပ်ခွင်တစ်ခုတွင် သက်ဆိုင်သူတစ်ဦး ထမ်းဆောင်ရမည့် အခန်းကဏ္ဍများနှင့် တာဝန်ဝတ္တရားများ။
+  - *သင်ခန်းစာ:* [Lesson 1.2](/course-1-foundations/module-1/lesson-2-introduction-to-course-1#၄-အင်္ဂလိပ်-ဝေါဟာရနှင့်-အသုံးအနှုန်းများ-vocabulary-terminology-bank)
 
 ### S
 - **Scope** <span class="vocab-tag">Noun</span>
