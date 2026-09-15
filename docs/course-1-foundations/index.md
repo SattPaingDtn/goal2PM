@@ -10,7 +10,7 @@ Google Project Management Certificate ၏ ပထမဆုံးနှင့် �
 
 ### 1️⃣ Module 1: Embarking on a career in project management
 - **အဓိက အကြောင်းအရာ**: Project Management ဆိုတာ ဘာလဲ၊ Project Manager တစ်ယောက် ဘာတွေလုပ်ရသလဲ၊ Project တစ်ခုရဲ့ အဓိပ္ပာယ်ဖွင့်ဆိုချက်နှင့် အလုပ်အကိုင် အခွင့်အလမ်းများ။
-- **လေ့လာရန်**: [Module 1 အကျဉ်းချုပ်](/course-1-foundations/module-1/) | [1.0 Welcome](/course-1-foundations/module-1/lesson-0-welcome-to-google-pm) | [1.1 Overview](/course-1-foundations/module-1/lesson-1-program-and-course-overview) | [1.2 Intro to C1](/course-1-foundations/module-1/lesson-2-introduction-to-course-1) | [1.3 What is PM?](/course-1-foundations/module-1/lesson-3-what-is-project-management)
+- **လေ့လာရန်**: [Module 1 အကျဉ်းချုပ်](/course-1-foundations/module-1/) | [1.0 Welcome](/course-1-foundations/module-1/lesson-0-welcome-to-google-pm) | [1.1 Overview](/course-1-foundations/module-1/lesson-1-program-and-course-overview) | [1.2 Intro to C1](/course-1-foundations/module-1/lesson-2-introduction-to-course-1) | [1.3 Resources](/course-1-foundations/module-1/lesson-3-helpful-resources-to-get-started) | [1.4 What is PM?](/course-1-foundations/module-1/lesson-4-what-is-project-management)
 
 </div>
 

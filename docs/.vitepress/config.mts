@@ -64,7 +64,8 @@ export default defineConfig({
                 { text: '1.0 Welcome to Google PM', link: '/course-1-foundations/module-1/lesson-0-welcome-to-google-pm' },
                 { text: '1.1 Program & Course Overview', link: '/course-1-foundations/module-1/lesson-1-program-and-course-overview' },
                 { text: '1.2 Introduction to Course 1', link: '/course-1-foundations/module-1/lesson-2-introduction-to-course-1' },
-                { text: '1.3 What is Project Management?', link: '/course-1-foundations/module-1/lesson-3-what-is-project-management' },
+                { text: '1.3 Helpful Resources', link: '/course-1-foundations/module-1/lesson-3-helpful-resources-to-get-started' },
+                { text: '1.4 What is Project Management?', link: '/course-1-foundations/module-1/lesson-4-what-is-project-management' },
               ]
             },
             {
