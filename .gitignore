@@ -1,0 +1,21 @@
+# Dependencies
+node_modules/
+.pnp
+.pnp.js
+
+# VitePress cache & build outputs
+docs/.vitepress/dist/
+docs/.vitepress/cache/
+
+# OS metadata
+.DS_Store
+Thumbs.db
+
+# Environment variables
+.env
+.env.local
+
+# Editor configs
+.vscode/*
+!.vscode/extensions.json
+.idea/

@@ -1,0 +1,21 @@
+{
+  "name": "goal2pm",
+  "version": "1.0.0",
+  "description": "Google Project Management Certificate - Burmese Notes & Vocabulary Bank",
+  "scripts": {
+    "dev": "vitepress dev docs",
+    "build": "vitepress build docs",
+    "preview": "vitepress preview docs"
+  },
+  "keywords": [
+    "project-management",
+    "google-certificate",
+    "burmese-notes",
+    "study-notes"
+  ],
+  "author": "",
+  "license": "MIT",
+  "devDependencies": {
+    "vitepress": "^1.6.3"
+  }
+}

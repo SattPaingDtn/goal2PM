@@ -1,0 +1,83 @@
+:root {
+  --vp-c-brand-1: #1a73e8;
+  --vp-c-brand-2: #1557b0;
+  --vp-c-brand-3: #174ea6;
+  --vp-c-brand-soft: rgba(26, 115, 232, 0.14);
+
+  --vp-font-family-base: 'Plus Jakarta Sans', 'Pyidaungsu', 'Noto Sans Myanmar', 'Padauk', -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif;
+  --vp-font-family-mono: ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace;
+}
+
+/* Optimize Burmese text rendering and line heights */
+body {
+  font-feature-settings: "liga" 1, "calt" 1;
+  text-rendering: optimizeLegibility;
+  -webkit-font-smoothing: antialiased;
+}
+
+.vp-doc p,
+.vp-doc li {
+  line-height: 1.85;
+  font-size: 1.02rem;
+}
+
+.vp-doc h1,
+.vp-doc h2,
+.vp-doc h3,
+.vp-doc h4 {
+  line-height: 1.4;
+  font-weight: 700;
+}
+
+/* Table styling for Vocabulary Bank */
+.vp-doc table {
+  display: table;
+  width: 100%;
+  margin: 1.5rem 0;
+  border-collapse: collapse;
+  overflow-x: auto;
+}
+
+.vp-doc th {
+  background-color: var(--vp-c-bg-mute);
+  font-weight: 700;
+  text-align: left;
+  padding: 10px 14px;
+}
+
+.vp-doc td {
+  padding: 10px 14px;
+  vertical-align: top;
+  border: 1px solid var(--vp-c-divider);
+}
+
+.vp-doc tr:nth-child(even) {
+  background-color: var(--vp-c-bg-soft);
+}
+
+/* Custom badges & tags */
+.vocab-tag {
+  display: inline-block;
+  padding: 2px 8px;
+  border-radius: 4px;
+  font-size: 0.78rem;
+  font-weight: 600;
+  text-transform: uppercase;
+  background-color: var(--vp-c-brand-soft);
+  color: var(--vp-c-brand-1);
+}
+
+/* Custom card container for study modules */
+.study-card {
+  border: 1px solid var(--vp-c-divider);
+  border-radius: 12px;
+  padding: 20px;
+  margin: 16px 0;
+  background-color: var(--vp-c-bg-soft);
+  transition: transform 0.2s ease, border-color 0.2s ease;
+}
+
+.study-card:hover {
+  border-color: var(--vp-c-brand-1);
+  transform: translateY(-2px);
+}
