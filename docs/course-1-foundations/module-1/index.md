@@ -13,7 +13,7 @@
 | **Lesson 1.2** | Introduction to Course 1 (Course 1 မိတ်ဆက်) | ✅ ပြီးစီး | [ဖတ်ရှုရန်](/course-1-foundations/module-1/lesson-2-introduction-to-course-1) |
 | **Lesson 1.3** | Helpful Resources to Get Started (အထောက်အကူပြု အရင်းအမြစ်များ) | ✅ ပြီးစီး | [ဖတ်ရှုရန်](/course-1-foundations/module-1/lesson-3-helpful-resources-to-get-started) |
 | **Lesson 1.4** | What is Project Management? (ပရောဂျက် စီမံခန့်ခွဲမှုဆိုတာ ဘာလဲ) | ✅ ပြီးစီး | [ဖတ်ရှုရန်](/course-1-foundations/module-1/lesson-4-what-is-project-management) |
-| **Lesson 1.5** | The Project Manager's Role (PM တစ်ဦး၏ အခန်းကဏ္ဍ) | ⏳ မကြာမီ | - |
+| **Lesson 1.5** | What Does a Project Manager Do? (PM တစ်ဦး နေ့စဉ် ဘာလုပ်သလဲ) | ✅ ပြီးစီး | [ဖတ်ရှုရန်](/course-1-foundations/module-1/lesson-5-what-does-a-project-manager-do) |
 | **Lesson 1.6** | Project Phases & Value Delivery | ⏳ မကြာမီ | - |
 
 ---
