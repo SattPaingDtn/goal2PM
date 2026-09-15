@@ -61,6 +61,7 @@ export default defineConfig({
               collapsed: false,
               items: [
                 { text: 'Module 1 Overview', link: '/course-1-foundations/module-1/' },
+                { text: '1.0 Welcome to Google PM Certificate', link: '/course-1-foundations/module-1/lesson-0-welcome-to-google-pm' },
                 { text: '1.1 What is Project Management?', link: '/course-1-foundations/module-1/lesson-1-what-is-project-management' },
               ]
             },
