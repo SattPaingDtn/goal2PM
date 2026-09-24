@@ -11,6 +11,11 @@ Google Project Management Certificate တွင် တွေ့ကြုံရ�
 ## 🔤 အက္ခရာစဉ်အလိုက် ဝေါဟာရများ (Alphabetical Index)
 
 ### A
+- **Academic Assemblies** <span class="vocab-tag">Noun Phrase</span>
+  - *English:* Formal gatherings of students and faculty for educational presentations, achievements, or announcements.
+  - *မြန်မာပြန်:* ကျောင်းသားများနှင့် ဆရာများ ပညာရေးဆိုင်ရာ ကိစ္စရပ်များအတွက် တက်ရောက်သည့် စုံညီအစည်းအဝေးပွဲများ။
+  - *သင်ခန်းစာ:* [Lesson 1.10](/course-1-foundations/module-1/lesson-10-finding-the-perfect-role#၅-အရေးကြီး-ဝေါဟာရဘဏ်-vocabulary-bank)
+
 - **Accountability** <span class="vocab-tag">Noun</span>
   - *English:* The willingness or obligation to accept responsibility for one's actions.
   - *မြန်မာပြန်:* မိမိလုပ်ရပ်နှင့် ရလဒ်များအပေါ် တာဝန်ခံမှု၊ တာဝန်ယူနိုင်စွမ်း။
@@ -80,7 +85,7 @@ Google Project Management Certificate တွင် တွေ့ကြုံရ�
 - **Buzzwords** <span class="vocab-tag">Noun (pl)</span>
   - *English:* Terms or phrases that become highly fashionable and widely used in a specific industry.
   - *မြန်မာပြန်:* လုပ်ငန်းနယ်ပယ်တစ်ခုတွင် အသုံးများသော ခေတ်စားသည့် စကားလုံးများ။
-  - *သင်ခန်းစာ:* [Lesson 1.9](/course-1-foundations/module-1/lesson-9-explore-project-management-roles#၅-အရေးကြီး-ဝေါဟာရဘဏ်-vocabulary-bank)
+  - *သင်ခန်းစာ:* [Lesson 1.9](/course-1-foundations/module-1/lesson-9-explore-project-management-roles#၅-အရေးကြီး-ဝေါဟာရဘဏ်-vocabulary-bank), [Lesson 1.10](/course-1-foundations/module-1/lesson-10-finding-the-perfect-role#၅-အရေးကြီး-ဝေါဟာရဘဏ်-vocabulary-bank)
 
 ### C
 - **Capstone Project** <span class="vocab-tag">Phrase</span>
@@ -112,6 +117,11 @@ Google Project Management Certificate တွင် တွေ့ကြုံရ�
   - *English:* The senior corporate executive overseeing day-to-day administrative and operational functions.
   - *မြန်မာပြန်:* ကုမ္ပဏီတစ်ခုလုံး၏ လုပ်ငန်းလည်ပတ်ရေး အမှုဆောင်အရာရှိချုပ်။
   - *သင်ခန်းစာ:* [Lesson 1.9](/course-1-foundations/module-1/lesson-9-explore-project-management-roles#၅-အရေးကြီး-ဝေါဟာရဘဏ်-vocabulary-bank)
+
+- **Community Operations Manager** <span class="vocab-tag">Noun Phrase</span>
+  - *English:* A managerial role responsible for community operations, logistics, public liaison, and resource management.
+  - *မြန်မာပြန်:* မြို့ပြ သို့မဟုတ် လူထုအသိုက်အဝန်းဆိုင်ရာ လုပ်ငန်းစဉ်များနှင့် ဝန်ဆောင်မှုများကို စီမံခန့်ခွဲသူ။
+  - *သင်ခန်းစာ:* [Lesson 1.10](/course-1-foundations/module-1/lesson-10-finding-the-perfect-role#၅-အရေးကြီး-ဝေါဟာရဘဏ်-vocabulary-bank)
 
 - **Complement** <span class="vocab-tag">Verb</span>
   - *English:* To add to something in a way that enhances, improves, or balances qualities.
@@ -148,11 +158,16 @@ Google Project Management Certificate တွင် တွေ့ကြုံရ�
   - *မြန်မာပြန်:* သင်ရိုးတွင်း စစ်ဆေးချက်များ အားလုံးမှ စုပေါင်း စုဆောင်းရရှိသော စုစုပေါင်း ရမှတ်။
   - *သင်ခန်းစာ:* [Lesson 1.3](/course-1-foundations/module-1/lesson-3-helpful-resources-to-get-started#၄-အင်္ဂလိပ်-ဝေါဟာရနှင့်-အသုံးအနှုန်းများ-vocabulary-terminology-bank)
 
+- **Curriculum** <span class="vocab-tag">Noun</span>
+  - *English:* The structured subjects and educational content taught in a school, college, or training course.
+  - *မြန်မာပြန်:* သင်ရိုးညွှန်းတမ်း၊ သင်ကြားမည့် ဘာသာရပ်ဆိုင်ရာ အစီအစဉ်။
+  - *သင်ခန်းစာ:* [Lesson 1.10](/course-1-foundations/module-1/lesson-10-finding-the-perfect-role#၅-အရေးကြီး-ဝေါဟာရဘဏ်-vocabulary-bank)
+
 ### D
 - **Data-driven Decision Making** <span class="vocab-tag">Phrase</span>
   - *English:* Making choices based on actual data analysis rather than intuition or guessing.
   - *မြန်မာပြန်:* ထင်မြင်ချက်မဟုတ်ဘဲ ခိုင်လုံသော အချက်အလက် (Data) ပေါ် အခြေခံ၍ ဆုံးဖြတ်ချက်ချခြင်း။
-  - *သင်ခန်းစာ:* [Lesson 1.0](/course-1-foundations/module-1/lesson-0-welcome-to-google-pm#၄-အင်္ဂလိပ်-ဝေါဟာရနှင့်-အသုံးအနှုန်းများ-vocabulary-terminology-bank)
+  - *သင်ခန်းစာ:* [Lesson 1.0](/course-1-foundations/module-1/lesson-0-welcome-to-google-pm#၄-အင်္ဂလိပ်-ဝေါဟာရနှင့်-အသုံးအနှုန်းများ-vocabulary-terminology-bank), [Lesson 1.10](/course-1-foundations/module-1/lesson-10-finding-the-perfect-role#၅-အရေးကြီး-ဝေါဟာရဘဏ်-vocabulary-bank)
 
 - **Daunting** <span class="vocab-tag">Adjective</span>
   - *English:* Seeming difficult to deal with in anticipation; intimidating or challenging.
@@ -194,6 +209,11 @@ Google Project Management Certificate တွင် တွေ့ကြုံရ�
   - *English:* A network of top hiring organizations and companies committed to considering program graduates for open roles.
   - *မြန်မာပြန်:* သင်ရိုးဆင်းများကို အလုပ်ခန့်အပ်ရန် ကတိပြုထားသော အလုပ်ရှင်များ မဟာမိတ်ကွန်ရက်။
   - *သင်ခန်းစာ:* [Lesson 1.0](/course-1-foundations/module-1/lesson-0-welcome-to-google-pm#၄-အင်္ဂလိပ်-ဝေါဟာရနှင့်-အသုံးအနှုန်းများ-vocabulary-terminology-bank)
+
+- **End-to-End System** <span class="vocab-tag">Noun Phrase</span>
+  - *English:* A complete, fully integrated workflow or operational system covering every stage from inception to delivery.
+  - *မြန်မာပြန်:* အစမှ အဆုံးအထိ အဆင့်တိုင်း ပါဝင်လည်ပတ်နေသော စနစ်တစ်ခုလုံး။
+  - *သင်ခန်းစာ:* [Lesson 1.10](/course-1-foundations/module-1/lesson-10-finding-the-perfect-role#၅-အရေးကြီး-ဝေါဟာရဘဏ်-vocabulary-bank)
 
 - **Entry-level** <span class="vocab-tag">Adjective</span>
   - *English:* Suitable for a beginner with minimal experience.
@@ -245,6 +265,11 @@ Google Project Management Certificate တွင် တွေ့ကြုံရ�
   - *English:* Starting from the very beginning or the bare foundation.
   - *မြန်မာပြန်:* အခြေခံအုတ်မြစ်မှ စတင်၍၊ ဘာမှမရှိရာမှ အစအဆုံး။
   - *သင်ခန်းစာ:* [Lesson 1.5](/course-1-foundations/module-1/lesson-5-what-does-a-project-manager-do#၄-အရေးကြီး-ဝေါဟာရဘဏ်-vocabulary-bank)
+
+- **Fundraiser** <span class="vocab-tag">Noun</span>
+  - *English:* An event or campaign held to generate financial contributions for a specific cause, charity, or project.
+  - *မြန်မာပြန်:* ရန်ပုံငွေရှာဖွေပွဲ၊ ရန်ပုံငွေကမ်ပိန်း။
+  - *သင်ခန်းစာ:* [Lesson 1.10](/course-1-foundations/module-1/lesson-10-finding-the-perfect-role#၅-အရေးကြီး-ဝေါဟာရဘဏ်-vocabulary-bank)
 
 ### G
 - **Gathering Requirements** <span class="vocab-tag">Phrase</span>
@@ -361,6 +386,11 @@ Google Project Management Certificate တွင် တွေ့ကြုံရ�
   - *မြန်မာပြန်:* လုပ်ငန်းစဉ်များကို ကတ်ပြားများဖြင့် မျက်စိထဲ မြင်သာအောင် စီမံခန့်ခွဲသည့် visual စနစ်။
   - *သင်ခန်းစာ:* [Lesson 1.0](/course-1-foundations/module-1/lesson-0-welcome-to-google-pm#၄-အင်္ဂလိပ်-ဝေါဟာရနှင့်-အသုံးအနှုန်းများ-vocabulary-terminology-bank)
 
+- **Keep your options open** <span class="vocab-tag">Idiom</span>
+  - *English:* To avoid committing to one choice early so that other opportunities and job titles remain available.
+  - *မြန်မာပြန်:* အခွင့်အရေးများနှင့် ရာထူးအမျိုးမျိုးကို လက်ခံရယူနိုင်ရန် လမ်းစများကို ကျယ်ကျယ်ပြန့်ပြန့် ဖွင့်ထားသည်။
+  - *သင်ခန်းစာ:* [Lesson 1.10](/course-1-foundations/module-1/lesson-10-finding-the-perfect-role#၅-အရေးကြီး-ဝေါဟာရဘဏ်-vocabulary-bank)
+
 - **Kickoff Meeting** <span class="vocab-tag">Noun</span>
   - *English:* The first official gathering of the project team and stakeholders to establish alignment, goals, and expectations.
   - *မြန်မာပြန်:* ပရောဂျက် စတင်မိတ်ဆက်သည့် ကနဦး အစည်းအဝေး။
@@ -423,6 +453,11 @@ Google Project Management Certificate တွင် တွေ့ကြုံရ�
   - *မြန်မာပြန်:* လူအင်အား သို့မဟုတ် အရင်းအမြစ်များကို စုစည်းလှုံ့ဆော်သည်။
   - *သင်ခန်းစာ:* [Lesson 1.0](/course-1-foundations/module-1/lesson-0-welcome-to-google-pm#၄-အင်္ဂလိပ်-ဝေါဟာရနှင့်-အသုံးအနှုန်းများ-vocabulary-terminology-bank)
 
+- **Monthly Status Reports** <span class="vocab-tag">Noun Phrase</span>
+  - *English:* Formal monthly project updates detailing milestones achieved, current progress, risks, and next steps.
+  - *မြန်မာပြန်:* လစဉ် ပရောဂျက်တိုးတက်မှု၊ အောင်မြင်မှုများနှင့် စိန်ခေါ်မှုများကို အသေးစိတ်တင်ပြသော အစီရင်ခံစာ။
+  - *သင်ခန်းစာ:* [Lesson 1.10](/course-1-foundations/module-1/lesson-10-finding-the-perfect-role#၅-အရေးကြီး-ဝေါဟာရဘဏ်-vocabulary-bank)
+
 ### N
 - **Natural calling** <span class="vocab-tag">Noun Phrase</span>
   - *English:* An occupation or profession to which one feels innately drawn or destined.
@@ -437,7 +472,7 @@ Google Project Management Certificate တွင် တွေ့ကြုံရ�
 - **Networking** <span class="vocab-tag">Noun</span>
   - *English:* Cultivating professional connections and mutual relationships for career growth.
   - *မြန်မာပြန်:* လုပ်ငန်းနယ်ပယ်အတွင်း အကျိုးတူ မိတ်ဆွေကွန်ရက် ချိတ်ဆက်တည်ဆောက်ခြင်း။
-  - *သင်ခန်းစာ:* [Lesson 1.8](/course-1-foundations/module-1/lesson-8-from-certificate-to-career-success#၄-အရေးကြီး-ဝေါဟာရဘဏ်-vocabulary-bank)
+  - *သင်ခန်းစာ:* [Lesson 1.8](/course-1-foundations/module-1/lesson-8-from-certificate-to-career-success#၄-အရေးကြီး-ဝေါဟာရဘဏ်-vocabulary-bank), [Lesson 1.10](/course-1-foundations/module-1/lesson-10-finding-the-perfect-role#၅-အရေးကြီး-ဝေါဟာရဘဏ်-vocabulary-bank)
 
 - **No penalty** <span class="vocab-tag">Phrase</span>
   - *English:* No punishment, loss of points, or negative consequences.
@@ -511,6 +546,11 @@ Google Project Management Certificate တွင် တွေ့ကြုံရ�
   - *မြန်မာပြန်:* အတူတက်ရောက်နေသော သင်တန်းသား အချင်းချင်း အပြန်အလှန် အကဲဖြတ် သုံးသပ်ခြင်း။
   - *သင်ခန်းစာ:* [Lesson 1.1](/course-1-foundations/module-1/lesson-1-program-and-course-overview#၄-အင်္ဂလိပ်-ဝေါဟာရနှင့်-အသုံးအနှုန်းများ-vocabulary-terminology-bank)
 
+- **Performance Metrics** <span class="vocab-tag">Noun Phrase</span>
+  - *English:* Quantifiable measurements used to gauge performance, efficiency, and progress against project goals.
+  - *မြန်မာပြန်:* ပရောဂျက် သို့မဟုတ် အဖွဲ့၏ လုပ်ဆောင်ရည်နှင့် တိုးတက်မှုကို အကဲဖြတ်တိုင်းတာသည့် အညွှန်းကိန်းများ။
+  - *သင်ခန်းစာ:* [Lesson 1.10](/course-1-foundations/module-1/lesson-10-finding-the-perfect-role#၅-အရေးကြီး-ဝေါဟာရဘဏ်-vocabulary-bank)
+
 - **Pillars and Values** <span class="vocab-tag">Phrase</span>
   - *English:* The core foundation principles and guiding moral standards of a system.
   - *မြန်မာပြန်:* စနစ်တစ်ခု၏ အဓိက အုတ်မြစ်တိုင်များနှင့် တန်ဖိုးထား စောင့်ထိန်းရမည့် အခြေခံစည်းမျဉ်းများ။
@@ -549,7 +589,7 @@ Google Project Management Certificate တွင် တွေ့ကြုံရ�
 - **Position and a Skill** <span class="vocab-tag">Phrase</span>
   - *English:* Seeing PM not just as a job title, but as a universal capability applicable anywhere.
   - *မြန်မာပြန်:* PM ကို ရာထူးတစ်ခုအနေဖြင့်သာမက မည်သည့်အလုပ်တွင်မဆို အသုံးချနိုင်သည့် စွမ်းရည်တစ်ခုအဖြစ် ရှုမြင်ခြင်း။
-  - *သင်ခန်းစာ:* [Lesson 1.2](/course-1-foundations/module-1/lesson-2-introduction-to-course-1#၄-အင်္ဂလိပ်-ဝေါဟာရနှင့်-အသုံးအနှုန်းများ-vocabulary-terminology-bank)
+  - *သင်ခန်းစာ:* [Lesson 1.2](/course-1-foundations/module-1/lesson-2-introduction-to-course-1#၄-အင်္ဂလိပ်-ဝေါဟာရနှင့်-အသုံးအနှုန်းများ-vocabulary-terminology-bank), [Lesson 1.10](/course-1-foundations/module-1/lesson-10-finding-the-perfect-role#၅-အရေးကြီး-ဝေါဟာရဘဏ်-vocabulary-bank)
 
 - **Preview** <span class="vocab-tag">Verb</span>
   - *English:* To view, describe, or show something in advance before the full release.
@@ -689,6 +729,11 @@ Google Project Management Certificate တွင် တွေ့ကြုံရ�
   - *မြန်မာပြန်:* Scrum လုပ်ငန်းစဉ်တွင် အဖွဲ့အား လမ်းညွှန်ပေးပြီး ပရောဂျက်အဟန့်အတား (Blockers) များကို ဖယ်ရှားပေးသော အခရာကျသူ။
   - *သင်ခန်းစာ:* [Lesson 1.9](/course-1-foundations/module-1/lesson-9-explore-project-management-roles#၅-အရေးကြီး-ဝေါဟာရဘဏ်-vocabulary-bank)
 
+- **Self-starter** <span class="vocab-tag">Noun</span>
+  - *English:* A person who is capable of working on their own initiative without needing external direction or micromanagement.
+  - *မြန်မာပြန်:* ဆင့်ကဲညွှန်ကြားချက် မလိုဘဲ မိမိစိတ်ကူး အစပျိုးမှုဖြင့် ကိုယ်တိုင်ဦးဆောင် လုပ်ကိုင်နိုင်သူ။
+  - *သင်ခန်းစာ:* [Lesson 1.10](/course-1-foundations/module-1/lesson-10-finding-the-perfect-role#၅-အရေးကြီး-ဝေါဟာရဘဏ်-vocabulary-bank)
+
 - **Selling point** <span class="vocab-tag">Noun</span>
   - *English:* A prominent feature or strength used to convince someone to choose or hire you.
   - *မြန်မာပြန်:* မိမိကိုယ်ကို အလုပ်ခန့်လာစေရန် ဆွဲဆောင်နိုင်သော ထူးခြားသည့် အားသာချက်။
@@ -713,6 +758,11 @@ Google Project Management Certificate တွင် တွေ့ကြုံရ�
   - *English:* Happening, existing, or done at the exact same moment.
   - *မြန်မာပြန်:* တစ်ပြိုင်နက်တည်း၊ တစ်ချိန်တည်းတွင်။
   - *သင်ခန်းစာ:* [Lesson 1.6](/course-1-foundations/module-1/lesson-6-transferable-project-management-skills#၄-အရေးကြီး-ဝေါဟာရဘဏ်-vocabulary-bank)
+
+- **Sort through** <span class="vocab-tag">Phrasal Verb</span>
+  - *English:* To look at a number of things closely in order to organize them, resolve confusion, or find what you want.
+  - *မြန်မာပြန်:* ရှုပ်ထွေးနေသော အရာများထဲမှ မိမိလိုအပ်သည်များကို စနစ်တကျ ရွေးထုတ်စစ်ဆေးသည်။
+  - *သင်ခန်းစာ:* [Lesson 1.10](/course-1-foundations/module-1/lesson-10-finding-the-perfect-role#၅-အရေးကြီး-ဝေါဟာရဘဏ်-vocabulary-bank)
 
 - **Sponsoring** <span class="vocab-tag">Verb / Gerund</span>
   - *English:* Providing financial backing or paying the fees on behalf of a participant.
@@ -754,6 +804,11 @@ Google Project Management Certificate တွင် တွေ့ကြုံရ�
   - *English:* The behavioral relationships and unconscious forces that influence the direction of a team's performance.
   - *မြန်မာပြန်:* အဖွဲ့ဝင်များအကြား အပြန်အလှန်ဆက်ဆံပုံနှင့် ပူးပေါင်းဆောင်ရွက်မှု သဘောသဘာဝ။
   - *သင်ခန်းစာ:* [Lesson 1.0](/course-1-foundations/module-1/lesson-0-welcome-to-google-pm#၄-အင်္ဂလိပ်-ဝေါဟာရနှင့်-အသုံးအနှုန်းများ-vocabulary-terminology-bank)
+
+- **Team Player** <span class="vocab-tag">Noun Phrase</span>
+  - *English:* A person who plays or works well and harmoniously as a member of a team or group.
+  - *မြန်မာပြန်:* အဖွဲ့အစည်းနှင့် စိတ်တူကိုယ်တူ လိုက်လျောညီထွေ ပူးပေါင်းလုပ်ဆောင်တတ်သူ။
+  - *သင်ခန်းစာ:* [Lesson 1.10](/course-1-foundations/module-1/lesson-10-finding-the-perfect-role#၅-အရေးကြီး-ဝေါဟာရဘဏ်-vocabulary-bank)
 
 - **Telehealth** <span class="vocab-tag">Noun</span>
   - *English:* Healthcare services delivered remotely using telecommunications and digital devices.
