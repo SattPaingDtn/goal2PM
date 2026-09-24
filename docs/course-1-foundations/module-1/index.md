@@ -17,7 +17,8 @@
 | **Lesson 1.6** | Transferable PM Skills (အခြားနယ်ပယ်မှ ကူးပြောင်းအသုံးချနိုင်သော စွမ်းရည်များ) | ✅ ပြီးစီး | [ဖတ်ရှုရန်](/course-1-foundations/module-1/lesson-6-transferable-project-management-skills) |
 | **Lesson 1.7** | X: Path to Becoming a PM (X ၏ PM ဖြစ်လာပုံ ခရီးလမ်း) | ✅ ပြီးစီး | [ဖတ်ရှုရန်](/course-1-foundations/module-1/lesson-7-x-path-to-becoming-a-project-manager) |
 | **Lesson 1.8** | From Certificate to Career Success (လက်မှတ်မှ အောင်မြင်သော အလုပ်အကိုင်ဆီသို့) | ✅ ပြီးစီး | [ဖတ်ရှုရန်](/course-1-foundations/module-1/lesson-8-from-certificate-to-career-success) |
-| **Lesson 1.9** | Identifying & Searching for PM Job Titles | ⏳ မကြာမီ | - |
+| **Lesson 1.9** | Explore Project Management Roles (PM ရာထူးများနှင့် အခွင့်အလမ်းများ စူးစမ်းခြင်း) | ✅ ပြီးစီး | [ဖတ်ရှုရန်](/course-1-foundations/module-1/lesson-9-explore-project-management-roles) |
+| **Lesson 1.10** | Next Module 1 Topic | ⏳ မကြာမီ | - |
 
 ---
 

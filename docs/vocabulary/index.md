@@ -56,6 +56,11 @@ Google Project Management Certificate တွင် တွေ့ကြုံရ�
   - *မြန်မာပြန်:* ပရောဂျက်များ စီမံခန့်ခွဲရာတွင် အသုံးများသော လူကြိုက်များသည့် Software ကိရိယာ။
   - *သင်ခန်းစာ:* [Lesson 1.0](/course-1-foundations/module-1/lesson-0-welcome-to-google-pm#၄-အင်္ဂလိပ်-ဝေါဟာရနှင့်-အသုံးအနှုန်းများ-vocabulary-terminology-bank)
 
+- **Assertive** <span class="vocab-tag">Adjective</span>
+  - *English:* Confidently and directly expressing one's opinions, boundaries, or decisions without aggression.
+  - *မြန်မာပြန်:* မိမိရပ်တည်ချက်ကို ယုံကြည်မှုရှိရှိ ပြတ်သားစွာ ဖော်ပြနိုင်သော။
+  - *သင်ခန်းစာ:* [Lesson 1.9](/course-1-foundations/module-1/lesson-9-explore-project-management-roles#၅-အရေးကြီး-ဝေါဟာရဘဏ်-vocabulary-bank)
+
 - **At your own pace** <span class="vocab-tag">Phrase</span>
   - *English:* Moving as fast or as slow as you personally want or need.
   - *မြန်မာပြန်:* မိမိစိတ်ကြိုက် အရှိန်အဟုန်အတိုင်း (အချိန်မကန့်သတ်ဘဲ)။
@@ -71,6 +76,11 @@ Google Project Management Certificate တွင် တွေ့ကြုံရ�
   - *English:* The process of estimating, allocating, and controlling financial resources for a project.
   - *မြန်မာပြန်:* ဘတ်ဂျက် လျာထားသတ်မှတ်ခြင်းနှင့် စီမံခန့်ခွဲခြင်း။
   - *သင်ခန်းစာ:* [Lesson 1.5](/course-1-foundations/module-1/lesson-5-what-does-a-project-manager-do#၄-အရေးကြီး-ဝေါဟာရဘဏ်-vocabulary-bank)
+
+- **Buzzwords** <span class="vocab-tag">Noun (pl)</span>
+  - *English:* Terms or phrases that become highly fashionable and widely used in a specific industry.
+  - *မြန်မာပြန်:* လုပ်ငန်းနယ်ပယ်တစ်ခုတွင် အသုံးများသော ခေတ်စားသည့် စကားလုံးများ။
+  - *သင်ခန်းစာ:* [Lesson 1.9](/course-1-foundations/module-1/lesson-9-explore-project-management-roles#၅-အရေးကြီး-ဝေါဟာရဘဏ်-vocabulary-bank)
 
 ### C
 - **Capstone Project** <span class="vocab-tag">Phrase</span>
@@ -97,6 +107,11 @@ Google Project Management Certificate တွင် တွေ့ကြုံရ�
   - *English:* An official document or credential attesting to the completion of a course or training.
   - *မြန်မာပြန်:* သင်တန်း သို့မဟုတ် သင်ရိုးတစ်ခုကို အောင်မြင်စွာ ပြီးဆုံးကြောင်း အသိအမှတ်ပြု လက်မှတ်။
   - *သင်ခန်းစာ:* [Lesson 1.0](/course-1-foundations/module-1/lesson-0-welcome-to-google-pm#၄-အင်္ဂလိပ်-ဝေါဟာရနှင့်-အသုံးအနှုန်းများ-vocabulary-terminology-bank)
+
+- **Chief Operating Officer (COO)** <span class="vocab-tag">Noun Phrase</span>
+  - *English:* The senior corporate executive overseeing day-to-day administrative and operational functions.
+  - *မြန်မာပြန်:* ကုမ္ပဏီတစ်ခုလုံး၏ လုပ်ငန်းလည်ပတ်ရေး အမှုဆောင်အရာရှိချုပ်။
+  - *သင်ခန်းစာ:* [Lesson 1.9](/course-1-foundations/module-1/lesson-9-explore-project-management-roles#၅-အရေးကြီး-ဝေါဟာရဘဏ်-vocabulary-bank)
 
 - **Complement** <span class="vocab-tag">Verb</span>
   - *English:* To add to something in a way that enhances, improves, or balances qualities.
@@ -335,6 +350,11 @@ Google Project Management Certificate တွင် တွေ့ကြုံရ�
   - *မြန်မာပြန်:* လုပ်ငန်းတာဝန်များစွာကို တစ်ပြိုင်နက် ဟန်ချက်ညီညီ ကိုင်တွယ်ထိန်းကျောင်းသည်။
   - *သင်ခန်းစာ:* [Lesson 1.6](/course-1-foundations/module-1/lesson-6-transferable-project-management-skills#၄-အရေးကြီး-ဝေါဟာရဘဏ်-vocabulary-bank)
 
+- **Junior Project Manager** <span class="vocab-tag">Noun Phrase</span>
+  - *English:* An entry-level PM who manages tasks alongside and under the guidance of senior managers.
+  - *မြန်မာပြန်:* အကြီးတန်း PM များနှင့် တွဲဖက်လုပ်ကိုင်ရသော အစပြုအဆင့် ပရောဂျက်မန်နေဂျာ။
+  - *သင်ခန်းစာ:* [Lesson 1.9](/course-1-foundations/module-1/lesson-9-explore-project-management-roles#၅-အရေးကြီး-ဝေါဟာရဘဏ်-vocabulary-bank)
+
 ### K
 - **Kanban** <span class="vocab-tag">Tool / Method</span>
   - *English:* A visual system for managing work as it moves through a process (using boards and cards).
@@ -501,6 +521,16 @@ Google Project Management Certificate တွင် တွေ့ကြုံရ�
   - *မြန်မာပြန်:* ကမ္ဘာ့ထိပ်တန်း ပရောဂျက် စီမံခန့်ခွဲမှုဆိုင်ရာ ပရော်ဖက်ရှင်နယ် အဖွဲ့အစည်းကြီး။
   - *သင်ခန်းစာ:* [Lesson 1.1](/course-1-foundations/module-1/lesson-1-program-and-course-overview#၄-အင်္ဂလိပ်-ဝေါဟာရနှင့်-အသုံးအနှုန်းများ-vocabulary-terminology-bank)
 
+- **PMO (Project Management Office)** <span class="vocab-tag">Noun Phrase</span>
+  - *English:* An organizational department defining, maintaining, and ensuring standards for PM practice.
+  - *မြန်မာပြန်:* ပရောဂျက် စီမံခန့်ခွဲမှု စံနှုန်းများကို ထိန်းသိမ်းကြီးကြပ်ပေးသော ပရောဂျက်ရုံးအဖွဲ့။
+  - *သင်ခန်းစာ:* [Lesson 1.9](/course-1-foundations/module-1/lesson-9-explore-project-management-roles#၅-အရေးကြီး-ဝေါဟာရဘဏ်-vocabulary-bank)
+
+- **PMO Analyst** <span class="vocab-tag">Noun Phrase</span>
+  - *English:* A specialist who analyzes complex project portfolio progress, metrics, and governance within a PMO.
+  - *မြန်မာပြန်:* PMO ရုံးအဖွဲ့တွင် ပရောဂျက်တိုးတက်မှု ဒေတာများကို သုံးသပ်အစီရင်ခံပေးသူ။
+  - *သင်ခန်းစာ:* [Lesson 1.9](/course-1-foundations/module-1/lesson-9-explore-project-management-roles#၅-အရေးကြီး-ဝေါဟာရဘဏ်-vocabulary-bank)
+
 - **Poor Project Management** <span class="vocab-tag">Phrase</span>
   - *English:* Ineffective planning, tracking, or leadership leading to wasted costs and failures.
   - *မြန်မာပြန်:* အားနည်းညံ့ဖျင်းသော၊ စနစ်တကျ မရှိသော ပရောဂျက် စီမံခန့်ခွဲမှု။
@@ -510,6 +540,11 @@ Google Project Management Certificate တွင် တွေ့ကြုံရ�
   - *English:* A curated collection of past projects and tangible work samples demonstrating competence.
   - *မြန်မာပြန်:* မိမိ၏ ကျွမ်းကျင်မှုနှင့် လက်တွေ့လုပ်ဆောင်ချက်များကို ပြသသည့် လက်ရာအစုအဝေး။
   - *သင်ခန်းစာ:* [Lesson 1.8](/course-1-foundations/module-1/lesson-8-from-certificate-to-career-success#၄-အရေးကြီး-ဝေါဟာရဘဏ်-vocabulary-bank)
+
+- **Portfolio Manager** <span class="vocab-tag">Noun Phrase</span>
+  - *English:* An executive or senior manager who oversees a group of programs, projects, and operational activities to achieve strategic business objectives.
+  - *မြန်မာပြန်:* လုပ်ငန်း၏ မဟာဗျူဟာရည်မှန်းချက်များနှင့် ကိုက်ညီစေရန် ပရောဂျက်များနှင့် ပရိုဂရမ်အစုအဝေး (Portfolio) တစ်ခုလုံးကို ရင်းနှီးမြှုပ်နှံမှု ရှုထောင့်မှ ကြီးကြပ်စီမံသူ။
+  - *သင်ခန်းစာ:* [Lesson 1.9](/course-1-foundations/module-1/lesson-9-explore-project-management-roles#၅-အရေးကြီး-ဝေါဟာရဘဏ်-vocabulary-bank)
 
 - **Position and a Skill** <span class="vocab-tag">Phrase</span>
   - *English:* Seeing PM not just as a job title, but as a universal capability applicable anywhere.
@@ -521,6 +556,11 @@ Google Project Management Certificate တွင် တွေ့ကြုံရ�
   - *မြန်မာပြန်:* အပြည့်အစုံမစတင်မီ ကြိုတင် မိတ်ဆက်ပြသသည်။
   - *သင်ခန်းစာ:* [Lesson 1.2](/course-1-foundations/module-1/lesson-2-introduction-to-course-1#၄-အင်္ဂလိပ်-ဝေါဟာရနှင့်-အသုံးအနှုန်းများ-vocabulary-terminology-bank)
 
+- **Product Owner** <span class="vocab-tag">Noun Phrase</span>
+  - *English:* The person in an Agile team responsible for maximizing product value, owning the vision, and managing the product backlog.
+  - *မြန်မာပြန်:* Agile အဖွဲ့တွင် ထုတ်ကုန်၏ တန်ဖိုးကို အမြင့်မားဆုံးဖြစ်စေရန် ဦးဆောင်ပြီး Product Backlog ကို ဦးစားပေး စီမံခန့်ခွဲသူ။
+  - *သင်ခန်းစာ:* [Lesson 1.9](/course-1-foundations/module-1/lesson-9-explore-project-management-roles#၅-အရေးကြီး-ဝေါဟာရဘဏ်-vocabulary-bank)
+
 - **Program Manager** <span class="vocab-tag">Noun</span>
   - *English:* A professional who oversees a group of related projects and programs aligned with strategic goals.
   - *မြန်မာပြန်:* ပရောဂျက်များစွာ သို့မဟုတ် မဟာဗျူဟာ ပရိုဂရမ်တစ်ခုလုံးကို ကြီးကြပ်ကွပ်ကဲရသော စီမံခန့်ခွဲသူ။
@@ -531,15 +571,35 @@ Google Project Management Certificate တွင် တွေ့ကြုံရ�
   - *မြန်မာပြန်:* စတင်ချိန်နှင့် ပြီးဆုံးချိန် တိကျစွာရှိပြီး သီးသန့်ရလဒ်တစ်ခု ထွက်ပေါ်လာစေရန် ဆောင်ရွက်ရသော ယာယီလုပ်ငန်းစဉ် (ပရောဂျက်)။
   - *သင်ခန်းစာ:* [Lesson 1.4](/course-1-foundations/module-1/lesson-4-what-is-project-management#၄-အင်္ဂလိပ်-ဝေါဟာရနှင့်-အသုံးအနှုန်းများ-vocabulary-terminology-bank)
 
+- **Project Administrator** <span class="vocab-tag">Noun Phrase</span>
+  - *English:* A professional who assists project teams with documentation, tracking, meeting logs, and administrative processes.
+  - *မြန်မာပြန်:* စာရွက်စာတမ်းမှတ်တမ်းများ၊ အစည်းအဝေးမှတ်တမ်းများနှင့် ရုံးတွင်းစီမံခန့်ခွဲမှုများကို ထောက်ပံ့ကူညီပေးသူ။
+  - *သင်ခန်းစာ:* [Lesson 1.9](/course-1-foundations/module-1/lesson-9-explore-project-management-roles#၅-အရေးကြီး-ဝေါဟာရဘဏ်-vocabulary-bank)
+
+- **Project Analyst** <span class="vocab-tag">Noun Phrase</span>
+  - *English:* A specialist who tracks progress, analyzes metrics and budget variances, and designs data reports to support decision making.
+  - *မြန်မာပြန်:* ပရောဂျက်တိုးတက်မှု၊ ကုန်ကျစရိတ်နှင့် ဒေတာမက်ထရစ်များကို သုံးသပ်အကဲဖြတ်၍ အစီရင်ခံစာများ တင်ပြပေးသူ။
+  - *သင်ခန်းစာ:* [Lesson 1.9](/course-1-foundations/module-1/lesson-9-explore-project-management-roles#၅-အရေးကြီး-ဝေါဟာရဘဏ်-vocabulary-bank)
+
 - **Project-by-project basis** <span class="vocab-tag">Phrase</span>
   - *English:* Hired separately for each distinct project, with employment concluding upon project completion.
   - *မြန်မာပြန်:* ပရောဂျက်တစ်ခုပြီးတစ်ခု အခြေခံဖြင့်။
   - *သင်ခန်းစာ:* [Lesson 1.8](/course-1-foundations/module-1/lesson-8-from-certificate-to-career-success#၄-အရေးကြီး-ဝေါဟာရဘဏ်-vocabulary-bank)
 
+- **Project Controller** <span class="vocab-tag">Noun Phrase</span>
+  - *English:* A role focused on monitoring and controlling project schedules, budgets, and cost performance against benchmarks.
+  - *မြန်မာပြန်:* ပရောဂျက်၏ အချိန်ဇယား၊ ဘတ်ဂျက်နှင့် ကုန်ကျစရိတ်ထိန်းချုပ်မှုများကို စံချိန်စံညွှန်းများနှင့်အညီ ကြီးကြပ်စစ်ဆေးသူ။
+  - *သင်ခန်းစာ:* [Lesson 1.9](/course-1-foundations/module-1/lesson-9-explore-project-management-roles#၅-အရေးကြီး-ဝေါဟာရဘဏ်-vocabulary-bank)
+
 - **Project Coordinator** <span class="vocab-tag">Noun Phrase</span>
   - *English:* A critical project management support role facilitating schedules, resources, and team communication.
   - *မြန်မာပြန်:* ပရောဂျက်တစ်ခု ချောမွေ့စေရန် အစီအစဉ်နှင့် အဖွဲ့ဝင်များကို ညှိနှိုင်းပေါင်းစပ်ပေးသူ။
   - *သင်ခန်းစာ:* [Lesson 1.8](/course-1-foundations/module-1/lesson-8-from-certificate-to-career-success#၄-အရေးကြီး-ဝေါဟာရဘဏ်-vocabulary-bank)
+
+- **Project Leader / Director** <span class="vocab-tag">Noun Phrase</span>
+  - *English:* A senior leadership role providing strategic direction, high-level governance, and final accountability for project success.
+  - *မြန်မာပြန်:* ပရောဂျက်တစ်ခုလုံး၏ မဟာဗျူဟာဦးတည်ချက်၊ အဖွဲ့ဦးဆောင်မှုနှင့် အဆင့်မြင့်ဆုံးဖြတ်ချက်များအတွက် တာဝန်ယူသူ။
+  - *သင်ခန်းစာ:* [Lesson 1.9](/course-1-foundations/module-1/lesson-9-explore-project-management-roles#၅-အရေးကြီး-ဝေါဟာရဘဏ်-vocabulary-bank)
 
 - **Project Life Cycle** <span class="vocab-tag">Phrase</span>
   - *English:* The complete series of phases that a project goes through from start to finish.
@@ -561,6 +621,11 @@ Google Project Management Certificate တွင် တွေ့ကြုံရ�
   - *မြန်မာပြန်:* ပရောဂျက် အစီအစဉ် ရေးဆွဲမှုမှတ်တမ်း။
   - *သင်ခန်းစာ:* [Lesson 1.5](/course-1-foundations/module-1/lesson-5-what-does-a-project-manager-do#၄-အရေးကြီး-ဝေါဟာရဘဏ်-vocabulary-bank)
 
+- **Project Support Specialist** <span class="vocab-tag">Noun Phrase</span>
+  - *English:* A support professional assisting project managers with administrative logistics, system tools, and documentation.
+  - *မြန်မာပြန်:* ပရောဂျက် စီမံခန့်ခွဲမှုစနစ်များနှင့် နေ့စဉ်လုပ်ငန်းများကို နည်းပညာနှင့် စီမံခန့်ခွဲမှုဘက်မှ အထောက်အကူပြုပေးသူ။
+  - *သင်ခန်းစာ:* [Lesson 1.9](/course-1-foundations/module-1/lesson-9-explore-project-management-roles#၅-အရေးကြီး-ဝေါဟာရဘဏ်-vocabulary-bank)
+
 - **Project-oriented sectors** <span class="vocab-tag">Phrase</span>
   - *English:* Industries whose core work is driven primarily by projects (e.g. IT, Construction).
   - *မြန်မာပြန်:* ပရောဂျက်များကို အခြေပြု၍ လည်ပတ်နေသော စက်မှုစီးပွားရေး ကဏ္ဍကြီးများ။
@@ -570,6 +635,12 @@ Google Project Management Certificate တွင် တွေ့ကြုံရ�
   - *English:* To follow, seek, or chase an occupation, career, or goal.
   - *မြန်မာပြန်:* ရည်မှန်းချက် သို့မဟုတ် အလုပ်အကိုင်တစ်ခုကို လိုက်စားရှာဖွေ လျှောက်လှမ်းသည်။
   - *သင်ခန်းစာ:* [Lesson 1.2](/course-1-foundations/module-1/lesson-2-introduction-to-course-1#၄-အင်္ဂလိပ်-ဝေါဟာရနှင့်-အသုံးအနှုန်းများ-vocabulary-terminology-bank)
+
+### Q
+- **Quality Control** <span class="vocab-tag">Noun Phrase</span>
+  - *English:* The process of inspecting, testing, and verifying that project deliverables meet specified standards and quality criteria.
+  - *မြန်မာပြန်:* ပရောဂျက်ထုတ်ကုန် သို့မဟုတ် ဝန်ဆောင်မှုများသည် သတ်မှတ်ထားသော စံချိန်စံညွှန်းများနှင့် ကိုက်ညီမှုရှိမရှိ စစ်ဆေးအတည်ပြုခြင်း။
+  - *သင်ခန်းစာ:* [Lesson 1.9](/course-1-foundations/module-1/lesson-9-explore-project-management-roles#၅-အရေးကြီး-ဝေါဟာရဘဏ်-vocabulary-bank)
 
 ### R
 - **Relocate** <span class="vocab-tag">Verb</span>
@@ -586,6 +657,11 @@ Google Project Management Certificate တွင် တွေ့ကြုံရ�
   - *English:* To settle disagreements, friction, or clashes between individuals amicably.
   - *မြန်မာပြန်:* သဘောထားကွဲလွဲမှု သို့မဟုတ် ပဋိပက္ခများကို အဆင်ပြေစွာ ညှိနှိုင်းဖြေရှင်းသည်။
   - *သင်ခန်းစာ:* [Lesson 1.7](/course-1-foundations/module-1/lesson-7-x-path-to-becoming-a-project-manager#၄-အရေးကြီး-ဝေါဟာရဘဏ်-vocabulary-bank)
+
+- **Risk Assessment** <span class="vocab-tag">Noun Phrase</span>
+  - *English:* The systematic identification, analysis, and evaluation of potential risks that could impact project success.
+  - *မြန်မာပြန်:* ပရောဂျက်အောင်မြင်မှုကို ထိခိုက်စေနိုင်သည့် အန္တရာယ်နှင့် စိန်ခေါ်မှုများကို စနစ်တကျ ကြိုတင်ရှာဖွေ သုံးသပ်အကဲဖြတ်ခြင်း။
+  - *သင်ခန်းစာ:* [Lesson 1.9](/course-1-foundations/module-1/lesson-9-explore-project-management-roles#၅-အရေးကြီး-ဝေါဟာရဘဏ်-vocabulary-bank)
 
 - **Roles and Responsibilities** <span class="vocab-tag">Phrase</span>
   - *English:* The specific functions, duties, and obligations expected of a person in a job.
@@ -607,6 +683,11 @@ Google Project Management Certificate တွင် တွေ့ကြုံရ�
   - *English:* The definitive official guide containing the definition, rules, and roles of Scrum.
   - *မြန်မာပြန်:* Agile နည်းစနစ်သုံး Scrum လုပ်ငန်းစဉ်၏ တရားဝင် စည်းမျဉ်းနှင့် လမ်းညွှန်ကျမ်း။
   - *သင်ခန်းစာ:* [Lesson 1.3](/course-1-foundations/module-1/lesson-3-helpful-resources-to-get-started#၄-အင်္ဂလိပ်-ဝေါဟာရနှင့်-အသုံးအနှုန်းများ-vocabulary-terminology-bank)
+
+- **Scrum Master** <span class="vocab-tag">Noun Phrase</span>
+  - *English:* A facilitator and servant-leader in the Scrum framework who guides the team in applying Scrum principles and removes project blockers.
+  - *မြန်မာပြန်:* Scrum လုပ်ငန်းစဉ်တွင် အဖွဲ့အား လမ်းညွှန်ပေးပြီး ပရောဂျက်အဟန့်အတား (Blockers) များကို ဖယ်ရှားပေးသော အခရာကျသူ။
+  - *သင်ခန်းစာ:* [Lesson 1.9](/course-1-foundations/module-1/lesson-9-explore-project-management-roles#၅-အရေးကြီး-ဝေါဟာရဘဏ်-vocabulary-bank)
 
 - **Selling point** <span class="vocab-tag">Noun</span>
   - *English:* A prominent feature or strength used to convince someone to choose or hire you.
@@ -663,6 +744,11 @@ Google Project Management Certificate တွင် တွေ့ကြုံရ�
   - *English:* Assigned a specific duty, chore, or responsibility.
   - *မြန်မာပြန်:* တာဝန်တစ်ခုခု ပေးအပ်ခြင်း ခံရသည်။
   - *သင်ခန်းစာ:* [Lesson 1.0](/course-1-foundations/module-1/lesson-0-welcome-to-google-pm#၄-အင်္ဂလိပ်-ဝေါဟာရနှင့်-အသုံးအနှုန်းများ-vocabulary-terminology-bank)
+
+- **Technical Project Manager (TPM)** <span class="vocab-tag">Noun Phrase</span>
+  - *English:* A project manager who possesses deep technical and architectural knowledge to lead complex engineering and technology projects.
+  - *မြန်မာပြန်:* နည်းပညာနှင့် အင်ဂျင်နီယာဆိုင်ရာ ကျွမ်းကျင်မှုနက်ရှိုင်းစွာဖြင့် ဆော့ဖ်ဝဲလ်နှင့် အိုင်တီပရောဂျက်များကို ဦးဆောင်စီမံသူ။
+  - *သင်ခန်းစာ:* [Lesson 1.9](/course-1-foundations/module-1/lesson-9-explore-project-management-roles#၅-အရေးကြီး-ဝေါဟာရဘဏ်-vocabulary-bank)
 
 - **Team Dynamics** <span class="vocab-tag">Phrase</span>
   - *English:* The behavioral relationships and unconscious forces that influence the direction of a team's performance.
