@@ -68,6 +68,7 @@ export default defineConfig({
                 { text: '1.4 What is Project Management?', link: '/course-1-foundations/module-1/lesson-4-what-is-project-management' },
                 { text: '1.5 What Does a PM Do?', link: '/course-1-foundations/module-1/lesson-5-what-does-a-project-manager-do' },
                 { text: '1.6 Transferable PM Skills', link: '/course-1-foundations/module-1/lesson-6-transferable-project-management-skills' },
+                { text: '1.7 Path to Becoming a PM (X)', link: '/course-1-foundations/module-1/lesson-7-x-path-to-becoming-a-project-manager' },
               ]
             },
             {

@@ -14,8 +14,8 @@
 | **Lesson 1.3** | Helpful Resources to Get Started (အထောက်အကူပြု အရင်းအမြစ်များ) | ✅ ပြီးစီး | [ဖတ်ရှုရန်](/course-1-foundations/module-1/lesson-3-helpful-resources-to-get-started) |
 | **Lesson 1.4** | What is Project Management? (ပရောဂျက် စီမံခန့်ခွဲမှုဆိုတာ ဘာလဲ) | ✅ ပြီးစီး | [ဖတ်ရှုရန်](/course-1-foundations/module-1/lesson-4-what-is-project-management) |
 | **Lesson 1.5** | What Does a Project Manager Do? (PM တစ်ဦး နေ့စဉ် ဘာလုပ်သလဲ) | ✅ ပြီးစီး | [ဖတ်ရှုရန်](/course-1-foundations/module-1/lesson-5-what-does-a-project-manager-do) |
-| **Lesson 1.6** | Transferable PM Skills (လွှဲပြောင်းအသုံးချနိုင်သော အရည်အချင်းများ) | ✅ ပြီးစီး | [ဖတ်ရှုရန်](/course-1-foundations/module-1/lesson-6-transferable-project-management-skills) |
-| **Lesson 1.7** | Exploring PM Roles & Opportunities | ⏳ မကြာမီ | - |
+| **Lesson 1.7** | X: Path to Becoming a PM (X ၏ PM ဖြစ်လာပုံ ခရီးလမ်း) | ✅ ပြီးစီး | [ဖတ်ရှုရန်](/course-1-foundations/module-1/lesson-7-x-path-to-becoming-a-project-manager) |
+| **Lesson 1.8** | Exploring PM Roles & Opportunities | ⏳ မကြာမီ | - |
 
 ---
 

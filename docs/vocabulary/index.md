@@ -11,6 +11,11 @@ Google Project Management Certificate တွင် တွေ့ကြုံရ�
 ## 🔤 အက္ခရာစဉ်အလိုက် ဝေါဟာရများ (Alphabetical Index)
 
 ### A
+- **Accountability** <span class="vocab-tag">Noun</span>
+  - *English:* The willingness or obligation to accept responsibility for one's actions.
+  - *မြန်မာပြန်:* မိမိလုပ်ရပ်နှင့် ရလဒ်များအပေါ် တာဝန်ခံမှု၊ တာဝန်ယူနိုင်စွမ်း။
+  - *သင်ခန်းစာ:* [Lesson 1.7](/course-1-foundations/module-1/lesson-7-x-path-to-becoming-a-project-manager#၄-အရေးကြီး-ဝေါဟာရဘဏ်-vocabulary-bank)
+
 - **Achievable Goals** <span class="vocab-tag">Phrase</span>
   - *English:* Realistic targets or objectives that can genuinely be reached.
   - *မြန်မာပြန်:* လက်တွေ့ ရောက်ရှိအောင်မြင်နိုင်သော ပန်းတိုင်များ။
@@ -108,6 +113,11 @@ Google Project Management Certificate တွင် တွေ့ကြုံရ�
   - *မြန်မာပြန်:* အရှိန်ကို တစ်ဆင့်မြှင့်တင်လိုက်သည်၊ ပိုမိုအားထည့် လုပ်ဆောင်သည်။
   - *သင်ခန်းစာ:* [Lesson 1.2](/course-1-foundations/module-1/lesson-2-introduction-to-course-1#၄-အင်္ဂလိပ်-ဝေါဟာရနှင့်-အသုံးအနှုန်းများ-vocabulary-terminology-bank)
 
+- **Credential** <span class="vocab-tag">Noun</span>
+  - *English:* A qualification, certificate, or evidence of authority and status.
+  - *မြန်မာပြန်:* ပညာအရည်အချင်း အထောက်အထား လက်မှတ်။
+  - *သင်ခန်းစာ:* [Lesson 1.7](/course-1-foundations/module-1/lesson-7-x-path-to-becoming-a-project-manager#၄-အရေးကြီး-ဝေါဟာရဘဏ်-vocabulary-bank)
+
 - **Cumulative Graded Score** <span class="vocab-tag">Phrase</span>
   - *English:* The total combined points or percentage earned across all graded items.
   - *မြန်မာပြန်:* သင်ရိုးတွင်း စစ်ဆေးချက်များ အားလုံးမှ စုပေါင်း စုဆောင်းရရှိသော စုစုပေါင်း ရမှတ်။
@@ -148,6 +158,11 @@ Google Project Management Certificate တွင် တွေ့ကြုံရ�
   - *English:* Showing steady, earnest, and energetic effort; hardworking.
   - *မြန်မာပြန်:* ဝီရိယရှိသော၊ လုံ့လစိုက်ထုတ်သော၊ စေ့စပ်သေချာသော။
   - *သင်ခန်းစာ:* [Lesson 1.0](/course-1-foundations/module-1/lesson-0-welcome-to-google-pm#၄-အင်္ဂလိပ်-ဝေါဟာရနှင့်-အသုံးအနှုန်းများ-vocabulary-terminology-bank)
+
+- **Drop out** <span class="vocab-tag">Phrasal Verb</span>
+  - *English:* To quit, abandon, or leave school or university before graduating.
+  - *မြန်မာပြန်:* ကျောင်းထွက်သည်၊ ပညာသင်ကြားမှုကို မပြီးဆုံးမီ ရပ်နားလိုက်သည်။
+  - *သင်ခန်းစာ:* [Lesson 1.7](/course-1-foundations/module-1/lesson-7-x-path-to-becoming-a-project-manager#၄-အရေးကြီး-ဝေါဟာရဘဏ်-vocabulary-bank)
 
 ### E
 - **Employer Consortium** <span class="vocab-tag">Phrase</span>
@@ -201,6 +216,11 @@ Google Project Management Certificate တွင် တွေ့ကြုံရ�
   - *English:* The process of identifying, analyzing, and documenting what the project must deliver.
   - *မြန်မာပြန်:* ပရောဂျက်အတွက် လိုအပ်ချက်များကို ရှာဖွေဖော်ထုတ် စုဆောင်းခြင်း။
   - *သင်ခန်းစာ:* [Lesson 1.5](/course-1-foundations/module-1/lesson-5-what-does-a-project-manager-do#၄-အရေးကြီး-ဝေါဟာရဘဏ်-vocabulary-bank)
+
+- **GED** <span class="vocab-tag">Abbreviation / Noun</span>
+  - *English:* General Educational Development; a certificate equivalent to a US high school diploma.
+  - *မြန်မာပြန်:* အမေရိကန် အထက်တန်းကျောင်းဆင်း လက်မှတ်နှင့် ညီမျှသော စာမေးပွဲ။
+  - *သင်ခန်းစာ:* [Lesson 1.7](/course-1-foundations/module-1/lesson-7-x-path-to-becoming-a-project-manager#၄-အရေးကြီး-ဝေါဟာရဘဏ်-vocabulary-bank)
 
 - **Get acquainted with** <span class="vocab-tag">Idiom / Phrase</span>
   - *English:* To become familiar with or knowledgeable about something.
@@ -264,6 +284,11 @@ Google Project Management Certificate တွင် တွေ့ကြုံရ�
   - *မြန်မာပြန်:* အကြောင်းအရာတစ်ခုကို ထိုးထွင်းသိမြင် နားလည်စေမည့် အချက်ကျသော မေးခွန်းများ။
   - *သင်ခန်းစာ:* [Lesson 1.3](/course-1-foundations/module-1/lesson-3-helpful-resources-to-get-started#၄-အင်္ဂလိပ်-ဝေါဟာရနှင့်-အသုံးအနှုန်းများ-vocabulary-terminology-bank)
 
+- **Intentional** <span class="vocab-tag">Adjective</span>
+  - *English:* Done deliberately with conscious purpose and strategic design.
+  - *မြန်မာပြန်:* ရည်ရွယ်ချက်ရှိရှိ စနစ်တကျ ပြုလုပ်သော။
+  - *သင်ခန်းစာ:* [Lesson 1.7](/course-1-foundations/module-1/lesson-7-x-path-to-becoming-a-project-manager#၄-အရေးကြီး-ဝေါဟာရဘဏ်-vocabulary-bank)
+
 ### J
 - **Juggle** <span class="vocab-tag">Verb</span>
   - *English:* To handle, balance, or cope with multiple tasks concurrently.
@@ -280,6 +305,11 @@ Google Project Management Certificate တွင် တွေ့ကြုံရ�
   - *English:* The first official gathering of the project team and stakeholders to establish alignment, goals, and expectations.
   - *မြန်မာပြန်:* ပရောဂျက် စတင်မိတ်ဆက်သည့် ကနဦး အစည်းအဝေး။
   - *သင်ခန်းစာ:* [Lesson 1.5](/course-1-foundations/module-1/lesson-5-what-does-a-project-manager-do#၄-အရေးကြီး-ဝေါဟာရဘဏ်-vocabulary-bank)
+
+- **Kinetic learner** <span class="vocab-tag">Noun Phrase</span>
+  - *English:* A kinesthetic learner who grasps concepts best through hands-on doing and active physical practice.
+  - *မြန်မာပြန်:* စာအုပ်ဖတ်ရုံမဟုတ်ဘဲ လက်တွေ့ကိုယ်တိုင် လုပ်ကိုင်ရင်း သင်ယူတတ်သူ။
+  - *သင်ခန်းစာ:* [Lesson 1.7](/course-1-foundations/module-1/lesson-7-x-path-to-becoming-a-project-manager#၄-အရေးကြီး-ဝေါဟာရဘဏ်-vocabulary-bank)
 
 ### L
 - **Labor Force** <span class="vocab-tag">Noun</span>
@@ -302,6 +332,11 @@ Google Project Management Certificate တွင် တွေ့ကြုံရ�
   - *English:* To plan or arrange the details of something carefully.
   - *မြန်မာပြန်:* အစီအစဉ်တစ်ခုကို အသေးစိတ် ပုံဖော်ရေးဆွဲ ချမှတ်သည်။
   - *သင်ခန်းစာ:* [Lesson 1.1](/course-1-foundations/module-1/lesson-1-program-and-course-overview#၄-အင်္ဂလိပ်-ဝေါဟာရနှင့်-အသုံးအနှုန်းများ-vocabulary-terminology-bank)
+
+- **Mature adult** <span class="vocab-tag">Noun Phrase</span>
+  - *English:* An individual exhibiting emotional responsibility, discipline, and sound judgment.
+  - *မြန်မာပြန်:* စိတ်ပိုင်းဆိုင်ရာ ရင့်ကျက်တည်ငြိမ်ပြီး တာဝန်သိတတ်သော လူကြီး။
+  - *သင်ခန်းစာ:* [Lesson 1.7](/course-1-foundations/module-1/lesson-7-x-path-to-becoming-a-project-manager#၄-အရေးကြီး-ဝေါဟာရဘဏ်-vocabulary-bank)
 
 - **Milestones** <span class="vocab-tag">Noun (pl)</span>
   - *English:* Significant reference points or checkpoints marking major progress in a project.
@@ -329,10 +364,20 @@ Google Project Management Certificate တွင် တွေ့ကြုံရ�
   - *သင်ခန်းစာ:* [Lesson 1.0](/course-1-foundations/module-1/lesson-0-welcome-to-google-pm#၄-အင်္ဂလိပ်-ဝေါဟာရနှင့်-အသုံးအနှုန်းများ-vocabulary-terminology-bank)
 
 ### N
+- **Natural calling** <span class="vocab-tag">Noun Phrase</span>
+  - *English:* An occupation or profession to which one feels innately drawn or destined.
+  - *မြန်မာပြန်:* ပင်ကိုယ်စိတ်ဆန္ဒအရ ရွေးချယ်မိသော အလုပ်၊ ဝါသနာအရင်းခံသည့် ရည်မှန်းချက်။
+  - *သင်ခန်းစာ:* [Lesson 1.7](/course-1-foundations/module-1/lesson-7-x-path-to-becoming-a-project-manager#၄-အရေးကြီး-ဝေါဟာရဘဏ်-vocabulary-bank)
+
 - **No penalty** <span class="vocab-tag">Phrase</span>
   - *English:* No punishment, loss of points, or negative consequences.
   - *မြန်မာပြန်:* ပြစ်ဒဏ် သို့မဟုတ် အမှတ်လျှော့ခံရခြင်း မရှိသော။
   - *သင်ခန်းစာ:* [Lesson 1.1](/course-1-foundations/module-1/lesson-1-program-and-course-overview#၄-အင်္ဂလိပ်-ဝေါဟာရနှင့်-အသုံးအနှုန်းများ-vocabulary-terminology-bank)
+
+- **Non-traditional** <span class="vocab-tag">Adjective</span>
+  - *English:* Not following established, conventional paths or customs; alternative.
+  - *မြန်မာပြန်:* သမားရိုးကျမဟုတ်သော၊ ကိုယ်ပိုင်ထူးခြားသည့် လမ်းကြောင်းဖြင့် သွားသော။
+  - *သင်ခန်းစာ:* [Lesson 1.7](/course-1-foundations/module-1/lesson-7-x-path-to-becoming-a-project-manager#၄-အရေးကြီး-ဝေါဟာရဘဏ်-vocabulary-bank)
 
 ### O
 - **On pace** <span class="vocab-tag">Idiom</span>
@@ -344,6 +389,11 @@ Google Project Management Certificate တွင် တွေ့ကြုံရ�
   - *English:* Being noticed, thought of, or considered as a possibility.
   - *မြန်မာပြန်:* မိမိ၏ အာရုံစိုက်မှု သို့မဟုတ် အတွေးနယ်ပယ်ထဲတွင် ရှိနေသည်။
   - *သင်ခန်းစာ:* [Lesson 1.0](/course-1-foundations/module-1/lesson-0-welcome-to-google-pm#၄-အင်္ဂလိပ်-ဝေါဟာရနှင့်-အသုံးအနှုန်းများ-vocabulary-terminology-bank)
+
+- **On the same page** <span class="vocab-tag">Idiom</span>
+  - *English:* Sharing the same understanding, assumptions, and agreed goals.
+  - *မြန်မာပြန်:* သဘောထားနှင့် နားလည်မှု တစ်သားတည်းဖြစ်သော။
+  - *သင်ခန်းစာ:* [Lesson 1.7](/course-1-foundations/module-1/lesson-7-x-path-to-becoming-a-project-manager#၄-အရေးကြီး-ဝေါဟာရဘဏ်-vocabulary-bank)
 
 - **On track and on budget** <span class="vocab-tag">Idiom / Phrase</span>
   - *English:* Progressing according to schedule and within the allocated financial limits.
@@ -366,6 +416,11 @@ Google Project Management Certificate တွင် တွေ့ကြုံရ�
   - *သင်ခန်းစာ:* [Lesson 1.2](/course-1-foundations/module-1/lesson-2-introduction-to-course-1#၄-အင်္ဂလိပ်-ဝေါဟာရနှင့်-အသုံးအနှုန်းများ-vocabulary-terminology-bank)
 
 ### P
+- **Paperwork** <span class="vocab-tag">Noun</span>
+  - *English:* Routine clerical, administrative documentation and reports.
+  - *မြန်မာပြန်:* စာရွက်စာတမ်းဆိုင်ရာ မှတ်တမ်းမှတ်ရာ လုပ်ငန်းစဉ်များ။
+  - *သင်ခန်းစာ:* [Lesson 1.7](/course-1-foundations/module-1/lesson-7-x-path-to-becoming-a-project-manager#၄-အရေးကြီး-ဝေါဟာရဘဏ်-vocabulary-bank)
+
 - **Passing Grade** <span class="vocab-tag">Phrase</span>
   - *English:* The minimum score or percentage required to pass an exam or course (80%).
   - *မြန်မာပြန်:* သင်ရိုးတစ်ခုကို အောင်မြင်သည်ဟု သတ်မှတ်နိုင်ရန် လိုအပ်သော အနည်းဆုံး အောင်မှတ် (၈၀%)။
@@ -451,6 +506,11 @@ Google Project Management Certificate တွင် တွေ့ကြုံရ�
   - *English:* Changing due dates to start fresh without consequences.
   - *မြန်မာပြန်:* သတ်မှတ်ပြီးစီးရက်များကို အစမှ ပြန်လည်ညှိနှိုင်း သတ်မှတ်သည်။
   - *သင်ခန်းစာ:* [Lesson 1.1](/course-1-foundations/module-1/lesson-1-program-and-course-overview#၄-အင်္ဂလိပ်-ဝေါဟာရနှင့်-အသုံးအနှုန်းများ-vocabulary-terminology-bank)
+
+- **Resolve conflict** <span class="vocab-tag">Verb Phrase</span>
+  - *English:* To settle disagreements, friction, or clashes between individuals amicably.
+  - *မြန်မာပြန်:* သဘောထားကွဲလွဲမှု သို့မဟုတ် ပဋိပက္ခများကို အဆင်ပြေစွာ ညှိနှိုင်းဖြေရှင်းသည်။
+  - *သင်ခန်းစာ:* [Lesson 1.7](/course-1-foundations/module-1/lesson-7-x-path-to-becoming-a-project-manager#၄-အရေးကြီး-ဝေါဟာရဘဏ်-vocabulary-bank)
 
 - **Roles and Responsibilities** <span class="vocab-tag">Phrase</span>
   - *English:* The specific functions, duties, and obligations expected of a person in a job.
@@ -553,6 +613,11 @@ Google Project Management Certificate တွင် တွေ့ကြုံရ�
   - *English:* Skills and abilities developed in one area that can be applied effectively in a different role or field.
   - *မြန်မာပြန်:* ယခင် အလုပ် သို့မဟုတ် ဘဝအတွေ့အကြုံမှ ရရှိခဲ့ပြီး အခြားနယ်ပယ်အသစ်သို့ ယူဆောင်အသုံးချနိုင်သော အရည်အချင်းများ။
   - *သင်ခန်းစာ:* [Lesson 1.0](/course-1-foundations/module-1/lesson-0-welcome-to-google-pm#၄-အင်္ဂလိပ်-ဝေါဟာရနှင့်-အသုံးအနှုန်းများ-vocabulary-terminology-bank), [Lesson 1.6](/course-1-foundations/module-1/lesson-6-transferable-project-management-skills#၄-အရေးကြီး-ဝေါဟာရဘဏ်-vocabulary-bank)
+
+- **Transition** <span class="vocab-tag">Noun / Verb</span>
+  - *English:* The process or passage of changing from one condition, role, or stage to another.
+  - *မြန်မာပြန်:* အခန်းကဏ္ဍတစ်ခုမှ အခြားတစ်ခုသို့ ကူးပြောင်းခြင်း။
+  - *သင်ခန်းစာ:* [Lesson 1.7](/course-1-foundations/module-1/lesson-7-x-path-to-becoming-a-project-manager#၄-အရေးကြီး-ဝေါဟာရဘဏ်-vocabulary-bank)
 
 ### U
 - **Underway** <span class="vocab-tag">Adjective</span>
