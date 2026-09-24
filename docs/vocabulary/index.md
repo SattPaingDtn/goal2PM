@@ -88,6 +88,11 @@ Google Project Management Certificate တွင် တွေ့ကြုံရ�
   - *မြန်မာပြန်:* မိမိ၏ အသက်မွေးဝမ်းကျောင်းဆိုင်ရာ အားသာချက်များနှင့် ရည်မှန်းချက်များကို ရေးသားထားသော ကိုယ်ပိုင် ကြေညာချက်။
   - *သင်ခန်းစာ:* [Lesson 1.3](/course-1-foundations/module-1/lesson-3-helpful-resources-to-get-started#၄-အင်္ဂလိပ်-ဝေါဟာရနှင့်-အသုံးအနှုန်းများ-vocabulary-terminology-bank)
 
+- **Cast a wide net** <span class="vocab-tag">Idiom</span>
+  - *English:* To search widely or consider a very broad range of options, titles, and avenues.
+  - *မြန်မာပြန်:* ကွန်ရက်ကို ကျယ်ကျယ်ပြန့်ပြန့် ဖြန့်ကြက်ရှာဖွေသည်။
+  - *သင်ခန်းစာ:* [Lesson 1.8](/course-1-foundations/module-1/lesson-8-from-certificate-to-career-success#၄-အရေးကြီး-ဝေါဟာရဘဏ်-vocabulary-bank)
+
 - **Certificate** <span class="vocab-tag">Noun</span>
   - *English:* An official document or credential attesting to the completion of a course or training.
   - *မြန်မာပြန်:* သင်တန်း သို့မဟုတ် သင်ရိုးတစ်ခုကို အောင်မြင်စွာ ပြီးဆုံးကြောင်း အသိအမှတ်ပြု လက်မှတ်။
@@ -97,6 +102,11 @@ Google Project Management Certificate တွင် တွေ့ကြုံရ�
   - *English:* To add to something in a way that enhances, improves, or balances qualities.
   - *မြန်မာပြန်:* အချင်းချင်း အားသာချက်များဖြင့် ဖြည့်ဆည်းပေးသည်၊ ပိုမိုပြည့်စုံစေသည်။
   - *သင်ခန်းစာ:* [Lesson 1.6](/course-1-foundations/module-1/lesson-6-transferable-project-management-skills#၄-အရေးကြီး-ဝေါဟာရဘဏ်-vocabulary-bank)
+
+- **Contract work** <span class="vocab-tag">Noun Phrase</span>
+  - *English:* Employment on a project-by-project or fixed-term basis rather than permanent status.
+  - *မြန်မာပြန်:* အချိန်ပြည့်မဟုတ်ဘဲ ပရောဂျက်တစ်ခုချင်းအလိုက် ကန်ထရိုက်စနစ်ဖြင့် လုပ်ကိုင်ခြင်း။
+  - *သင်ခန်းစာ:* [Lesson 1.8](/course-1-foundations/module-1/lesson-8-from-certificate-to-career-success#၄-အရေးကြီး-ဝေါဟာရဘဏ်-vocabulary-bank)
 
 - **Controlling Costs** <span class="vocab-tag">Phrase</span>
   - *English:* The discipline of monitoring and curbing expenditures to prevent budget overruns.
@@ -185,6 +195,11 @@ Google Project Management Certificate တွင် တွေ့ကြုံရ�
   - *မြန်မာပြန်:* လိုအပ်သော စွမ်းရည်၊ ဗဟုသုတ သို့မဟုတ် ကိရိယာများ အပြည့်အစုံ တပ်ဆင်ထားသော။
   - *သင်ခန်းစာ:* [Lesson 1.3](/course-1-foundations/module-1/lesson-3-helpful-resources-to-get-started#၄-အင်္ဂလိပ်-ဝေါဟာရနှင့်-အသုံးအနှုန်းများ-vocabulary-terminology-bank)
 
+- **Evergreen** <span class="vocab-tag">Adjective</span>
+  - *English:* Continually relevant, active, and sustainable over long periods without expiring.
+  - *မြန်မာပြန်:* အမြဲစိမ်းလန်းသော၊ အချိန်မရွေး အသုံးဝင်တည်တံ့နေသော။
+  - *သင်ခန်းစာ:* [Lesson 1.8](/course-1-foundations/module-1/lesson-8-from-certificate-to-career-success#၄-အရေးကြီး-ဝေါဟာရဘဏ်-vocabulary-bank)
+
 - **Exemplar** <span class="vocab-tag">Noun</span>
   - *English:* An ideal model or high-quality sample used for comparison.
   - *မြန်မာပြန်:* ကိုးကားနှိုင်းယှဉ်နိုင်ရန် ပြုလုပ်ထားသော စံပြ စံနမူနာ ဖန်တီးချက်။
@@ -200,6 +215,11 @@ Google Project Management Certificate တွင် တွေ့ကြုံရ�
   - *English:* Financial support given to students who cannot afford the course fee.
   - *မြန်မာပြန်:* သင်ရိုးကြေး မတတ်နိုင်သော ကျောင်းသားများအတွက် Coursera မှ ပေးအပ်သော ပညာသင် ထောက်ပံ့ကြေး။
   - *သင်ခန်းစာ:* [Lesson 1.3](/course-1-foundations/module-1/lesson-3-helpful-resources-to-get-started#၄-အင်္ဂလိပ်-ဝေါဟာရနှင့်-အသုံးအနှုန်းများ-vocabulary-terminology-bank)
+
+- **Foot in the door** <span class="vocab-tag">Idiom</span>
+  - *English:* An initial modest opening that provides a chance to progress to greater opportunities.
+  - *မြန်မာပြန်:* နယ်ပယ်တစ်ခုအတွင်းသို့ စတင်ခြေချခွင့်ရရှိခြင်း။
+  - *သင်ခန်းစာ:* [Lesson 1.8](/course-1-foundations/module-1/lesson-8-from-certificate-to-career-success#၄-အရေးကြီး-ဝေါဟာရဘဏ်-vocabulary-bank)
 
 - **Foundations** <span class="vocab-tag">Noun</span>
   - *English:* The fundamental principles, basis, or grounding of a subject.
@@ -253,6 +273,11 @@ Google Project Management Certificate တွင် တွေ့ကြုံရ�
   - *မြန်မာပြန်:* စာဖတ်ရုံမဟုတ်ဘဲ လက်တွေ့ကိုယ်တိုင် ကိုင်တွယ်ဆောင်ရွက်သော။
   - *သင်ခန်းစာ:* [Lesson 1.0](/course-1-foundations/module-1/lesson-0-welcome-to-google-pm#၄-အင်္ဂလိပ်-ဝေါဟာရနှင့်-အသုံးအနှုန်းများ-vocabulary-terminology-bank)
 
+- **High demand** <span class="vocab-tag">Phrase</span>
+  - *English:* Strong requirement or great market need for specific professionals or services.
+  - *မြန်မာပြန်:* ဝယ်လိုအား အလွန်မြင့်မားသော၊ လိုအပ်ချက် များပြားသော။
+  - *သင်ခန်းစာ:* [Lesson 1.8](/course-1-foundations/module-1/lesson-8-from-certificate-to-career-success#၄-အရေးကြီး-ဝေါဟာရဘဏ်-vocabulary-bank)
+
 - **Hone** <span class="vocab-tag">Verb</span>
   - *English:* To refine, sharpen, or perfect a skill over time.
   - *မြန်မာပြန်:* စွမ်းရည်တစ်ခုကို သွေးယူသည်၊ ပိုမိုထက်မြက်အောင် လေ့ကျင့်သည်။
@@ -263,6 +288,11 @@ Google Project Management Certificate တွင် တွေ့ကြုံရ�
   - *English:* To explain or make something clear using examples or analogies.
   - *မြန်မာပြန်:* ဥပမာပြ၍ ပိုမိုမြင်သာ ရှင်းလင်းစေသည်။
   - *သင်ခန်းစာ:* [Lesson 1.2](/course-1-foundations/module-1/lesson-2-introduction-to-course-1#၄-အင်္ဂလိပ်-ဝေါဟာရနှင့်-အသုံးအနှုန်းများ-vocabulary-terminology-bank)
+
+- **Industry-specific** <span class="vocab-tag">Adjective</span>
+  - *English:* Highly specialized and uniquely relevant to a single sector or business field.
+  - *မြန်မာပြန်:* သက်ဆိုင်ရာ လုပ်ငန်းကဏ္ဍတစ်ခုအတွက် သီးသန့် အထူးပြုထားသော။
+  - *သင်ခန်းစာ:* [Lesson 1.8](/course-1-foundations/module-1/lesson-8-from-certificate-to-career-success#၄-အရေးကြီး-ဝေါဟာရဘဏ်-vocabulary-bank)
 
 - **Industry Standards** <span class="vocab-tag">Phrase</span>
   - *English:* Established best practices, rules, or criteria accepted across a whole profession.
@@ -289,7 +319,17 @@ Google Project Management Certificate တွင် တွေ့ကြုံရ�
   - *မြန်မာပြန်:* ရည်ရွယ်ချက်ရှိရှိ စနစ်တကျ ပြုလုပ်သော။
   - *သင်ခန်းစာ:* [Lesson 1.7](/course-1-foundations/module-1/lesson-7-x-path-to-becoming-a-project-manager#၄-အရေးကြီး-ဝေါဟာရဘဏ်-vocabulary-bank)
 
+- **Internship** <span class="vocab-tag">Noun</span>
+  - *English:* A temporary training position giving students or beginners practical industry experience.
+  - *မြန်မာပြန်:* လက်တွေ့အတွေ့အကြုံ ရယူနိုင်ရန် အလုပ်သင်အဖြစ် လုပ်ကိုင်သည့် ကာလ/အစီအစဉ်။
+  - *သင်ခန်းစာ:* [Lesson 1.8](/course-1-foundations/module-1/lesson-8-from-certificate-to-career-success#၄-အရေးကြီး-ဝေါဟာရဘဏ်-vocabulary-bank)
+
 ### J
+- **Job boards** <span class="vocab-tag">Noun (pl)</span>
+  - *English:* Websites or digital platforms where employers advertise vacancies and candidates apply.
+  - *မြန်မာပြန်:* အလုပ်အကိုင် ခေါ်ယူမှုများကို စုစည်းဖော်ပြပေးသော ဝက်ဘ်ဆိုက်များ။
+  - *သင်ခန်းစာ:* [Lesson 1.8](/course-1-foundations/module-1/lesson-8-from-certificate-to-career-success#၄-အရေးကြီး-ဝေါဟာရဘဏ်-vocabulary-bank)
+
 - **Juggle** <span class="vocab-tag">Verb</span>
   - *English:* To handle, balance, or cope with multiple tasks concurrently.
   - *မြန်မာပြန်:* လုပ်ငန်းတာဝန်များစွာကို တစ်ပြိုင်နက် ဟန်ချက်ညီညီ ကိုင်တွယ်ထိန်းကျောင်းသည်။
@@ -369,6 +409,16 @@ Google Project Management Certificate တွင် တွေ့ကြုံရ�
   - *မြန်မာပြန်:* ပင်ကိုယ်စိတ်ဆန္ဒအရ ရွေးချယ်မိသော အလုပ်၊ ဝါသနာအရင်းခံသည့် ရည်မှန်းချက်။
   - *သင်ခန်းစာ:* [Lesson 1.7](/course-1-foundations/module-1/lesson-7-x-path-to-becoming-a-project-manager#၄-အရေးကြီး-ဝေါဟာရဘဏ်-vocabulary-bank)
 
+- **Navigate changes** <span class="vocab-tag">Verb Phrase</span>
+  - *English:* To steer, adapt, and lead an organization successfully through periods of transformation.
+  - *မြန်မာပြန်:* အပြောင်းအလဲများကို အောင်မြင်စွာ ရင်ဆိုင်ကျော်လွှား ထိန်းကျောင်းသည်။
+  - *သင်ခန်းစာ:* [Lesson 1.8](/course-1-foundations/module-1/lesson-8-from-certificate-to-career-success#၄-အရေးကြီး-ဝေါဟာရဘဏ်-vocabulary-bank)
+
+- **Networking** <span class="vocab-tag">Noun</span>
+  - *English:* Cultivating professional connections and mutual relationships for career growth.
+  - *မြန်မာပြန်:* လုပ်ငန်းနယ်ပယ်အတွင်း အကျိုးတူ မိတ်ဆွေကွန်ရက် ချိတ်ဆက်တည်ဆောက်ခြင်း။
+  - *သင်ခန်းစာ:* [Lesson 1.8](/course-1-foundations/module-1/lesson-8-from-certificate-to-career-success#၄-အရေးကြီး-ဝေါဟာရဘဏ်-vocabulary-bank)
+
 - **No penalty** <span class="vocab-tag">Phrase</span>
   - *English:* No punishment, loss of points, or negative consequences.
   - *မြန်မာပြန်:* ပြစ်ဒဏ် သို့မဟုတ် အမှတ်လျှော့ခံရခြင်း မရှိသော။
@@ -405,6 +455,11 @@ Google Project Management Certificate တွင် တွေ့ကြုံရ�
   - *မြန်မာပြန်:* အဖွဲ့အစည်းတစ်ခု နေ့စဉ် ပုံမှန်လည်ပတ်နေစေရန် ထပ်ခါတလဲလဲ လုပ်ဆောင်ရသော လုပ်ငန်းစဉ်များ။
   - *သင်ခန်းစာ:* [Lesson 1.4](/course-1-foundations/module-1/lesson-4-what-is-project-management#၄-အင်္ဂလိပ်-ဝေါဟာရနှင့်-အသုံးအနှုန်းများ-vocabulary-terminology-bank)
 
+- **Operations Assistant** <span class="vocab-tag">Noun Phrase</span>
+  - *English:* An entry-level role assisting operational and administrative workflows in a company.
+  - *မြန်မာပြန်:* နေ့စဉ်ပုံမှန် လုပ်ငန်းစဉ်များကို ကူညီပံ့ပိုးပေးရသော လက်ထောက်။
+  - *သင်ခန်းစာ:* [Lesson 1.8](/course-1-foundations/module-1/lesson-8-from-certificate-to-career-success#၄-အရေးကြီး-ဝေါဟာရဘဏ်-vocabulary-bank)
+
 - **Organizational Culture** <span class="vocab-tag">Phrase</span>
   - *English:* The shared values, beliefs, attitudes, and behaviors that characterize an organization.
   - *မြန်မာပြန်:* ကုမ္ပဏီ/အဖွဲ့အစည်းတစ်ခု၏ မျှဝေခံယူထားသော တန်ဖိုးများ၊ အလေ့အထများနှင့် ယဉ်ကျေးမှု။
@@ -426,6 +481,11 @@ Google Project Management Certificate တွင် တွေ့ကြုံရ�
   - *မြန်မာပြန်:* သင်ရိုးတစ်ခုကို အောင်မြင်သည်ဟု သတ်မှတ်နိုင်ရန် လိုအပ်သော အနည်းဆုံး အောင်မှတ် (၈၀%)။
   - *သင်ခန်းစာ:* [Lesson 1.3](/course-1-foundations/module-1/lesson-3-helpful-resources-to-get-started#၄-အင်္ဂလိပ်-ဝေါဟာရနှင့်-အသုံးအနှုန်းများ-vocabulary-terminology-bank)
 
+- **Patient management** <span class="vocab-tag">Noun Phrase</span>
+  - *English:* The coordination of healthcare processes, scheduling, and care logistics for clinic patients.
+  - *မြန်မာပြန်:* ဆေးရုံဆေးခန်းများတွင် လူနာစောင့်ရှောက်မှု လုပ်ငန်းစဉ်များကို စီမံခန့်ခွဲခြင်း။
+  - *သင်ခန်းစာ:* [Lesson 1.8](/course-1-foundations/module-1/lesson-8-from-certificate-to-career-success#၄-အရေးကြီး-ဝေါဟာရဘဏ်-vocabulary-bank)
+
 - **Peer Reviews** <span class="vocab-tag">Noun</span>
   - *English:* Evaluation of work by one or more people of similar competence.
   - *မြန်မာပြန်:* အတူတက်ရောက်နေသော သင်တန်းသား အချင်းချင်း အပြန်အလှန် အကဲဖြတ် သုံးသပ်ခြင်း။
@@ -446,6 +506,11 @@ Google Project Management Certificate တွင် တွေ့ကြုံရ�
   - *မြန်မာပြန်:* အားနည်းညံ့ဖျင်းသော၊ စနစ်တကျ မရှိသော ပရောဂျက် စီမံခန့်ခွဲမှု။
   - *သင်ခန်းစာ:* [Lesson 1.4](/course-1-foundations/module-1/lesson-4-what-is-project-management#၄-အင်္ဂလိပ်-ဝေါဟာရနှင့်-အသုံးအနှုန်းများ-vocabulary-terminology-bank)
 
+- **Portfolio** <span class="vocab-tag">Noun</span>
+  - *English:* A curated collection of past projects and tangible work samples demonstrating competence.
+  - *မြန်မာပြန်:* မိမိ၏ ကျွမ်းကျင်မှုနှင့် လက်တွေ့လုပ်ဆောင်ချက်များကို ပြသသည့် လက်ရာအစုအဝေး။
+  - *သင်ခန်းစာ:* [Lesson 1.8](/course-1-foundations/module-1/lesson-8-from-certificate-to-career-success#၄-အရေးကြီး-ဝေါဟာရဘဏ်-vocabulary-bank)
+
 - **Position and a Skill** <span class="vocab-tag">Phrase</span>
   - *English:* Seeing PM not just as a job title, but as a universal capability applicable anywhere.
   - *မြန်မာပြန်:* PM ကို ရာထူးတစ်ခုအနေဖြင့်သာမက မည်သည့်အလုပ်တွင်မဆို အသုံးချနိုင်သည့် စွမ်းရည်တစ်ခုအဖြစ် ရှုမြင်ခြင်း။
@@ -465,6 +530,16 @@ Google Project Management Certificate တွင် တွေ့ကြုံရ�
   - *English:* A temporary endeavor with a clear beginning and end undertaken to create a unique product, service, or result.
   - *မြန်မာပြန်:* စတင်ချိန်နှင့် ပြီးဆုံးချိန် တိကျစွာရှိပြီး သီးသန့်ရလဒ်တစ်ခု ထွက်ပေါ်လာစေရန် ဆောင်ရွက်ရသော ယာယီလုပ်ငန်းစဉ် (ပရောဂျက်)။
   - *သင်ခန်းစာ:* [Lesson 1.4](/course-1-foundations/module-1/lesson-4-what-is-project-management#၄-အင်္ဂလိပ်-ဝေါဟာရနှင့်-အသုံးအနှုန်းများ-vocabulary-terminology-bank)
+
+- **Project-by-project basis** <span class="vocab-tag">Phrase</span>
+  - *English:* Hired separately for each distinct project, with employment concluding upon project completion.
+  - *မြန်မာပြန်:* ပရောဂျက်တစ်ခုပြီးတစ်ခု အခြေခံဖြင့်။
+  - *သင်ခန်းစာ:* [Lesson 1.8](/course-1-foundations/module-1/lesson-8-from-certificate-to-career-success#၄-အရေးကြီး-ဝေါဟာရဘဏ်-vocabulary-bank)
+
+- **Project Coordinator** <span class="vocab-tag">Noun Phrase</span>
+  - *English:* A critical project management support role facilitating schedules, resources, and team communication.
+  - *မြန်မာပြန်:* ပရောဂျက်တစ်ခု ချောမွေ့စေရန် အစီအစဉ်နှင့် အဖွဲ့ဝင်များကို ညှိနှိုင်းပေါင်းစပ်ပေးသူ။
+  - *သင်ခန်းစာ:* [Lesson 1.8](/course-1-foundations/module-1/lesson-8-from-certificate-to-career-success#၄-အရေးကြီး-ဝေါဟာရဘဏ်-vocabulary-bank)
 
 - **Project Life Cycle** <span class="vocab-tag">Phrase</span>
   - *English:* The complete series of phases that a project goes through from start to finish.
@@ -542,6 +617,11 @@ Google Project Management Certificate တွင် တွေ့ကြုံရ�
   - *English:* To prepare the necessary conditions for something to happen or succeed.
   - *မြန်မာပြန်:* အခြေအနေကောင်းများ ကြိုတင်ဖန်တီးပြင်ဆင်ပေးသည်။
   - *သင်ခန်းစာ:* [Lesson 1.0](/course-1-foundations/module-1/lesson-0-welcome-to-google-pm#၄-အင်္ဂလိပ်-ဝေါဟာရနှင့်-အသုံးအနှုန်းများ-vocabulary-terminology-bank)
+
+- **Set yourself apart** <span class="vocab-tag">Idiom</span>
+  - *English:* To distinguish oneself and appear notably superior or unique among competitors.
+  - *မြန်မာပြန်:* အခြားသူများထက် ပိုမိုထင်ပေါ် ထူးခြားစေသည်။
+  - *သင်ခန်းစာ:* [Lesson 1.8](/course-1-foundations/module-1/lesson-8-from-certificate-to-career-success#၄-အရေးကြီး-ဝေါဟာရဘဏ်-vocabulary-bank)
 
 - **Sharpen** <span class="vocab-tag">Verb</span>
   - *English:* To hone, refine, and improve the effectiveness of a skill.
@@ -650,3 +730,10 @@ Google Project Management Certificate တွင် တွေ့ကြုံရ�
   - *English:* Medical consultations performed online via video/audio calls.
   - *မြန်မာပြန်:* အွန်လိုင်းမှတစ်ဆင့် ဆရာဝန်နှင့် ဗီဒီယိုခေါ်ဆို၍ ကျန်းမာရေး စစ်ဆေးပြသခြင်း။
   - *သင်ခန်းစာ:* [Lesson 1.4](/course-1-foundations/module-1/lesson-4-what-is-project-management#၄-အင်္ဂလိပ်-ဝေါဟာရနှင့်-အသုံးအနှုန်းများ-vocabulary-terminology-bank)
+
+### W
+- **Win-win** <span class="vocab-tag">Adjective / Noun</span>
+  - *English:* A scenario, outcome, or agreement advantageous and favorable to all parties involved.
+  - *မြန်မာပြန်:* နှစ်ဦးနှစ်ဖက် အပြန်အလှန် အကျိုးရှိသော။
+  - *သင်ခန်းစာ:* [Lesson 1.8](/course-1-foundations/module-1/lesson-8-from-certificate-to-career-success#၄-အရေးကြီး-ဝေါဟာရဘဏ်-vocabulary-bank)
+
