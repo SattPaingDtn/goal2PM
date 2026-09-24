@@ -77,6 +77,11 @@ Google Project Management Certificate တွင် တွေ့ကြုံရ�
   - *သင်ခန်းစာ:* [Lesson 1.6](/course-1-foundations/module-1/lesson-6-transferable-project-management-skills#၄-အရေးကြီး-ဝေါဟာရဘဏ်-vocabulary-bank)
 
 ### B
+- **Big Box Retailer** <span class="vocab-tag">Noun Phrase</span>
+  - *English:* A large physical chain store occupying expansive floor space and selling a wide range of merchandise in bulk.
+  - *မြန်မာပြန်:* ဧရိယာအကျယ်အဝန်း ကြီးမားသော စူပါမားကတ် သို့မဟုတ် ကုန်စုံစတိုးဆိုင်ကြီး။
+  - *သင်ခန်းစာ:* [Lesson 1.11](/course-1-foundations/module-1/lesson-11-gilbert-project-management-skills-in-my-role#၅-အရေးကြီး-ဝေါဟာရဘဏ်-vocabulary-bank)
+
 - **Budgeting** <span class="vocab-tag">Noun</span>
   - *English:* The process of estimating, allocating, and controlling financial resources for a project.
   - *မြန်မာပြန်:* ဘတ်ဂျက် လျာထားသတ်မှတ်ခြင်းနှင့် စီမံခန့်ခွဲခြင်း။
@@ -122,6 +127,11 @@ Google Project Management Certificate တွင် တွေ့ကြုံရ�
   - *English:* A managerial role responsible for community operations, logistics, public liaison, and resource management.
   - *မြန်မာပြန်:* မြို့ပြ သို့မဟုတ် လူထုအသိုက်အဝန်းဆိုင်ရာ လုပ်ငန်းစဉ်များနှင့် ဝန်ဆောင်မှုများကို စီမံခန့်ခွဲသူ။
   - *သင်ခန်းစာ:* [Lesson 1.10](/course-1-foundations/module-1/lesson-10-finding-the-perfect-role#၅-အရေးကြီး-ဝေါဟာရဘဏ်-vocabulary-bank)
+
+- **Competing Priorities** <span class="vocab-tag">Noun Phrase</span>
+  - *English:* Multiple tasks, projects, or demands that require time, attention, and resources simultaneously.
+  - *မြန်မာပြန်:* တစ်ပြိုင်နက်တည်း အချိန်နှင့် အရင်းအမြစ် တောင်းဆိုနေသော ပြိုင်ဆိုင်နေသည့် ဦးစားပေး လုပ်ငန်းတာဝန်များ။
+  - *သင်ခန်းစာ:* [Lesson 1.11](/course-1-foundations/module-1/lesson-11-gilbert-project-management-skills-in-my-role#၅-အရေးကြီး-ဝေါဟာရဘဏ်-vocabulary-bank)
 
 - **Complement** <span class="vocab-tag">Verb</span>
   - *English:* To add to something in a way that enhances, improves, or balances qualities.
@@ -194,6 +204,11 @@ Google Project Management Certificate တွင် တွေ့ကြုံရ�
   - *မြန်မာပြန်:* အခြားလုပ်ငန်းတစ်ခု ပြီးစီးမှ စတင်နိုင်မည့် အပြန်အလှန်မှီခိုမှုများ။
   - *သင်ခန်းစာ:* [Lesson 1.0](/course-1-foundations/module-1/lesson-0-welcome-to-google-pm#၄-အင်္ဂလိပ်-ဝေါဟာရနှင့်-အသုံးအနှုန်းများ-vocabulary-terminology-bank)
 
+- **Difficult Conversations** <span class="vocab-tag">Noun Phrase</span>
+  - *English:* Uncomfortable, sensitive, or challenging workplace discussions regarding performance, expectations, or conflict.
+  - *မြန်မာပြန်:* စိတ်မသက်မသာ ဖြစ်ဖွယ်ရှိသော သို့မဟုတ် သဘောထားကွဲလွဲမှုများအကြောင်း ရင်ဆိုင်ပြောဆိုရသည့် စကားဝိုင်းများ။
+  - *သင်ခန်းစာ:* [Lesson 1.11](/course-1-foundations/module-1/lesson-11-gilbert-project-management-skills-in-my-role#၅-အရေးကြီး-ဝေါဟာရဘဏ်-vocabulary-bank)
+
 - **Diligent** <span class="vocab-tag">Adjective</span>
   - *English:* Showing steady, earnest, and energetic effort; hardworking.
   - *မြန်မာပြန်:* ဝီရိယရှိသော၊ လုံ့လစိုက်ထုတ်သော၊ စေ့စပ်သေချာသော။
@@ -224,6 +239,11 @@ Google Project Management Certificate တွင် တွေ့ကြုံရ�
   - *English:* A project manager at the start of their professional career requiring core foundational skills.
   - *မြန်မာပြန်:* လုပ်ငန်းခွင်သို့ စတင်ဝင်ရောက်မည့် အစပြုအဆင့် ပရောဂျက် မန်နေဂျာ။
   - *သင်ခန်းစာ:* [Lesson 1.2](/course-1-foundations/module-1/lesson-2-introduction-to-course-1#၄-အင်္ဂလိပ်-ဝေါဟာရနှင့်-အသုံးအနှုန်းများ-vocabulary-terminology-bank)
+
+- **Envision** <span class="vocab-tag">Verb</span>
+  - *English:* To imagine, picture, or anticipate as a realistic future possibility.
+  - *မြန်မာပြန်:* အနာဂတ်တွင် ဖြစ်လာနိုင်သည်ဟု စိတ်ကူးထဲတွင် မြင်ယောင်သည်။
+  - *သင်ခန်းစာ:* [Lesson 1.11](/course-1-foundations/module-1/lesson-11-gilbert-project-management-skills-in-my-role#၅-အရေးကြီး-ဝေါဟာရဘဏ်-vocabulary-bank)
 
 - **Equipped** <span class="vocab-tag">Adjective</span>
   - *English:* Provided with the necessary skills, tools, or knowledge.
@@ -329,6 +349,11 @@ Google Project Management Certificate တွင် တွေ့ကြုံရ�
   - *မြန်မာပြန်:* ဥပမာပြ၍ ပိုမိုမြင်သာ ရှင်းလင်းစေသည်။
   - *သင်ခန်းစာ:* [Lesson 1.2](/course-1-foundations/module-1/lesson-2-introduction-to-course-1#၄-အင်္ဂလိပ်-ဝေါဟာရနှင့်-အသုံးအနှုန်းများ-vocabulary-terminology-bank)
 
+- **Imposter Syndrome** <span class="vocab-tag">Noun Phrase</span>
+  - *English:* The persistent psychological feeling of doubting one's skills, accomplishments, or competence and fearing exposure as a fraud.
+  - *မြန်မာပြန်:* မိမိကိုယ်ကို အရည်အချင်းမရှိဟု သံသယဝင်ပြီး အခြားသူများက မိမိကို အထင်ကြီးလွန်းနေသည်ဟု စိုးရိမ်စိတ်အားငယ်ခြင်း။
+  - *သင်ခန်းစာ:* [Lesson 1.11](/course-1-foundations/module-1/lesson-11-gilbert-project-management-skills-in-my-role#၅-အရေးကြီး-ဝေါဟာရဘဏ်-vocabulary-bank)
+
 - **Industry-specific** <span class="vocab-tag">Adjective</span>
   - *English:* Highly specialized and uniquely relevant to a single sector or business field.
   - *မြန်မာပြန်:* သက်ဆိုင်ရာ လုပ်ငန်းကဏ္ဍတစ်ခုအတွက် သီးသန့် အထူးပြုထားသော။
@@ -343,6 +368,11 @@ Google Project Management Certificate တွင် တွေ့ကြုံရ�
   - *English:* The capacity to persuade or affect the actions of others without formal power.
   - *မြန်မာပြန်:* အာဏာမသုံးဘဲ အခြားသူများကို အပြုသဘော စည်းရုံးနားချနိုင်စွမ်း။
   - *သင်ခန်းစာ:* [Lesson 1.6](/course-1-foundations/module-1/lesson-6-transferable-project-management-skills#၄-အရေးကြီး-ဝေါဟာရဘဏ်-vocabulary-bank)
+
+- **Informational Interview** <span class="vocab-tag">Noun Phrase</span>
+  - *English:* An informal conversation with a working professional to learn about a career field, role, or company culture rather than applying for a job.
+  - *မြန်မာပြန်:* အလုပ်လျှောက်ရန် မဟုတ်ဘဲ နယ်ပယ်တစ်ခုအကြောင်း ဗဟုသုတနှင့် လမ်းညွှန်ချက်များ မေးမြန်းလေ့လာသည့် စကားဝိုင်း။
+  - *သင်ခန်းစာ:* [Lesson 1.11](/course-1-foundations/module-1/lesson-11-gilbert-project-management-skills-in-my-role#၅-အရေးကြီး-ဝေါဟာရဘဏ်-vocabulary-bank)
 
 - **Innovating Responsibly** <span class="vocab-tag">Phrase</span>
   - *English:* Creating new technologies while actively considering societal impact and ethics.
@@ -363,6 +393,11 @@ Google Project Management Certificate တွင် တွေ့ကြုံရ�
   - *English:* A temporary training position giving students or beginners practical industry experience.
   - *မြန်မာပြန်:* လက်တွေ့အတွေ့အကြုံ ရယူနိုင်ရန် အလုပ်သင်အဖြစ် လုပ်ကိုင်သည့် ကာလ/အစီအစဉ်။
   - *သင်ခန်းစာ:* [Lesson 1.8](/course-1-foundations/module-1/lesson-8-from-certificate-to-career-success#၄-အရေးကြီး-ဝေါဟာရဘဏ်-vocabulary-bank)
+
+- **Intuitive** <span class="vocab-tag">Adjective</span>
+  - *English:* Having the ability to understand or grasp ideas immediately based on insight rather than facts alone.
+  - *မြန်မာပြန်:* အလိုလို နားလည်သိမြင်လွယ်သော၊ ထိုးထွင်းသိမြင်ဉာဏ်ရှိသော။
+  - *သင်ခန်းစာ:* [Lesson 1.11](/course-1-foundations/module-1/lesson-11-gilbert-project-management-skills-in-my-role#၅-အရေးကြီး-ဝေါဟာရဘဏ်-vocabulary-bank)
 
 ### J
 - **Job boards** <span class="vocab-tag">Noun (pl)</span>
@@ -688,6 +723,11 @@ Google Project Management Certificate တွင် တွေ့ကြုံရ�
   - *မြန်မာပြန်:* နေရာသစ် သို့မဟုတ် မြို့သစ်သို့ ပြောင်းရွှေ့အခြေချသည်။
   - *သင်ခန်းစာ:* [Lesson 1.6](/course-1-foundations/module-1/lesson-6-transferable-project-management-skills#၄-အရေးကြီး-ဝေါဟာရဘဏ်-vocabulary-bank)
 
+- **Remit** <span class="vocab-tag">Noun</span>
+  - *English:* The specific area of authority, official scope, or responsibility assigned to an individual or team.
+  - *မြန်မာပြန်:* တာဝန်ပေးအပ်ထားသော လုပ်ပိုင်ခွင့်နယ်ပယ်၊ တာဝန်ဝတ္တရား အတိုင်းအတာ။
+  - *သင်ခန်းစာ:* [Lesson 1.11](/course-1-foundations/module-1/lesson-11-gilbert-project-management-skills-in-my-role#၅-အရေးကြီး-ဝေါဟာရဘဏ်-vocabulary-bank)
+
 - **Reset deadlines** <span class="vocab-tag">Phrase</span>
   - *English:* Changing due dates to start fresh without consequences.
   - *မြန်မာပြန်:* သတ်မှတ်ပြီးစီးရက်များကို အစမှ ပြန်လည်ညှိနှိုင်း သတ်မှတ်သည်။
@@ -728,6 +768,11 @@ Google Project Management Certificate တွင် တွေ့ကြုံရ�
   - *English:* A facilitator and servant-leader in the Scrum framework who guides the team in applying Scrum principles and removes project blockers.
   - *မြန်မာပြန်:* Scrum လုပ်ငန်းစဉ်တွင် အဖွဲ့အား လမ်းညွှန်ပေးပြီး ပရောဂျက်အဟန့်အတား (Blockers) များကို ဖယ်ရှားပေးသော အခရာကျသူ။
   - *သင်ခန်းစာ:* [Lesson 1.9](/course-1-foundations/module-1/lesson-9-explore-project-management-roles#၅-အရေးကြီး-ဝေါဟာရဘဏ်-vocabulary-bank)
+
+- **Second Nature** <span class="vocab-tag">Idiom</span>
+  - *English:* An acquired habit, mindset, or practice that has become so deeply ingrained through repetition that it feels instinctive.
+  - *မြန်မာပြန်:* လေ့ကျင့်မှု များပြားသဖြင့် ပင်ကိုယ်ဗီဇကဲ့သို့ အလိုအလျောက် သဘာဝကျနေသော အလေ့အကျင့်။
+  - *သင်ခန်းစာ:* [Lesson 1.11](/course-1-foundations/module-1/lesson-11-gilbert-project-management-skills-in-my-role#၅-အရေးကြီး-ဝေါဟာရဘဏ်-vocabulary-bank)
 
 - **Self-starter** <span class="vocab-tag">Noun</span>
   - *English:* A person who is capable of working on their own initiative without needing external direction or micromanagement.
@@ -789,6 +834,11 @@ Google Project Management Certificate တွင် တွေ့ကြုံရ�
   - *English:* Specially made or modified for a particular purpose, person, or need.
   - *မြန်မာပြန်:* သီးသန့်စိတ်ကြိုက် ပြင်ဆင်မွမ်းမံထားသော။
   - *သင်ခန်းစာ:* [Lesson 1.5](/course-1-foundations/module-1/lesson-5-what-does-a-project-manager-do#၄-အရေးကြီး-ဝေါဟာရဘဏ်-vocabulary-bank)
+
+- **Talent Outreach Specialist** <span class="vocab-tag">Noun Phrase</span>
+  - *English:* A professional who proactively identifies, connects with, and recruits high-potential candidates from diverse or non-traditional backgrounds.
+  - *မြန်မာပြန်:* နယ်ပယ်ပေါင်းစုံမှ ထူးချွန်သူများကို ကုမ္ပဏီသို့ ဝင်ရောက်လာစေရန် ရှာဖွေဆက်သွယ်ပေးသော အထူးကျွမ်းကျင်သူ။
+  - *သင်ခန်းစာ:* [Lesson 1.11](/course-1-foundations/module-1/lesson-11-gilbert-project-management-skills-in-my-role#၅-အရေးကြီး-ဝေါဟာရဘဏ်-vocabulary-bank)
 
 - **Tasked with** <span class="vocab-tag">Idiom / Verb</span>
   - *English:* Assigned a specific duty, chore, or responsibility.
@@ -856,6 +906,11 @@ Google Project Management Certificate တွင် တွေ့ကြုံရ�
   - *မြန်မာပြန်:* ထပ်ခါတလဲလဲ မဟုတ်သော သီးခြားထူးခြားသည့် ရလဒ်/ထုတ်ကုန်။
   - *သင်ခန်းစာ:* [Lesson 1.4](/course-1-foundations/module-1/lesson-4-what-is-project-management#၄-အင်္ဂလိပ်-ဝေါဟာရနှင့်-အသုံးအနှုန်းများ-vocabulary-terminology-bank)
 
+- **Up-skilling** <span class="vocab-tag">Noun / Gerund</span>
+  - *English:* The continuous process of learning new skills or upgrading competencies to elevate career prospects.
+  - *မြန်မာပြန်:* မိမိ၏ စွမ်းရည်များကို ပိုမိုမြင့်မားလာစေရန် စဉ်ဆက်မပြတ် အဆင့်မြှင့်တင် လေ့လာဆည်းပူးခြင်း။
+  - *သင်ခန်းစာ:* [Lesson 1.11](/course-1-foundations/module-1/lesson-11-gilbert-project-management-skills-in-my-role#၅-အရေးကြီး-ဝေါဟာရဘဏ်-vocabulary-bank)
+
 ### V
 - **Value** <span class="vocab-tag">Noun</span>
   - *English:* The importance, worth, or usefulness of something; positive return or benefit generated for a business.
@@ -873,6 +928,11 @@ Google Project Management Certificate တွင် တွေ့ကြုံရ�
   - *သင်ခန်းစာ:* [Lesson 1.4](/course-1-foundations/module-1/lesson-4-what-is-project-management#၄-အင်္ဂလိပ်-ဝေါဟာရနှင့်-အသုံးအနှုန်းများ-vocabulary-terminology-bank)
 
 ### W
+- **Wear the PM hat** <span class="vocab-tag">Idiom / Phrase</span>
+  - *English:* Assuming the mindset, duties, and execution responsibilities of project management regardless of job title.
+  - *မြန်မာပြန်:* မည်သည့် ရာထူး၌မဆို ပရောဂျက်မန်နေဂျာတစ်ဦး၏ စိတ်ဓာတ်နှင့် တာဝန်ယူမှုကို ကိုယ်တိုင်ဦးစီး ဆောင်ရွက်သည်။
+  - *သင်ခန်းစာ:* [Lesson 1.11](/course-1-foundations/module-1/lesson-11-gilbert-project-management-skills-in-my-role#၅-အရေးကြီး-ဝေါဟာရဘဏ်-vocabulary-bank)
+
 - **Win-win** <span class="vocab-tag">Adjective / Noun</span>
   - *English:* A scenario, outcome, or agreement advantageous and favorable to all parties involved.
   - *မြန်မာပြန်:* နှစ်ဦးနှစ်ဖက် အပြန်အလှန် အကျိုးရှိသော။

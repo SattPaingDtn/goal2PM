@@ -72,6 +72,7 @@ export default defineConfig({
                 { text: '1.8 From Certificate to Career Success', link: '/course-1-foundations/module-1/lesson-8-from-certificate-to-career-success' },
                 { text: '1.9 Explore PM Roles', link: '/course-1-foundations/module-1/lesson-9-explore-project-management-roles' },
                 { text: '1.10 Finding the Perfect Role', link: '/course-1-foundations/module-1/lesson-10-finding-the-perfect-role' },
+                { text: '1.11 PM Skills in My Role (Gilbert)', link: '/course-1-foundations/module-1/lesson-11-gilbert-project-management-skills-in-my-role' },
               ]
             },
             {
