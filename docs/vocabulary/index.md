@@ -56,6 +56,11 @@ Google Project Management Certificate တွင် တွေ့ကြုံရ�
   - *မြန်မာပြန်:* မိမိစိတ်ကြိုက် အရှိန်အဟုန်အတိုင်း (အချိန်မကန့်သတ်ဘဲ)။
   - *သင်ခန်းစာ:* [Lesson 1.0](/course-1-foundations/module-1/lesson-0-welcome-to-google-pm#၄-အင်္ဂလိပ်-ဝေါဟာရနှင့်-အသုံးအနှုန်းများ-vocabulary-terminology-bank)
 
+- **Availability** <span class="vocab-tag">Noun</span>
+  - *English:* The state of being free, unconstrained, or present to work specific shifts.
+  - *မြန်မာပြန်:* အလုပ်ဆင်းနိုင်သည့် သို့မဟုတ် အားလပ်သည့် အချိန်/အခြေအနေ။
+  - *သင်ခန်းစာ:* [Lesson 1.6](/course-1-foundations/module-1/lesson-6-transferable-project-management-skills#၄-အရေးကြီး-ဝေါဟာရဘဏ်-vocabulary-bank)
+
 ### B
 - **Budgeting** <span class="vocab-tag">Noun</span>
   - *English:* The process of estimating, allocating, and controlling financial resources for a project.
@@ -83,6 +88,11 @@ Google Project Management Certificate တွင် တွေ့ကြုံရ�
   - *မြန်မာပြန်:* သင်တန်း သို့မဟုတ် သင်ရိုးတစ်ခုကို အောင်မြင်စွာ ပြီးဆုံးကြောင်း အသိအမှတ်ပြု လက်မှတ်။
   - *သင်ခန်းစာ:* [Lesson 1.0](/course-1-foundations/module-1/lesson-0-welcome-to-google-pm#၄-အင်္ဂလိပ်-ဝေါဟာရနှင့်-အသုံးအနှုန်းများ-vocabulary-terminology-bank)
 
+- **Complement** <span class="vocab-tag">Verb</span>
+  - *English:* To add to something in a way that enhances, improves, or balances qualities.
+  - *မြန်မာပြန်:* အချင်းချင်း အားသာချက်များဖြင့် ဖြည့်ဆည်းပေးသည်၊ ပိုမိုပြည့်စုံစေသည်။
+  - *သင်ခန်းစာ:* [Lesson 1.6](/course-1-foundations/module-1/lesson-6-transferable-project-management-skills#၄-အရေးကြီး-ဝေါဟာရဘဏ်-vocabulary-bank)
+
 - **Controlling Costs** <span class="vocab-tag">Phrase</span>
   - *English:* The discipline of monitoring and curbing expenditures to prevent budget overruns.
   - *မြန်မာပြန်:* ကုန်ကျစရိတ်များကို သတ်မှတ်ဘတ်ဂျက် မကျော်လွန်စေရန် စဉ်ဆက်မပြတ် ထိန်းချုပ်ခြင်း။
@@ -108,6 +118,11 @@ Google Project Management Certificate တွင် တွေ့ကြုံရ�
   - *English:* Making choices based on actual data analysis rather than intuition or guessing.
   - *မြန်မာပြန်:* ထင်မြင်ချက်မဟုတ်ဘဲ ခိုင်လုံသော အချက်အလက် (Data) ပေါ် အခြေခံ၍ ဆုံးဖြတ်ချက်ချခြင်း။
   - *သင်ခန်းစာ:* [Lesson 1.0](/course-1-foundations/module-1/lesson-0-welcome-to-google-pm#၄-အင်္ဂလိပ်-ဝေါဟာရနှင့်-အသုံးအနှုန်းများ-vocabulary-terminology-bank)
+
+- **Daunting** <span class="vocab-tag">Adjective</span>
+  - *English:* Seeming difficult to deal with in anticipation; intimidating or challenging.
+  - *မြန်မာပြန်:* စိတ်ဓာတ်ကျလောက်အောင် ကြီးမားခက်ခဲသော၊ စိန်ခေါ်မှုကြီးမားသော။
+  - *သင်ခန်းစာ:* [Lesson 1.6](/course-1-foundations/module-1/lesson-6-transferable-project-management-skills#၄-အရေးကြီး-ဝေါဟာရဘဏ်-vocabulary-bank)
 
 - **Day-to-day** <span class="vocab-tag">Adjective / Adverb</span>
   - *English:* Happening regularly every day; routine operational activities.
@@ -207,6 +222,11 @@ Google Project Management Certificate တွင် တွေ့ကြုံရ�
   - *မြန်မာပြန်:* သဘောကျ၍ စိတ်တိမ်းညွှတ်သည်၊ စိတ်ဝင်စားသည်။
   - *သင်ခန်းစာ:* [Lesson 1.0](/course-1-foundations/module-1/lesson-0-welcome-to-google-pm#၄-အင်္ဂလိပ်-ဝေါဟာရနှင့်-အသုံးအနှုန်းများ-vocabulary-terminology-bank)
 
+- **Guest of honor** <span class="vocab-tag">Phrase</span>
+  - *English:* The primary person in whose honor an event or celebration is held.
+  - *မြန်မာပြန်:* အဓိက ဂုဏ်ပြုဧည့်သည်တော် (သို့မဟုတ် မွေးနေ့ရှင်)။
+  - *သင်ခန်းစာ:* [Lesson 1.6](/course-1-foundations/module-1/lesson-6-transferable-project-management-skills#၄-အရေးကြီး-ဝေါဟာရဘဏ်-vocabulary-bank)
+
 ### H
 - **Hands-on** <span class="vocab-tag">Adjective</span>
   - *English:* Involving direct, active participation rather than just theory.
@@ -229,6 +249,11 @@ Google Project Management Certificate တွင် တွေ့ကြုံရ�
   - *မြန်မာပြန်:* လုပ်ငန်းခွင်နှင့် စက်မှုနယ်ပယ်တစ်ခုလုံးက လက်ခံကျင့်သုံးသော အဆင့်အတန်း စံချိန်စံညွှန်းများ။
   - *သင်ခန်းစာ:* [Lesson 1.3](/course-1-foundations/module-1/lesson-3-helpful-resources-to-get-started#၄-အင်္ဂလိပ်-ဝေါဟာရနှင့်-အသုံးအနှုန်းများ-vocabulary-terminology-bank)
 
+- **Influence** <span class="vocab-tag">Verb / Noun</span>
+  - *English:* The capacity to persuade or affect the actions of others without formal power.
+  - *မြန်မာပြန်:* အာဏာမသုံးဘဲ အခြားသူများကို အပြုသဘော စည်းရုံးနားချနိုင်စွမ်း။
+  - *သင်ခန်းစာ:* [Lesson 1.6](/course-1-foundations/module-1/lesson-6-transferable-project-management-skills#၄-အရေးကြီး-ဝေါဟာရဘဏ်-vocabulary-bank)
+
 - **Innovating Responsibly** <span class="vocab-tag">Phrase</span>
   - *English:* Creating new technologies while actively considering societal impact and ethics.
   - *မြန်မာပြန်:* လူမှုအသိုက်အဝန်းအပေါ် သက်ရောက်မှုနှင့် ကျင့်ဝတ်များကို အလေးထားကာ တာဝန်ယူမှုရှိစွာ တီထွင်ဆန်းသစ်ခြင်း။
@@ -238,6 +263,12 @@ Google Project Management Certificate တွင် တွေ့ကြုံရ�
   - *English:* Deep, meaningful questions showing an intelligent understanding of a subject.
   - *မြန်မာပြန်:* အကြောင်းအရာတစ်ခုကို ထိုးထွင်းသိမြင် နားလည်စေမည့် အချက်ကျသော မေးခွန်းများ။
   - *သင်ခန်းစာ:* [Lesson 1.3](/course-1-foundations/module-1/lesson-3-helpful-resources-to-get-started#၄-အင်္ဂလိပ်-ဝေါဟာရနှင့်-အသုံးအနှုန်းများ-vocabulary-terminology-bank)
+
+### J
+- **Juggle** <span class="vocab-tag">Verb</span>
+  - *English:* To handle, balance, or cope with multiple tasks concurrently.
+  - *မြန်မာပြန်:* လုပ်ငန်းတာဝန်များစွာကို တစ်ပြိုင်နက် ဟန်ချက်ညီညီ ကိုင်တွယ်ထိန်းကျောင်းသည်။
+  - *သင်ခန်းစာ:* [Lesson 1.6](/course-1-foundations/module-1/lesson-6-transferable-project-management-skills#၄-အရေးကြီး-ဝေါဟာရဘဏ်-vocabulary-bank)
 
 ### K
 - **Kanban** <span class="vocab-tag">Tool / Method</span>
@@ -276,6 +307,11 @@ Google Project Management Certificate တွင် တွေ့ကြုံရ�
   - *English:* Significant reference points or checkpoints marking major progress in a project.
   - *မြန်မာပြန်:* ပရောဂျက်၏ အရေးပါသော မှတ်တိုင်များ/အဆင့်ပြီးမြောက်မှုများ။
   - *သင်ခန်းစာ:* [Lesson 1.0](/course-1-foundations/module-1/lesson-0-welcome-to-google-pm#၄-အင်္ဂလိပ်-ဝေါဟာရနှင့်-အသုံးအနှုန်းများ-vocabulary-terminology-bank)
+
+- **Miscellaneous Expenses** <span class="vocab-tag">Phrase</span>
+  - *English:* Small, varied incidental expenditures that do not fall under a single major heading.
+  - *မြန်မာပြန်:* အထွေထွေနှင့် အသေးသုံး ကုန်ကျစရိတ်များ။
+  - *သင်ခန်းစာ:* [Lesson 1.6](/course-1-foundations/module-1/lesson-6-transferable-project-management-skills#၄-အရေးကြီး-ဝေါဟာရဘဏ်-vocabulary-bank)
 
 - **Miss Budget Targets** <span class="vocab-tag">Phrase</span>
   - *English:* Overspending beyond the allocated financial funds for a project.
@@ -406,6 +442,11 @@ Google Project Management Certificate တွင် တွေ့ကြုံရ�
   - *သင်ခန်းစာ:* [Lesson 1.2](/course-1-foundations/module-1/lesson-2-introduction-to-course-1#၄-အင်္ဂလိပ်-ဝေါဟာရနှင့်-အသုံးအနှုန်းများ-vocabulary-terminology-bank)
 
 ### R
+- **Relocate** <span class="vocab-tag">Verb</span>
+  - *English:* To move to a new place or city to live or work.
+  - *မြန်မာပြန်:* နေရာသစ် သို့မဟုတ် မြို့သစ်သို့ ပြောင်းရွှေ့အခြေချသည်။
+  - *သင်ခန်းစာ:* [Lesson 1.6](/course-1-foundations/module-1/lesson-6-transferable-project-management-skills#၄-အရေးကြီး-ဝေါဟာရဘဏ်-vocabulary-bank)
+
 - **Reset deadlines** <span class="vocab-tag">Phrase</span>
   - *English:* Changing due dates to start fresh without consequences.
   - *မြန်မာပြန်:* သတ်မှတ်ပြီးစီးရက်များကို အစမှ ပြန်လည်ညှိနှိုင်း သတ်မှတ်သည်။
@@ -432,10 +473,25 @@ Google Project Management Certificate တွင် တွေ့ကြုံရ�
   - *မြန်မာပြန်:* Agile နည်းစနစ်သုံး Scrum လုပ်ငန်းစဉ်၏ တရားဝင် စည်းမျဉ်းနှင့် လမ်းညွှန်ကျမ်း။
   - *သင်ခန်းစာ:* [Lesson 1.3](/course-1-foundations/module-1/lesson-3-helpful-resources-to-get-started#၄-အင်္ဂလိပ်-ဝေါဟာရနှင့်-အသုံးအနှုန်းများ-vocabulary-terminology-bank)
 
+- **Selling point** <span class="vocab-tag">Noun</span>
+  - *English:* A prominent feature or strength used to convince someone to choose or hire you.
+  - *မြန်မာပြန်:* မိမိကိုယ်ကို အလုပ်ခန့်လာစေရန် ဆွဲဆောင်နိုင်သော ထူးခြားသည့် အားသာချက်။
+  - *သင်ခန်းစာ:* [Lesson 1.6](/course-1-foundations/module-1/lesson-6-transferable-project-management-skills#၄-အရေးကြီး-ဝေါဟာရဘဏ်-vocabulary-bank)
+
 - **Set the stage** <span class="vocab-tag">Idiom</span>
   - *English:* To prepare the necessary conditions for something to happen or succeed.
   - *မြန်မာပြန်:* အခြေအနေကောင်းများ ကြိုတင်ဖန်တီးပြင်ဆင်ပေးသည်။
   - *သင်ခန်းစာ:* [Lesson 1.0](/course-1-foundations/module-1/lesson-0-welcome-to-google-pm#၄-အင်္ဂလိပ်-ဝေါဟာရနှင့်-အသုံးအနှုန်းများ-vocabulary-terminology-bank)
+
+- **Sharpen** <span class="vocab-tag">Verb</span>
+  - *English:* To hone, refine, and improve the effectiveness of a skill.
+  - *မြန်မာပြန်:* စွမ်းရည်တစ်ခုကို ပိုမိုထက်မြက်အောင် သွေးယူလေ့ကျင့်သည်။
+  - *သင်ခန်းစာ:* [Lesson 1.6](/course-1-foundations/module-1/lesson-6-transferable-project-management-skills#၄-အရေးကြီး-ဝေါဟာရဘဏ်-vocabulary-bank)
+
+- **Simultaneously** <span class="vocab-tag">Adverb</span>
+  - *English:* Happening, existing, or done at the exact same moment.
+  - *မြန်မာပြန်:* တစ်ပြိုင်နက်တည်း၊ တစ်ချိန်တည်းတွင်။
+  - *သင်ခန်းစာ:* [Lesson 1.6](/course-1-foundations/module-1/lesson-6-transferable-project-management-skills#၄-အရေးကြီး-ဝေါဟာရဘဏ်-vocabulary-bank)
 
 - **Sponsoring** <span class="vocab-tag">Verb / Gerund</span>
   - *English:* Providing financial backing or paying the fees on behalf of a participant.
@@ -496,7 +552,7 @@ Google Project Management Certificate တွင် တွေ့ကြုံရ�
 - **Transferable Skills** <span class="vocab-tag">Phrase</span>
   - *English:* Skills and abilities developed in one area that can be applied effectively in a different role or field.
   - *မြန်မာပြန်:* ယခင် အလုပ် သို့မဟုတ် ဘဝအတွေ့အကြုံမှ ရရှိခဲ့ပြီး အခြားနယ်ပယ်အသစ်သို့ ယူဆောင်အသုံးချနိုင်သော အရည်အချင်းများ။
-  - *သင်ခန်းစာ:* [Lesson 1.0](/course-1-foundations/module-1/lesson-0-welcome-to-google-pm#၄-အင်္ဂလိပ်-ဝေါဟာရနှင့်-အသုံးအနှုန်းများ-vocabulary-terminology-bank)
+  - *သင်ခန်းစာ:* [Lesson 1.0](/course-1-foundations/module-1/lesson-0-welcome-to-google-pm#၄-အင်္ဂလိပ်-ဝေါဟာရနှင့်-အသုံးအနှုန်းများ-vocabulary-terminology-bank), [Lesson 1.6](/course-1-foundations/module-1/lesson-6-transferable-project-management-skills#၄-အရေးကြီး-ဝေါဟာရဘဏ်-vocabulary-bank)
 
 ### U
 - **Underway** <span class="vocab-tag">Adjective</span>
@@ -519,6 +575,11 @@ Google Project Management Certificate တွင် တွေ့ကြုံရ�
   - *English:* The importance, worth, or usefulness of something; positive return or benefit generated for a business.
   - *မြန်မာပြန်:* တန်ဖိုး၊ စီးပွားရေးအရ ရရှိလာသော အကျိုးကျေးဇူး။
   - *သင်ခန်းစာ:* [Lesson 1.5](/course-1-foundations/module-1/lesson-5-what-does-a-project-manager-do#၄-အရေးကြီး-ဝေါဟာရဘဏ်-vocabulary-bank)
+
+- **Venue** <span class="vocab-tag">Noun</span>
+  - *English:* The scene or location where an event, meeting, or party takes place.
+  - *မြန်မာပြန်:* အခမ်းအနား သို့မဟုတ် ပွဲကျင်းပမည့် နေရာ။
+  - *သင်ခန်းစာ:* [Lesson 1.6](/course-1-foundations/module-1/lesson-6-transferable-project-management-skills#၄-အရေးကြီး-ဝေါဟာရဘဏ်-vocabulary-bank)
 
 - **Virtual Checkups** <span class="vocab-tag">Phrase</span>
   - *English:* Medical consultations performed online via video/audio calls.
