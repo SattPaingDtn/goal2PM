@@ -18,7 +18,7 @@ Google Project Management Certificate ၏ ပထမဆုံးနှင့် �
 
 ### 2️⃣ Module 2: Becoming an effective project manager
 - **အဓိက အကြောင်းအရာ**: ထိရောက်ထက်မြက်သော Project Manager တစ်ဦးဖြစ်စေရန် လိုအပ်သော ကျွမ်းကျင်မှုများ (Core Skills, Transferable Skills)၊ Team Leadership နှင့် Stakeholder များအား စီမံခန့်ခွဲမှု။
-- **လေ့လာရန်**: [Module 2 အကျဉ်းချုပ်](/course-1-foundations/module-2/)
+- **လေ့လာရန်**: [Module 2 အကျဉ်းချုပ်](/course-1-foundations/module-2/) | [2.1 Intro](/course-1-foundations/module-2/lesson-1-introduction-becoming-an-effective-project-manager)
 
 </div>
 

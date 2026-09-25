@@ -36,6 +36,11 @@ Google Project Management Certificate တွင် တွေ့ကြုံရ�
   - *မြန်မာပြန်:* ပရောဂျက်တစ်ခုတွင် အပိုဆောင်း တန်ဖိုးနှင့် အကျိုးရလဒ်များ ဖြည့်ဆည်းပေးခြင်း။
   - *သင်ခန်းစာ:* [Lesson 1.2](/course-1-foundations/module-1/lesson-2-introduction-to-course-1#၄-အင်္ဂလိပ်-ဝေါဟာရနှင့်-အသုံးအနှုန်းများ-vocabulary-terminology-bank)
 
+- **Advance your career goals** <span class="vocab-tag">Phrase</span>
+  - *English:* To make progress toward higher professional achievements, promotions, or successful job transitions.
+  - *မြန်မာပြန်:* မိမိ၏ အသက်မွေးဝမ်းကျောင်း လုပ်ငန်းခွင် ရည်မှန်းချက်များကို အဆင့်ဆင့် တိုးတက်အောင်မြင်စေသည်။
+  - *သင်ခန်းစာ:* [Lesson 2.1](/course-1-foundations/module-2/lesson-1-introduction-becoming-an-effective-project-manager#၅-အရေးကြီး-ဝေါဟာရဘဏ်-vocabulary-bank)
+
 - **AI Principles** <span class="vocab-tag">Proper Noun</span>
   - *English:* Google's ethical guidelines governing artificial intelligence research and products.
   - *မြန်မာပြန်:* Google က ချမှတ်ထားသော ဉာဏ်ရည်တု နည်းပညာဆိုင်ရာ ကျင့်ဝတ်စည်းမျဉ်း အခြေခံမူများ။
@@ -148,6 +153,11 @@ Google Project Management Certificate တွင် တွေ့ကြုံရ�
   - *မြန်မာပြန်:* ကုန်ကျစရိတ်များကို သတ်မှတ်ဘတ်ဂျက် မကျော်လွန်စေရန် စဉ်ဆက်မပြတ် ထိန်းချုပ်ခြင်း။
   - *သင်ခန်းစာ:* [Lesson 1.5](/course-1-foundations/module-1/lesson-5-what-does-a-project-manager-do#၄-အရေးကြီး-ဝေါဟာရဘဏ်-vocabulary-bank)
 
+- **Core Skills** <span class="vocab-tag">Noun Phrase</span>
+  - *English:* The fundamental, essential competencies required to perform a job effectively.
+  - *မြန်မာပြန်:* လုပ်ငန်းတာဝန်တစ်ခုကို ထိရောက်စွာ ဆောင်ရွက်နိုင်ရန် မရှိမဖြစ် လိုအပ်သည့် ပင်မ ကျွမ်းကျင်မှု အရည်အချင်းများ။
+  - *သင်ခန်းစာ:* [Lesson 2.1](/course-1-foundations/module-2/lesson-1-introduction-becoming-an-effective-project-manager#၅-အရေးကြီး-ဝေါဟာရဘဏ်-vocabulary-bank)
+
 - **Corresponding Tasks** <span class="vocab-tag">Phrase</span>
   - *English:* The specific duties or activities directly matching each project phase.
   - *မြန်မာပြန်:* အဆင့်တစ်ခုချင်းစီအလိုက် သက်ဆိုင်ရာ လိုက်ဖက်စွာ လုပ်ဆောင်ရမည့် တာဝန်များ။
@@ -220,6 +230,11 @@ Google Project Management Certificate တွင် တွေ့ကြုံရ�
   - *သင်ခန်းစာ:* [Lesson 1.7](/course-1-foundations/module-1/lesson-7-x-path-to-becoming-a-project-manager#၄-အရေးကြီး-ဝေါဟာရဘဏ်-vocabulary-bank)
 
 ### E
+- **Effective Project Manager** <span class="vocab-tag">Noun Phrase</span>
+  - *English:* A project manager who successfully delivers project outcomes on time, within budget, and adds measurable value to the team and organization.
+  - *မြန်မာပြန်:* အသင်းနှင့် အဖွဲ့အစည်းအတွက် အချိန်မီ၊ ဘတ်ဂျက်တွင်းနှင့် တန်ဖိုးရှိသော ရလဒ်များ ဖန်တီးပေးနိုင်သည့် ထိရောက်ထက်မြက်သော PM။
+  - *သင်ခန်းစာ:* [Lesson 2.1](/course-1-foundations/module-2/lesson-1-introduction-becoming-an-effective-project-manager#၅-အရေးကြီး-ဝေါဟာရဘဏ်-vocabulary-bank)
+
 - **Employer Consortium** <span class="vocab-tag">Phrase</span>
   - *English:* A network of top hiring organizations and companies committed to considering program graduates for open roles.
   - *မြန်မာပြန်:* သင်ရိုးဆင်းများကို အလုပ်ခန့်အပ်ရန် ကတိပြုထားသော အလုပ်ရှင်များ မဟာမိတ်ကွန်ရက်။
@@ -746,7 +761,7 @@ Google Project Management Certificate တွင် တွေ့ကြုံရ�
 - **Roles and Responsibilities** <span class="vocab-tag">Phrase</span>
   - *English:* The specific functions, duties, and obligations expected of a person in a job.
   - *မြန်မာပြန်:* အလုပ်ခွင်တစ်ခုတွင် သက်ဆိုင်သူတစ်ဦး ထမ်းဆောင်ရမည့် အခန်းကဏ္ဍများနှင့် တာဝန်ဝတ္တရားများ။
-  - *သင်ခန်းစာ:* [Lesson 1.2](/course-1-foundations/module-1/lesson-2-introduction-to-course-1#၄-အင်္ဂလိပ်-ဝေါဟာရနှင့်-အသုံးအနှုန်းများ-vocabulary-terminology-bank)
+  - *သင်ခန်းစာ:* [Lesson 1.2](/course-1-foundations/module-1/lesson-2-introduction-to-course-1#၄-အင်္ဂလိပ်-ဝေါဟာရနှင့်-အသုံးအနှုန်းများ-vocabulary-terminology-bank), [Lesson 2.1](/course-1-foundations/module-2/lesson-1-introduction-becoming-an-effective-project-manager#၅-အရေးကြီး-ဝေါဟာရဘဏ်-vocabulary-bank)
 
 ### S
 - **Scope** <span class="vocab-tag">Noun</span>
@@ -798,6 +813,11 @@ Google Project Management Certificate တွင် တွေ့ကြုံရ�
   - *English:* To hone, refine, and improve the effectiveness of a skill.
   - *မြန်မာပြန်:* စွမ်းရည်တစ်ခုကို ပိုမိုထက်မြက်အောင် သွေးယူလေ့ကျင့်သည်။
   - *သင်ခန်းစာ:* [Lesson 1.6](/course-1-foundations/module-1/lesson-6-transferable-project-management-skills#၄-အရေးကြီး-ဝေါဟာရဘဏ်-vocabulary-bank)
+
+- **Skills Gap** <span class="vocab-tag">Noun Phrase</span>
+  - *English:* The difference between the skills a person currently possesses and the skills required for a target job.
+  - *မြန်မာပြန်:* မိမိလက်ရှိ တတ်မြောက်ထားသော စွမ်းရည်နှင့် လိုချင်သောအလုပ်အတွက် လိုအပ်နေသော စွမ်းရည်တို့အကြား ကွာဟချက်။
+  - *သင်ခန်းစာ:* [Lesson 2.1](/course-1-foundations/module-2/lesson-1-introduction-becoming-an-effective-project-manager#၅-အရေးကြီး-ဝေါဟာရဘဏ်-vocabulary-bank)
 
 - **Simultaneously** <span class="vocab-tag">Adverb</span>
   - *English:* Happening, existing, or done at the exact same moment.
@@ -905,6 +925,11 @@ Google Project Management Certificate တွင် တွေ့ကြုံရ�
   - *English:* A distinct product, service, or result that is not repeated identically.
   - *မြန်မာပြန်:* ထပ်ခါတလဲလဲ မဟုတ်သော သီးခြားထူးခြားသည့် ရလဒ်/ထုတ်ကုန်။
   - *သင်ခန်းစာ:* [Lesson 1.4](/course-1-foundations/module-1/lesson-4-what-is-project-management#၄-အင်္ဂလိပ်-ဝေါဟာရနှင့်-အသုံးအနှုန်းများ-vocabulary-terminology-bank)
+
+- **Unique Value** <span class="vocab-tag">Noun Phrase</span>
+  - *English:* The distinct, irreplaceable positive impact and organizational benefit that a specific role provides.
+  - *မြန်မာပြန်:* အခြားသူများ အလွယ်တကူ အစားထိုး၍မရသော ပရောဂျက်မန်နေဂျာတစ်ဦးမှ အသင်းထံ ဖြည့်ဆည်းပေးသည့် သီးခြားတန်ဖိုး။
+  - *သင်ခန်းစာ:* [Lesson 2.1](/course-1-foundations/module-2/lesson-1-introduction-becoming-an-effective-project-manager#၅-အရေးကြီး-ဝေါဟာရဘဏ်-vocabulary-bank)
 
 - **Up-skilling** <span class="vocab-tag">Noun / Gerund</span>
   - *English:* The continuous process of learning new skills or upgrading competencies to elevate career prospects.
