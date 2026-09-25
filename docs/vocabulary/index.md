@@ -41,6 +41,11 @@ Google Project Management Certificate တွင် တွေ့ကြုံရ�
   - *မြန်မာပြန်:* မိမိ၏ အသက်မွေးဝမ်းကျောင်း လုပ်ငန်းခွင် ရည်မှန်းချက်များကို အဆင့်ဆင့် တိုးတက်အောင်မြင်စေသည်။
   - *သင်ခန်းစာ:* [Lesson 2.1](/course-1-foundations/module-2/lesson-1-introduction-becoming-an-effective-project-manager#၅-အရေးကြီး-ဝေါဟာရဘဏ်-vocabulary-bank)
 
+- **Advocate** <span class="vocab-tag">Verb / Noun</span>
+  - *English:* To publicly support, recommend, or fight for resources, assistance, or decisions on behalf of the team.
+  - *မြန်မာပြန်:* မိမိအသင်းသားများအတွက် လိုအပ်သော အရင်းအမြစ်များနှင့် အထောက်အပံ့များကို ရှေ့နေလိုက်၍ တောင်းဆိုရပ်တည်ပေးသည်။
+  - *သင်ခန်းစာ:* [Lesson 2.4](/course-1-foundations/module-2/lesson-4-how-project-managers-impact-organizations#၅-အရေးကြီး-ဝေါဟာရဘဏ်-vocabulary-bank)
+
 - **AI Principles** <span class="vocab-tag">Proper Noun</span>
   - *English:* Google's ethical guidelines governing artificial intelligence research and products.
   - *မြန်မာပြန်:* Google က ချမှတ်ထားသော ဉာဏ်ရည်တု နည်းပညာဆိုင်ရာ ကျင့်ဝတ်စည်းမျဉ်း အခြေခံမူများ။
@@ -86,6 +91,16 @@ Google Project Management Certificate တွင် တွေ့ကြုံရ�
   - *English:* A large physical chain store occupying expansive floor space and selling a wide range of merchandise in bulk.
   - *မြန်မာပြန်:* ဧရိယာအကျယ်အဝန်း ကြီးမားသော စူပါမားကတ် သို့မဟုတ် ကုန်စုံစတိုးဆိုင်ကြီး။
   - *သင်ခန်းစာ:* [Lesson 1.11](/course-1-foundations/module-1/lesson-11-gilbert-project-management-skills-in-my-role#၅-အရေးကြီး-ဝေါဟာရဘဏ်-vocabulary-bank)
+
+- **Big Picture Goal** <span class="vocab-tag">Noun Phrase</span>
+  - *English:* The overarching, ultimate business objective or strategic purpose of a project beyond individual tasks.
+  - *မြန်မာပြန်:* သီးခြား လုပ်ငန်းတာဝန်ငယ်များထက် ကျော်လွန်သော ပရောဂျက်တစ်ခုလုံး၏ မျက်နှာကျက်ကျယ် အန္တိမ ရည်မှန်းချက်။
+  - *သင်ခန်းစာ:* [Lesson 2.4](/course-1-foundations/module-2/lesson-4-how-project-managers-impact-organizations#၅-အရေးကြီး-ဝေါဟာရဘဏ်-vocabulary-bank)
+
+- **Break Down Barriers** <span class="vocab-tag">Verb Phrase</span>
+  - *English:* To remove procedural obstacles, bureaucratic silos, and rigid mindsets that prevent progress or innovation.
+  - *မြန်မာပြန်:* လုပ်ငန်းတိုးတက်မှုနှင့် ဆန်းသစ်တီထွင်မှုကို ဟန့်တားနေသော အတားအဆီးများနှင့် ရိုးရာအစွဲများကို ဖြိုခွင်းဖယ်ရှားသည်။
+  - *သင်ခန်းစာ:* [Lesson 2.4](/course-1-foundations/module-2/lesson-4-how-project-managers-impact-organizations#၅-အရေးကြီး-ဝေါဟာရဘဏ်-vocabulary-bank)
 
 - **Budgeting** <span class="vocab-tag">Noun</span>
   - *English:* The process of estimating, allocating, and controlling financial resources for a project.
@@ -300,6 +315,11 @@ Google Project Management Certificate တွင် တွေ့ကြုံရ�
   - *မြန်မာပြန်:* ကိုးကားနှိုင်းယှဉ်နိုင်ရန် ပြုလုပ်ထားသော စံပြ စံနမူနာ ဖန်တီးချက်။
   - *သင်ခန်းစာ:* [Lesson 1.1](/course-1-foundations/module-1/lesson-1-program-and-course-overview#၄-အင်္ဂလိပ်-ဝေါဟာရနှင့်-အသုံးအနှုန်းများ-vocabulary-terminology-bank)
 
+- **External Customer** <span class="vocab-tag">Noun Phrase</span>
+  - *English:* A client, contractor, vendor, or end consumer outside the organization for whom the project is created.
+  - *မြန်မာပြန်:* ကုမ္ပဏီအဖွဲ့အစည်း ပြင်ပရှိ အလုပ်အပ်နှံသူ၊ ဝန်ဆောင်မှုရယူသူ သို့မဟုတ် ကုန်ပစ္စည်းသုံးစွဲသူ ဖောက်သည်။
+  - *သင်ခန်းစာ:* [Lesson 2.4](/course-1-foundations/module-2/lesson-4-how-project-managers-impact-organizations#၅-အရေးကြီး-ဝေါဟာရဘဏ်-vocabulary-bank)
+
 ### F
 - **Facilitate** <span class="vocab-tag">Verb</span>
   - *English:* To make an action or process easy or easier to happen.
@@ -325,6 +345,11 @@ Google Project Management Certificate တွင် တွေ့ကြုံရ�
   - *English:* An initial modest opening that provides a chance to progress to greater opportunities.
   - *မြန်မာပြန်:* နယ်ပယ်တစ်ခုအတွင်းသို့ စတင်ခြေချခွင့်ရရှိခြင်း။
   - *သင်ခန်းစာ:* [Lesson 1.8](/course-1-foundations/module-1/lesson-8-from-certificate-to-career-success#၄-အရေးကြီး-ဝေါဟာရဘဏ်-vocabulary-bank)
+
+- **Foster Relationships** <span class="vocab-tag">Verb Phrase</span>
+  - *English:* To encourage, nurture, and develop strong mutual trust and professional bonds between people.
+  - *မြန်မာပြန်:* လုပ်ဖော်ကိုင်ဖက်များနှင့် Stakeholder များအကြား ခိုင်မာသော ဆက်ဆံရေးနှင့် ယုံကြည်မှုကို ပျိုးထောင်တည်ဆောက်သည်။
+  - *သင်ခန်းစာ:* [Lesson 2.4](/course-1-foundations/module-2/lesson-4-how-project-managers-impact-organizations#၅-အရေးကြီး-ဝေါဟာရဘဏ်-vocabulary-bank)
 
 - **Foundations** <span class="vocab-tag">Noun</span>
   - *English:* The fundamental principles, basis, or grounding of a subject.
@@ -434,6 +459,11 @@ Google Project Management Certificate တွင် တွေ့ကြုံရ�
   - *မြန်မာပြန်:* အလုပ်လျှောက်ရန် မဟုတ်ဘဲ နယ်ပယ်တစ်ခုအကြောင်း ဗဟုသုတနှင့် လမ်းညွှန်ချက်များ မေးမြန်းလေ့လာသည့် စကားဝိုင်း။
   - *သင်ခန်းစာ:* [Lesson 1.11](/course-1-foundations/module-1/lesson-11-gilbert-project-management-skills-in-my-role#၅-အရေးကြီး-ဝေါဟာရဘဏ်-vocabulary-bank)
 
+- **Ingenuity** <span class="vocab-tag">Noun</span>
+  - *English:* The quality of being clever, original, inventive, and resourceful in solving problems.
+  - *မြန်မာပြန်:* ပြဿနာများကို ဉာဏ်ပညာရှိရှိ ဆန်းသစ်စွာ ဖြေရှင်းနိုင်စွမ်း၊ တီထွင်ဖန်တီးနိုင်စွမ်း။
+  - *သင်ခန်းစာ:* [Lesson 2.4](/course-1-foundations/module-2/lesson-4-how-project-managers-impact-organizations#၅-အရေးကြီး-ဝေါဟာရဘဏ်-vocabulary-bank)
+
 - **Innovating Responsibly** <span class="vocab-tag">Phrase</span>
   - *English:* Creating new technologies while actively considering societal impact and ethics.
   - *မြန်မာပြန်:* လူမှုအသိုက်အဝန်းအပေါ် သက်ရောက်မှုနှင့် ကျင့်ဝတ်များကို အလေးထားကာ တာဝန်ယူမှုရှိစွာ တီထွင်ဆန်းသစ်ခြင်း။
@@ -448,6 +478,11 @@ Google Project Management Certificate တွင် တွေ့ကြုံရ�
   - *English:* Done deliberately with conscious purpose and strategic design.
   - *မြန်မာပြန်:* ရည်ရွယ်ချက်ရှိရှိ စနစ်တကျ ပြုလုပ်သော။
   - *သင်ခန်းစာ:* [Lesson 1.7](/course-1-foundations/module-1/lesson-7-x-path-to-becoming-a-project-manager#၄-အရေးကြီး-ဝေါဟာရဘဏ်-vocabulary-bank)
+
+- **Internal Customer** <span class="vocab-tag">Noun Phrase</span>
+  - *English:* A stakeholder, manager, or department within the same organization who relies on or defines project deliverables.
+  - *မြန်မာပြန်:* ကုမ္ပဏီအဖွဲ့အစည်း အတွင်းရှိ ပရောဂျက်ရလဒ်ကို လက်ခံအသုံးပြုမည့် သို့မဟုတ် လိုအပ်ချက် သတ်မှတ်ပေးသည့် ဖောက်သည်။
+  - *သင်ခန်းစာ:* [Lesson 2.4](/course-1-foundations/module-2/lesson-4-how-project-managers-impact-organizations#၅-အရေးကြီး-ဝေါဟာရဘဏ်-vocabulary-bank)
 
 - **Internship** <span class="vocab-tag">Noun</span>
   - *English:* A temporary training position giving students or beginners practical industry experience.
@@ -869,6 +904,11 @@ Google Project Management Certificate တွင် တွေ့ကြုံရ�
   - *မြန်မာပြန်:* အခြေအနေကောင်းများ ကြိုတင်ဖန်တီးပြင်ဆင်ပေးသည်။
   - *သင်ခန်းစာ:* [Lesson 1.0](/course-1-foundations/module-1/lesson-0-welcome-to-google-pm#၄-အင်္ဂလိပ်-ဝေါဟာရနှင့်-အသုံးအနှုန်းများ-vocabulary-terminology-bank)
 
+- **Set the tone** <span class="vocab-tag">Idiom / Phrase</span>
+  - *English:* To establish the general mood, attitude, standards, or working atmosphere for a group or project.
+  - *မြန်မာပြန်:* အဖွဲ့ သို့မဟုတ် ပရောဂျက်တစ်ခုလုံးအတွက် အလုပ်လုပ်ကိုင်လိုစိတ်နှင့် အပြုသဘောဆောင်သော စံနှုန်းများကို စတင်လမ်းဖောက် ချမှတ်ပေးသည်။
+  - *သင်ခန်းစာ:* [Lesson 2.4](/course-1-foundations/module-2/lesson-4-how-project-managers-impact-organizations#၅-အရေးကြီး-ဝေါဟာရဘဏ်-vocabulary-bank)
+
 - **Set yourself apart** <span class="vocab-tag">Idiom</span>
   - *English:* To distinguish oneself and appear notably superior or unique among competitors.
   - *မြန်မာပြန်:* အခြားသူများထက် ပိုမိုထင်ပေါ် ထူးခြားစေသည်။
@@ -913,6 +953,11 @@ Google Project Management Certificate တွင် တွေ့ကြုံရ�
   - *English:* Anyone who has an interest in or is affected by the outcome of a project.
   - *မြန်မာပြန်:* ပရောဂျက်၏ ရလဒ်နှင့် ပတ်သက်ဆက်နွှယ်နေသူ (အကျိုးတူ သက်ဆိုင်သူများ)။
   - *သင်ခန်းစာ:* [Lesson 1.4](/course-1-foundations/module-1/lesson-4-what-is-project-management#၄-အင်္ဂလိပ်-ဝေါဟာရနှင့်-အသုံးအနှုန်းများ-vocabulary-terminology-bank), [Lesson 2.2](/course-1-foundations/module-2/lesson-2-the-value-of-a-project-manager#၅-အရေးကြီး-ဝေါဟာရဘဏ်-vocabulary-bank)
+
+- **Status Quo** <span class="vocab-tag">Phrase</span>
+  - *English:* The existing state of affairs or traditional way of doing things without change ("Because we've always done it this way").
+  - *မြန်မာပြန်:* လက်ရှိဖြစ်ပျက်နေသော အခြေအနေ သို့မဟုတ် ပြုပြင်ပြောင်းလဲမှုမရှိဘဲ ယခင်အတိုင်း ဆက်လုပ်နေသည့် ရိုးရာအစဉ်အလာ အစွဲ။
+  - *သင်ခန်းစာ:* [Lesson 2.4](/course-1-foundations/module-2/lesson-4-how-project-managers-impact-organizations#၅-အရေးကြီး-ဝေါဟာရဘဏ်-vocabulary-bank)
 
 - **Success Criteria** <span class="vocab-tag">Phrase</span>
   - *English:* The standards or conditions that determine whether a project is successful.
