@@ -9,7 +9,8 @@
 | သင်ခန်းစာ (Lesson) | ခေါင်းစဉ် (Topic) | အခြေအနေ | Link |
 |---|---|:---:|:---:|
 | **Lesson 2.1** | Introduction: Becoming an Effective Project Manager (Module 2 မိတ်ဆက်) | ✅ ပြီးစီး | [ဖတ်ရှုရန်](/course-1-foundations/module-2/lesson-1-introduction-becoming-an-effective-project-manager) |
-| **Lesson 2.2** | Next Module 2 Topic | ⏳ မကြာမီ | - |
+| **Lesson 2.2** | The Value of a Project Manager (PM တစ်ဦး၏ တန်ဖိုးနှင့် အကျိုးပြုပုံ) | ✅ ပြီးစီး | [ဖတ်ရှုရန်](/course-1-foundations/module-2/lesson-2-the-value-of-a-project-manager) |
+| **Lesson 2.3** | Next Module 2 Topic | ⏳ မကြာမီ | - |
 
 ---
 

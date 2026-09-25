@@ -118,6 +118,11 @@ Google Project Management Certificate တွင် တွေ့ကြုံရ�
   - *မြန်မာပြန်:* ကွန်ရက်ကို ကျယ်ကျယ်ပြန့်ပြန့် ဖြန့်ကြက်ရှာဖွေသည်။
   - *သင်ခန်းစာ:* [Lesson 1.8](/course-1-foundations/module-1/lesson-8-from-certificate-to-career-success#၄-အရေးကြီး-ဝေါဟာရဘဏ်-vocabulary-bank)
 
+- **Caught off guard** <span class="vocab-tag">Idiom</span>
+  - *English:* Surprised, unprepared, or taken unaware by an unexpected event or announcement.
+  - *မြန်မာပြန်:* မမျှော်လင့်ဘဲ အလစ်အငိုက် မိသွားသည်၊ ကြိုတင်မသိရှိဘဲ အခက်ကြုံရသည်။
+  - *သင်ခန်းစာ:* [Lesson 2.2](/course-1-foundations/module-2/lesson-2-the-value-of-a-project-manager#၅-အရေးကြီး-ဝေါဟာရဘဏ်-vocabulary-bank)
+
 - **Certificate** <span class="vocab-tag">Noun</span>
   - *English:* An official document or credential attesting to the completion of a course or training.
   - *မြန်မာပြန်:* သင်တန်း သို့မဟုတ် သင်ရိုးတစ်ခုကို အောင်မြင်စွာ ပြီးဆုံးကြောင်း အသိအမှတ်ပြု လက်မှတ်။
@@ -199,6 +204,11 @@ Google Project Management Certificate တွင် တွေ့ကြုံရ�
   - *မြန်မာပြန်:* နေ့စဉ်လုပ်ရိုးလုပ်စဉ်ဖြစ်သော။
   - *သင်ခန်းစာ:* [Lesson 1.5](/course-1-foundations/module-1/lesson-5-what-does-a-project-manager-do#၄-အရေးကြီး-ဝေါဟာရဘဏ်-vocabulary-bank)
 
+- **Delegation** <span class="vocab-tag">Noun</span>
+  - *English:* The assignment of responsibility and authority to another person to carry out specific activities.
+  - *မြန်မာပြန်:* အလုပ်တာဝန်နှင့် လုပ်ပိုင်ခွင့်များကို အသင့်တော်ဆုံးသူထံ စနစ်တကျ ခွဲဝေလွှဲအပ်ခြင်း။
+  - *သင်ခန်းစာ:* [Lesson 2.2](/course-1-foundations/module-2/lesson-2-the-value-of-a-project-manager#၅-အရေးကြီး-ဝေါဟာရဘဏ်-vocabulary-bank)
+
 - **Deliverable** <span class="vocab-tag">Noun</span>
   - *English:* A tangible or intangible product or service produced as a result of a project.
   - *မြန်မာပြန်:* ပရောဂျက်တစ်ခုမှ ရလဒ်အဖြစ် ထွက်ပေါ်လာရမည့် ပစ္စည်း၊ အစီရင်ခံစာ သို့မဟုတ် ဝန်ဆောင်မှု (အပ်နှံရမည့် ရလဒ်)။
@@ -223,6 +233,11 @@ Google Project Management Certificate တွင် တွေ့ကြုံရ�
   - *English:* Showing steady, earnest, and energetic effort; hardworking.
   - *မြန်မာပြန်:* ဝီရိယရှိသော၊ လုံ့လစိုက်ထုတ်သော၊ စေ့စပ်သေချာသော။
   - *သင်ခန်းစာ:* [Lesson 1.0](/course-1-foundations/module-1/lesson-0-welcome-to-google-pm#၄-အင်္ဂလိပ်-ဝေါဟာရနှင့်-အသုံးအနှုန်းများ-vocabulary-terminology-bank)
+
+- **Drop Cloth** <span class="vocab-tag">Noun Phrase</span>
+  - *English:* A large sheet of fabric or plastic spread over floors and furniture to protect them from paint drips.
+  - *မြန်မာပြန်:* ဆေးသုတ်ရာတွင် ကြမ်းပြင်နှင့် ပရိဘောဂများ မပေကျံစေရန် အောက်တွင် ခင်းထားရသော အကာအကွယ် အခင်းပြား။
+  - *သင်ခန်းစာ:* [Lesson 2.2](/course-1-foundations/module-2/lesson-2-the-value-of-a-project-manager#၅-အရေးကြီး-ဝေါဟာရဘဏ်-vocabulary-bank)
 
 - **Drop out** <span class="vocab-tag">Phrasal Verb</span>
   - *English:* To quit, abandon, or leave school or university before graduating.
@@ -364,6 +379,11 @@ Google Project Management Certificate တွင် တွေ့ကြုံရ�
   - *မြန်မာပြန်:* ဥပမာပြ၍ ပိုမိုမြင်သာ ရှင်းလင်းစေသည်။
   - *သင်ခန်းစာ:* [Lesson 1.2](/course-1-foundations/module-1/lesson-2-introduction-to-course-1#၄-အင်္ဂလိပ်-ဝေါဟာရနှင့်-အသုံးအနှုန်းများ-vocabulary-terminology-bank)
 
+- **Impeccable** <span class="vocab-tag">Adjective</span>
+  - *English:* Flawless, exemplary, in accordance with the highest standards; faultless.
+  - *မြန်မာပြန်:* ချွတ်ယွင်းချက်မရှိ အပြစ်ဆိုဖွယ်မရှိသော၊ စံနမူနာပြ ထူးချွန်သော။
+  - *သင်ခန်းစာ:* [Lesson 2.2](/course-1-foundations/module-2/lesson-2-the-value-of-a-project-manager#၅-အရေးကြီး-ဝေါဟာရဘဏ်-vocabulary-bank)
+
 - **Imposter Syndrome** <span class="vocab-tag">Noun Phrase</span>
   - *English:* The persistent psychological feeling of doubting one's skills, accomplishments, or competence and fearing exposure as a fraud.
   - *မြန်မာပြန်:* မိမိကိုယ်ကို အရည်အချင်းမရှိဟု သံသယဝင်ပြီး အခြားသူများက မိမိကို အထင်ကြီးလွန်းနေသည်ဟု စိုးရိမ်စိတ်အားငယ်ခြင်း။
@@ -503,6 +523,11 @@ Google Project Management Certificate တွင် တွေ့ကြုံရ�
   - *မြန်မာပြန်:* လူအင်အား သို့မဟုတ် အရင်းအမြစ်များကို စုစည်းလှုံ့ဆော်သည်။
   - *သင်ခန်းစာ:* [Lesson 1.0](/course-1-foundations/module-1/lesson-0-welcome-to-google-pm#၄-အင်္ဂလိပ်-ဝေါဟာရနှင့်-အသုံးအနှုန်းများ-vocabulary-terminology-bank)
 
+- **Molding** <span class="vocab-tag">Noun</span>
+  - *English:* Decorative woodwork or plaster strips running along the walls, ceiling, or floors of a room.
+  - *မြန်မာပြန်:* အခန်းနံရံ၊ မျက်နှာကျက် သို့မဟုတ် ကြမ်းခင်းစွန်းများတွင် အလှတပ်ဆင်ထားသော သစ်သားကွပ်/အနားကွပ်များ။
+  - *သင်ခန်းစာ:* [Lesson 2.2](/course-1-foundations/module-2/lesson-2-the-value-of-a-project-manager#၅-အရေးကြီး-ဝေါဟာရဘဏ်-vocabulary-bank)
+
 - **Monthly Status Reports** <span class="vocab-tag">Noun Phrase</span>
   - *English:* Formal monthly project updates detailing milestones achieved, current progress, risks, and next steps.
   - *မြန်မာပြန်:* လစဉ် ပရောဂျက်တိုးတက်မှု၊ အောင်မြင်မှုများနှင့် စိန်ခေါ်မှုများကို အသေးစိတ်တင်ပြသော အစီရင်ခံစာ။
@@ -641,10 +666,20 @@ Google Project Management Certificate တွင် တွေ့ကြုံရ�
   - *မြန်မာပြန်:* PM ကို ရာထူးတစ်ခုအနေဖြင့်သာမက မည်သည့်အလုပ်တွင်မဆို အသုံးချနိုင်သည့် စွမ်းရည်တစ်ခုအဖြစ် ရှုမြင်ခြင်း။
   - *သင်ခန်းစာ:* [Lesson 1.2](/course-1-foundations/module-1/lesson-2-introduction-to-course-1#၄-အင်္ဂလိပ်-ဝေါဟာရနှင့်-အသုံးအနှုန်းများ-vocabulary-terminology-bank), [Lesson 1.10](/course-1-foundations/module-1/lesson-10-finding-the-perfect-role#၅-အရေးကြီး-ဝေါဟာရဘဏ်-vocabulary-bank)
 
+- **Preliminary Steps** <span class="vocab-tag">Noun Phrase</span>
+  - *English:* Preparatory, initial actions or prerequisites that must occur before the main work can begin.
+  - *မြန်မာပြန်:* ပင်မလုပ်ငန်း မစတင်မီ မဖြစ်မနေ ကြိုတင်လုပ်ဆောင်ထားရမည့် ပြင်ဆင်မှု အဆင့်များ။
+  - *သင်ခန်းစာ:* [Lesson 2.2](/course-1-foundations/module-2/lesson-2-the-value-of-a-project-manager#၅-အရေးကြီး-ဝေါဟာရဘဏ်-vocabulary-bank)
+
 - **Preview** <span class="vocab-tag">Verb</span>
   - *English:* To view, describe, or show something in advance before the full release.
   - *မြန်မာပြန်:* အပြည့်အစုံမစတင်မီ ကြိုတင် မိတ်ဆက်ပြသသည်။
   - *သင်ခန်းစာ:* [Lesson 1.2](/course-1-foundations/module-1/lesson-2-introduction-to-course-1#၄-အင်္ဂလိပ်-ဝေါဟာရနှင့်-အသုံးအနှုန်းများ-vocabulary-terminology-bank)
+
+- **Prioritization** <span class="vocab-tag">Noun</span>
+  - *English:* The process of arranging tasks or steps in order of their importance, urgency, or logical sequence.
+  - *မြန်မာပြန်:* လုပ်ငန်းတာဝန်များကို အရေးကြီးမှုနှင့် အရေးတကြီး လိုအပ်မှုအလိုက် ဦးစားပေးအဆင့် သတ်မှတ်ခြင်း။
+  - *သင်ခန်းစာ:* [Lesson 2.2](/course-1-foundations/module-2/lesson-2-the-value-of-a-project-manager#၅-အရေးကြီး-ဝေါဟာရဘဏ်-vocabulary-bank)
 
 - **Product Owner** <span class="vocab-tag">Noun Phrase</span>
   - *English:* The person in an Agile team responsible for maximizing product value, owning the vision, and managing the product backlog.
@@ -814,15 +849,20 @@ Google Project Management Certificate တွင် တွေ့ကြုံရ�
   - *မြန်မာပြန်:* စွမ်းရည်တစ်ခုကို ပိုမိုထက်မြက်အောင် သွေးယူလေ့ကျင့်သည်။
   - *သင်ခန်းစာ:* [Lesson 1.6](/course-1-foundations/module-1/lesson-6-transferable-project-management-skills#၄-အရေးကြီး-ဝေါဟာရဘဏ်-vocabulary-bank)
 
-- **Skills Gap** <span class="vocab-tag">Noun Phrase</span>
-  - *English:* The difference between the skills a person currently possesses and the skills required for a target job.
-  - *မြန်မာပြန်:* မိမိလက်ရှိ တတ်မြောက်ထားသော စွမ်းရည်နှင့် လိုချင်သောအလုပ်အတွက် လိုအပ်နေသော စွမ်းရည်တို့အကြား ကွာဟချက်။
-  - *သင်ခန်းစာ:* [Lesson 2.1](/course-1-foundations/module-2/lesson-1-introduction-becoming-an-effective-project-manager#၅-အရေးကြီး-ဝေါဟာရဘဏ်-vocabulary-bank)
+- **Shepherd** <span class="vocab-tag">Verb</span>
+  - *English:* To guide, direct, protect, and tend to a project or team from inception to completion.
+  - *မြန်မာပြန်:* ပရောဂျက်တစ်ခုကို အစမှ အဆုံးတိုင် စနစ်တကျ ထိန်းကျောင်း စောင့်ရှောက် လမ်းပြပေးသည်။
+  - *သင်ခန်းစာ:* [Lesson 2.2](/course-1-foundations/module-2/lesson-2-the-value-of-a-project-manager#၅-အရေးကြီး-ဝေါဟာရဘဏ်-vocabulary-bank)
 
 - **Simultaneously** <span class="vocab-tag">Adverb</span>
   - *English:* Happening, existing, or done at the exact same moment.
   - *မြန်မာပြန်:* တစ်ပြိုင်နက်တည်း၊ တစ်ချိန်တည်းတွင်။
   - *သင်ခန်းစာ:* [Lesson 1.6](/course-1-foundations/module-1/lesson-6-transferable-project-management-skills#၄-အရေးကြီး-ဝေါဟာရဘဏ်-vocabulary-bank)
+
+- **Skills Gap** <span class="vocab-tag">Noun Phrase</span>
+  - *English:* The difference between the skills a person currently possesses and the skills required for a target job.
+  - *မြန်မာပြန်:* မိမိလက်ရှိ တတ်မြောက်ထားသော စွမ်းရည်နှင့် လိုချင်သောအလုပ်အတွက် လိုအပ်နေသော စွမ်းရည်တို့အကြား ကွာဟချက်။
+  - *သင်ခန်းစာ:* [Lesson 2.1](/course-1-foundations/module-2/lesson-1-introduction-becoming-an-effective-project-manager#၅-အရေးကြီး-ဝေါဟာရဘဏ်-vocabulary-bank)
 
 - **Sort through** <span class="vocab-tag">Phrasal Verb</span>
   - *English:* To look at a number of things closely in order to organize them, resolve confusion, or find what you want.
@@ -842,7 +882,7 @@ Google Project Management Certificate တွင် တွေ့ကြုံရ�
 - **Stakeholder** <span class="vocab-tag">Noun</span>
   - *English:* Anyone who has an interest in or is affected by the outcome of a project.
   - *မြန်မာပြန်:* ပရောဂျက်၏ ရလဒ်နှင့် ပတ်သက်ဆက်နွှယ်နေသူ (အကျိုးတူ သက်ဆိုင်သူများ)။
-  - *သင်ခန်းစာ:* [Lesson 1.4](/course-1-foundations/module-1/lesson-4-what-is-project-management#၄-အင်္ဂလိပ်-ဝေါဟာရနှင့်-အသုံးအနှုန်းများ-vocabulary-terminology-bank)
+  - *သင်ခန်းစာ:* [Lesson 1.4](/course-1-foundations/module-1/lesson-4-what-is-project-management#၄-အင်္ဂလိပ်-ဝေါဟာရနှင့်-အသုံးအနှုန်းများ-vocabulary-terminology-bank), [Lesson 2.2](/course-1-foundations/module-2/lesson-2-the-value-of-a-project-manager#၅-အရေးကြီး-ဝေါဟာရဘဏ်-vocabulary-bank)
 
 - **Success Criteria** <span class="vocab-tag">Phrase</span>
   - *English:* The standards or conditions that determine whether a project is successful.
@@ -900,6 +940,11 @@ Google Project Management Certificate တွင် တွေ့ကြုံရ�
   - *မြန်မာပြန်:* လုပ်ငန်းတစ်ခုပြီးစီးရန် ကြာမြင့်မည့် အချိန်ကာလ ခန့်မှန်းတွက်ချက်မှုများ။
   - *သင်ခန်းစာ:* [Lesson 1.1](/course-1-foundations/module-1/lesson-1-program-and-course-overview#၄-အင်္ဂလိပ်-ဝေါဟာရနှင့်-အသုံးအနှုန်းများ-vocabulary-terminology-bank)
 
+- **Timeframe** <span class="vocab-tag">Noun</span>
+  - *English:* The agreed-upon period or duration within which a project or task must be executed.
+  - *မြန်မာပြန်:* ပရောဂျက် သို့မဟုတ် တာဝန်တစ်ခုကို ပြီးမြောက်အောင် ဆောင်ရွက်ရမည့် သတ်မှတ်ကာလဘောင်။
+  - *သင်ခန်းစာ:* [Lesson 2.2](/course-1-foundations/module-2/lesson-2-the-value-of-a-project-manager#၅-အရေးကြီး-ဝေါဟာရဘဏ်-vocabulary-bank)
+
 - **Transferable Skills** <span class="vocab-tag">Phrase</span>
   - *English:* Skills and abilities developed in one area that can be applied effectively in a different role or field.
   - *မြန်မာပြန်:* ယခင် အလုပ် သို့မဟုတ် ဘဝအတွေ့အကြုံမှ ရရှိခဲ့ပြီး အခြားနယ်ပယ်အသစ်သို့ ယူဆောင်အသုံးချနိုင်သော အရည်အချင်းများ။
@@ -909,6 +954,11 @@ Google Project Management Certificate တွင် တွေ့ကြုံရ�
   - *English:* The process or passage of changing from one condition, role, or stage to another.
   - *မြန်မာပြန်:* အခန်းကဏ္ဍတစ်ခုမှ အခြားတစ်ခုသို့ ကူးပြောင်းခြင်း။
   - *သင်ခန်းစာ:* [Lesson 1.7](/course-1-foundations/module-1/lesson-7-x-path-to-becoming-a-project-manager#၄-အရေးကြီး-ဝေါဟာရဘဏ်-vocabulary-bank)
+
+- **Transparency** <span class="vocab-tag">Noun</span>
+  - *English:* The practice of being open, honest, and accessible with project plans, data, decisions, and progress.
+  - *မြန်မာပြန်:* ပရောဂျက် အစီအစဉ်များနှင့် အချက်အလက်များကို ဖုံးကွယ်မထားဘဲ အားလုံးမြင်သာ ပွင့်လင်းစေခြင်း။
+  - *သင်ခန်းစာ:* [Lesson 2.2](/course-1-foundations/module-2/lesson-2-the-value-of-a-project-manager#၅-အရေးကြီး-ဝေါဟာရဘဏ်-vocabulary-bank)
 
 ### U
 - **Underway** <span class="vocab-tag">Adjective</span>
