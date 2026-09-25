@@ -82,6 +82,7 @@ export default defineConfig({
                 { text: 'Module 2 Overview', link: '/course-1-foundations/module-2/' },
                 { text: '2.1 Intro: Becoming an Effective PM', link: '/course-1-foundations/module-2/lesson-1-introduction-becoming-an-effective-project-manager' },
                 { text: '2.2 The Value of a PM', link: '/course-1-foundations/module-2/lesson-2-the-value-of-a-project-manager' },
+                { text: '2.3 Path to Becoming a PM (JuAnne)', link: '/course-1-foundations/module-2/lesson-3-juanne-path-to-becoming-a-project-manager' },
               ]
             },
             {

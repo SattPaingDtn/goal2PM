@@ -92,6 +92,11 @@ Google Project Management Certificate တွင် တွေ့ကြုံရ�
   - *မြန်မာပြန်:* ဘတ်ဂျက် လျာထားသတ်မှတ်ခြင်းနှင့် စီမံခန့်ခွဲခြင်း။
   - *သင်ခန်းစာ:* [Lesson 1.5](/course-1-foundations/module-1/lesson-5-what-does-a-project-manager-do#၄-အရေးကြီး-ဝေါဟာရဘဏ်-vocabulary-bank)
 
+- **Business Systems Analyst (BSA)** <span class="vocab-tag">Noun Phrase</span>
+  - *English:* A professional who analyzes business needs and translates them into technical requirements and specifications for developers.
+  - *မြန်မာပြန်:* ဖောက်သည်၏ စီးပွားရေး လိုအပ်ချက်များကို နည်းပညာ စနစ်အဖြစ် အကောင်အထည်ဖော်နိုင်ရန် သုံးသပ်ချိတ်ဆက်ပေးသူ။
+  - *သင်ခန်းစာ:* [Lesson 2.3](/course-1-foundations/module-2/lesson-3-juanne-path-to-becoming-a-project-manager#၅-အရေးကြီး-ဝေါဟာရဘဏ်-vocabulary-bank)
+
 - **Buzzwords** <span class="vocab-tag">Noun (pl)</span>
   - *English:* Terms or phrases that become highly fashionable and widely used in a specific industry.
   - *မြန်မာပြန်:* လုပ်ငန်းနယ်ပယ်တစ်ခုတွင် အသုံးများသော ခေတ်စားသည့် စကားလုံးများ။
@@ -234,6 +239,11 @@ Google Project Management Certificate တွင် တွေ့ကြုံရ�
   - *မြန်မာပြန်:* ဝီရိယရှိသော၊ လုံ့လစိုက်ထုတ်သော၊ စေ့စပ်သေချာသော။
   - *သင်ခန်းစာ:* [Lesson 1.0](/course-1-foundations/module-1/lesson-0-welcome-to-google-pm#၄-အင်္ဂလိပ်-ဝေါဟာရနှင့်-အသုံးအနှုန်းများ-vocabulary-terminology-bank)
 
+- **Documentation** <span class="vocab-tag">Noun</span>
+  - *English:* Written, formal records or specifications describing software functions, project plans, and architectural requirements.
+  - *မြန်မာပြန်:* ဆော့ဖ်ဝဲလ် သို့မဟုတ် ပရောဂျက်ဆိုင်ရာ နည်းပညာ အသေးစိတ်ကို ရေးသားထားသော တရားဝင် စာရွက်စာတမ်း မှတ်တမ်းများ။
+  - *သင်ခန်းစာ:* [Lesson 2.3](/course-1-foundations/module-2/lesson-3-juanne-path-to-becoming-a-project-manager#၅-အရေးကြီး-ဝေါဟာရဘဏ်-vocabulary-bank)
+
 - **Drop Cloth** <span class="vocab-tag">Noun Phrase</span>
   - *English:* A large sheet of fabric or plastic spread over floors and furniture to protect them from paint drips.
   - *မြန်မာပြန်:* ဆေးသုတ်ရာတွင် ကြမ်းပြင်နှင့် ပရိဘောဂများ မပေကျံစေရန် အောက်တွင် ခင်းထားရသော အကာအကွယ် အခင်းပြား။
@@ -296,10 +306,20 @@ Google Project Management Certificate တွင် တွေ့ကြုံရ�
   - *မြန်မာပြန်:* လုပ်ငန်းစဉ်တစ်ခု ချောမွေ့လွယ်ကူစေရန် ကူညီထောက်ပံ့ပေးသည်။
   - *သင်ခန်းစာ:* [Lesson 1.4](/course-1-foundations/module-1/lesson-4-what-is-project-management#၄-အင်္ဂလိပ်-ဝေါဟာရနှင့်-အသုံးအနှုန်းများ-vocabulary-terminology-bank)
 
+- **Fascinating** <span class="vocab-tag">Adjective</span>
+  - *English:* Extremely interesting, captivating, and engaging.
+  - *မြန်မာပြန်:* အလွန်စိတ်ဝင်စားဖွယ် ကောင်းသော၊ စွဲမက်ဖွယ် ဖြစ်သော။
+  - *သင်ခန်းစာ:* [Lesson 2.3](/course-1-foundations/module-2/lesson-3-juanne-path-to-becoming-a-project-manager#၅-အရေးကြီး-ဝေါဟာရဘဏ်-vocabulary-bank)
+
 - **Financial Aid** <span class="vocab-tag">Phrase</span>
   - *English:* Financial support given to students who cannot afford the course fee.
   - *မြန်မာပြန်:* သင်ရိုးကြေး မတတ်နိုင်သော ကျောင်းသားများအတွက် Coursera မှ ပေးအပ်သော ပညာသင် ထောက်ပံ့ကြေး။
   - *သင်ခန်းစာ:* [Lesson 1.3](/course-1-foundations/module-1/lesson-3-helpful-resources-to-get-started#၄-အင်္ဂလိပ်-ဝေါဟာရနှင့်-အသုံးအနှုန်းများ-vocabulary-terminology-bank)
+
+- **First-generation** <span class="vocab-tag">Adjective / Noun</span>
+  - *English:* The first generation of a family to be born in or immigrate to a new country.
+  - *မြန်မာပြန်:* နိုင်ငံသစ်သို့ ပထမဆုံး စတင်ရွှေ့ပြောင်း အခြေချလာသော မျိုးဆက်။
+  - *သင်ခန်းစာ:* [Lesson 2.3](/course-1-foundations/module-2/lesson-3-juanne-path-to-becoming-a-project-manager#၅-အရေးကြီး-ဝေါဟာရဘဏ်-vocabulary-bank)
 
 - **Foot in the door** <span class="vocab-tag">Idiom</span>
   - *English:* An initial modest opening that provides a chance to progress to greater opportunities.
@@ -325,7 +345,7 @@ Google Project Management Certificate တွင် တွေ့ကြုံရ�
 - **Gathering Requirements** <span class="vocab-tag">Phrase</span>
   - *English:* The process of identifying, analyzing, and documenting what the project must deliver.
   - *မြန်မာပြန်:* ပရောဂျက်အတွက် လိုအပ်ချက်များကို ရှာဖွေဖော်ထုတ် စုဆောင်းခြင်း။
-  - *သင်ခန်းစာ:* [Lesson 1.5](/course-1-foundations/module-1/lesson-5-what-does-a-project-manager-do#၄-အရေးကြီး-ဝေါဟာရဘဏ်-vocabulary-bank)
+  - *သင်ခန်းစာ:* [Lesson 1.5](/course-1-foundations/module-1/lesson-5-what-does-a-project-manager-do#၄-အရေးကြီး-ဝေါဟာရဘဏ်-vocabulary-bank), [Lesson 2.3](/course-1-foundations/module-2/lesson-3-juanne-path-to-becoming-a-project-manager#၅-အရေးကြီး-ဝေါဟာရဘဏ်-vocabulary-bank)
 
 - **GED** <span class="vocab-tag">Abbreviation / Noun</span>
   - *English:* General Educational Development; a certificate equivalent to a US high school diploma.
@@ -383,6 +403,11 @@ Google Project Management Certificate တွင် တွေ့ကြုံရ�
   - *English:* Flawless, exemplary, in accordance with the highest standards; faultless.
   - *မြန်မာပြန်:* ချွတ်ယွင်းချက်မရှိ အပြစ်ဆိုဖွယ်မရှိသော၊ စံနမူနာပြ ထူးချွန်သော။
   - *သင်ခန်းစာ:* [Lesson 2.2](/course-1-foundations/module-2/lesson-2-the-value-of-a-project-manager#၅-အရေးကြီး-ဝေါဟာရဘဏ်-vocabulary-bank)
+
+- **Implement** <span class="vocab-tag">Verb</span>
+  - *English:* To put a decision, plan, software design, or system into practical effect or execution.
+  - *မြန်မာပြန်:* လက်တွေ့ တည်ဆောက်သည်၊ အကောင်အထည်ဖော် ဆောင်ရွက်သည်။
+  - *သင်ခန်းစာ:* [Lesson 2.3](/course-1-foundations/module-2/lesson-3-juanne-path-to-becoming-a-project-manager#၅-အရေးကြီး-ဝေါဟာရဘဏ်-vocabulary-bank)
 
 - **Imposter Syndrome** <span class="vocab-tag">Noun Phrase</span>
   - *English:* The persistent psychological feeling of doubting one's skills, accomplishments, or competence and fearing exposure as a fraud.
@@ -768,6 +793,11 @@ Google Project Management Certificate တွင် တွေ့ကြုံရ�
   - *သင်ခန်းစာ:* [Lesson 1.9](/course-1-foundations/module-1/lesson-9-explore-project-management-roles#၅-အရေးကြီး-ဝေါဟာရဘဏ်-vocabulary-bank)
 
 ### R
+- **Receptive** <span class="vocab-tag">Adjective</span>
+  - *English:* Willing to consider or accept new suggestions, ideas, and communication styles favorably.
+  - *မြန်မာပြန်:* အကြံပြုချက်နှင့် ဆက်ဆံပြောဆိုမှုများကို လွယ်ကူစွာ လက်ခံနားထောင်နိုင်သော။
+  - *သင်ခန်းစာ:* [Lesson 2.3](/course-1-foundations/module-2/lesson-3-juanne-path-to-becoming-a-project-manager#၅-အရေးကြီး-ဝေါဟာရဘဏ်-vocabulary-bank)
+
 - **Relocate** <span class="vocab-tag">Verb</span>
   - *English:* To move to a new place or city to live or work.
   - *မြန်မာပြန်:* နေရာသစ် သို့မဟုတ် မြို့သစ်သို့ ပြောင်းရွှေ့အခြေချသည်။
@@ -1012,4 +1042,9 @@ Google Project Management Certificate တွင် တွေ့ကြုံရ�
   - *English:* A scenario, outcome, or agreement advantageous and favorable to all parties involved.
   - *မြန်မာပြန်:* နှစ်ဦးနှစ်ဖက် အပြန်အလှန် အကျိုးရှိသော။
   - *သင်ခန်းစာ:* [Lesson 1.8](/course-1-foundations/module-1/lesson-8-from-certificate-to-career-success#၄-အရေးကြီး-ဝေါဟာရဘဏ်-vocabulary-bank)
+
+- **Working Relationship** <span class="vocab-tag">Noun Phrase</span>
+  - *English:* The interpersonal and professional connection, trust, and collaboration between colleagues or stakeholders.
+  - *မြန်မာပြန်:* လုပ်ဖော်ကိုင်ဖက်များနှင့် အကျိုးတူ သက်ဆိုင်သူများအကြား တည်ဆောက်ထားသော လုပ်ငန်းခွင် ဆက်ဆံရေး။
+  - *သင်ခန်းစာ:* [Lesson 2.3](/course-1-foundations/module-2/lesson-3-juanne-path-to-becoming-a-project-manager#၅-အရေးကြီး-ဝေါဟာရဘဏ်-vocabulary-bank)
 
